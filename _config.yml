@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "David Mohaisen"
   avatar           : "profile.jpg"
-  bio              : "Professor, University of Central Florida"
+  bio              : "Professor"
   location         : "Orlando, Florida, USA"
-  employer         :
+  employer         : "University of Central Florida"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=q387AywAAAAJ&hl=en"
-  email            :
-  researchgate     :  "https://www.researchgate.net/profile/David_Mohaisen" # example: "https://www.researchgate.net/profile/David_Mohaisen"
+  email            : "mohaisen@ucf.edu"
+  researchgate     :  "https://www.researchgate.net/profile/David_Mohaisen" 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       : 
-  github           : "github.com/davidmohaisen"
+  github           : "davidmohaisen"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/amohaisen"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-3227-2505"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          :"https://www.youtube.com/@ucfseal2660"
   wikipedia        :
 
 

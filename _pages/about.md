@@ -25,3 +25,14 @@ I obtained my PhD from the [University of Minnesota](https://twin-cities.umn.edu
 **Recent Updates**
 * I will be on leave during 2023-2024.
 * I am looking for one student to work on VR security.
+
+**Honors and Awards**
+
+* 2022 UCF Teaching Incentive Award for Excellence in Teaching
+* 2022 UCF Research Incentive Award for Excellence in Research
+* 2022 CECS Excellence in Graduate Teaching Award
+* Best Paper Award Nomineee of IEEE VR 2022
+* Best Extended Abstract Award of IEEE DSN 2021
+* Best Student Paper Award Nomineee of ACM ICS 2021
+* Distiniguished TPC member of IEEE INFOCOM (2016-2021)
+* Best Paper Award of IEEE Systems Journal (2020) 

@@ -11,31 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Computer Science, University of Minnesota, 2012
+* M.S. in Computer Science, University of Minnesota, 2011
+* M.S. in Information and Communication Engineering, Inha University, 2007
+* B.S. in Computer Engineering, Islamic University of Gaza, 2004
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **University of Central Florida, Department of Computer Science**
+  * 2022 - date: Full Professor
+  * 2019 - 2022: Tenured Associate Professor
+  * 2017 - 2019: Tenure-track Associate Professor
+* **SUNY Buffalo, Department of Computer Science and Engineering**
+  * 2015 - 2017: Tenure-track Assistant Professor
+* **Air Force Research Lab, Information Assurance Division**
+  * 2017: Visiting Professor
+  * 2016: Visiting Professor
+* **Verisign Inc, Versign Labs**
+  * 2014 - 2015: Senior Research Scientist
+  * 2012 - 2015: Research Scientist  
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}

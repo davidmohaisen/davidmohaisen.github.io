@@ -20,3 +20,4 @@ I obtained my PhD from the [University of Minnesota](https://twin-cities.umn.edu
 Recent Updates
 ------
 * I will be on leave during 2023-2024.
+* I am looking for 1 student to work on VR security.

@@ -9,6 +9,11 @@ redirect_from:
 ---
 My name is David Mohaisen and I am a Full Professor of [Computer Science](https://www.cs.ucf.edu/) at the [University of Central Florida](https://www.ucf.edu/). My research work is in the area of security and privacy and I have been recently focusing on topics such as machine learning and arificial intelligence, software, web, and networked systems, internet of things and wearables, and blockchains. 
 
+  * Network security: NDSS 2023, CCS 2022, DSN 2022, INFOCOM 2020, DSN 2019, ICDCS 2019
+  * Blockchains security: IEEE S&P 2023, ACM CCS 2021, ACM CCS 2021 (b), ICDCS 2021, ICDCS 2019
+  * Wearable security and privacy: IEEE VR 2022, CHI 2022, WPES 2021, ICDCS 2020, NDSS 2018
+  * ML/software security: RAID 2022, ICCV 2021, WPES 2021, PETS 2020, ICDCS 2020, CCS 2018
+
 I obtained my PhD from the [University of Minnesota](https://twin-cities.umn.edu/), in 2012, as a [doctoral dissertation fellow](https://cla.umn.edu/graduate-students/research-creative-inquiry/doctoral-dissertation-fellowship-ddf) where I was advised by [Prof. Yongdae Kim](https://syssec.kaist.ac.kr/~yongdaek/). I spent several years before and after attending Minnesota in the research and development industry, working as a research engineer at [ETRI](https://etri.re.kr/intro.html) and as a (senior) research scientist at Verisign Labs. At UCF, I direct the Security and Analytics Lab (SEAL), where I have been fortunate to mentor, work with, and learn from several hardworking graduate and undergraduate students. 
 
 **Current Services** 

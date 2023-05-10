@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is David Mohaisen and I am a Full Professor of [Computer Science](https://www.cs.ucf.edu/) at the [University of Central Florida](https://www.ucf.edu/). My research work is in the area of security and privacy and I have been recently focusing on machine learning and arificial intelligence, malware analysis, web systems, internet of things, wearables, and blockchains. 
+My name is David Mohaisen and I am a Full Professor of [Computer Science](https://www.cs.ucf.edu/) at the [University of Central Florida](https://www.ucf.edu/). My research work is in the area of security and privacy and I have been recently focusing on topics such as machine learning and arificial intelligence, software, web, and networked systems, internet of things and wearables, and blockchains. 
 
 I obtained my PhD from the [University of Minnesota](https://twin-cities.umn.edu/), in 2012, as a [doctoral dissertation fellow](https://cla.umn.edu/graduate-students/research-creative-inquiry/doctoral-dissertation-fellowship-ddf) where I was advised by [Prof. Yongdae Kim](https://syssec.kaist.ac.kr/~yongdaek/). I spent several years before and after attending Minnesota in the research and development industry, working as a research engineer at [ETRI](https://etri.re.kr/intro.html) and as a (senior) research scientist at Verisign Labs. At UCF, I direct the Security and Analytics Lab (SEAL), where I have been fortunate to mentor, work with, and learn from several hardworking graduate and undergraduate students. 
 

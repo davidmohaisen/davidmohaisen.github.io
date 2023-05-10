@@ -232,7 +232,7 @@
 }
 .ai-ul {
   padding-left: 0;
-  margin-left: 2.14285714em;
+  margin-left: 1.14285714em;
   list-style-type: none;
 }
 .ai-ul > li {
@@ -241,8 +241,8 @@
 .ai-li {
   position: absolute;
   left: -2.14285714em;
-  width: 2.14285714em;
-  top: 0.14285714em;
+  width: 1.14285714em;
+  top: 0.04285714em;
   text-align: center;
 }
 .ai-li.fa-lg {
@@ -301,8 +301,8 @@
 .fa-li {
   position: absolute;
   left: -2.14285714em;
-  width: 2.14285714em;
-  top: 0.14285714em;
+  width: 1.14285714em;
+  top: 0.04285714em;
   text-align: center;
 }
 .fa-li.fa-lg {

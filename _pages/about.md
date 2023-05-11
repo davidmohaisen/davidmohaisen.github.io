@@ -9,10 +9,10 @@ redirect_from:
 ---
 My name is David Mohaisen[^1] and I am a Full Professor of [Computer Science](https://www.cs.ucf.edu/) at the [University of Central Florida](https://www.ucf.edu/). My research work is in the area of security and privacy and I have been recently focusing on topics such as machine learning and arificial intelligence, software, web, and networked systems, internet of things and wearables, and blockchains. 
 
-:one: <span style="color:maroon">Networks</span>: [NDSS 2023](files/ndss23.pdf), [CCS 2022](files/ccs22.pdf), [DSN 2022](files/dsn22.pdf), [INFOCOM 2020](files/infocom20sf.pdf), [DSN 2019](files/dsn19a.pdf), [ICDCS 2019](files/icdcs19b.pdf)\
-:two: <span style="color:maroon">Blockchain</span>: [IEEE S&P 2023](files/sp23.pdf), [ACM CCS 2021](files/ccs21a.pdf), [ACM CCS 2021](files/ccs21b.pdf), [ICDCS 2021](files/icdcs21.pdf), [ICDCS 2019](files.icdcs19c.pdf)\
-:three: <span style="color:maroon">Wearables & IoT</span>: [IEEE VR 2022](files/vr22a.pdf), [CHI 2022](files/chi22.pdf), [WPES 2021](files/wpes22sia.pdf), ICDCS 2020, NDSS 2018\
-:four: <span style="color:maroon">ML & Software</span>: RAID 2022, ICCV 2021, WPES 2021, PETS 2020, ICDCS 2020, CCS 2018\
+* <span style="color:maroon">Networks</span>: [NDSS 2023](files/ndss23.pdf), [CCS 2022](files/ccs22.pdf), [DSN 2022](files/dsn22.pdf), [INFOCOM 2020](files/infocom20sf.pdf), [DSN 2019](files/dsn19a.pdf), [ICDCS 2019](files/icdcs19b.pdf)\
+* <span style="color:maroon">Blockchain</span>: [IEEE S&P 2023](files/sp23.pdf), [ACM CCS 2021](files/ccs21a.pdf), [ACM CCS 2021](files/ccs21b.pdf), [ICDCS 2021](files/icdcs21.pdf), [ICDCS 2019](files.icdcs19c.pdf)\
+* <span style="color:maroon">Wearables & IoT</span>: [IEEE VR 2022](files/vr22a.pdf), [CHI 2022](files/chi22.pdf), [WPES 2021](files/wpes22sia.pdf), ICDCS 2020, NDSS 2018\
+* <span style="color:maroon">ML & Software</span>: RAID 2022, ICCV 2021, WPES 2021, PETS 2020, ICDCS 2020, CCS 2018\
 
 I obtained my PhD from the [University of Minnesota](https://twin-cities.umn.edu/), in 2012, as a [doctoral dissertation fellow](https://cla.umn.edu/graduate-students/research-creative-inquiry/doctoral-dissertation-fellowship-ddf) where I was advised by [Prof. Yongdae Kim](https://syssec.kaist.ac.kr/~yongdaek/). I spent several years before and after attending Minnesota in the research and development industry, working as a research engineer at [ETRI](https://etri.re.kr/intro.html) and as a (senior) research scientist at Verisign Labs. At UCF, I direct the Security and Analytics Lab (SEAL), where I have been fortunate to mentor, work with, and learn from several hardworking graduate and undergraduate students. 
 

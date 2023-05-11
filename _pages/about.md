@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is David Mohaisen and I am a Full Professor of [Computer Science](https://www.cs.ucf.edu/) at the [University of Central Florida](https://www.ucf.edu/). My research work is in the area of security and privacy and I have been recently focusing on topics such as machine learning and arificial intelligence, software, web, and networked systems, internet of things and wearables, and blockchains. 
+My name is David Mohaisen[^1] and I am a Full Professor of [Computer Science](https://www.cs.ucf.edu/) at the [University of Central Florida](https://www.ucf.edu/). My research work is in the area of security and privacy and I have been recently focusing on topics such as machine learning and arificial intelligence, software, web, and networked systems, internet of things and wearables, and blockchains. 
 
   * Networks: NDSS 2023, CCS 2022, DSN 2022, INFOCOM 2020, DSN 2019, ICDCS 2019
   * Blockchain: IEEE S&P 2023, ACM CCS 2021, ACM CCS 2021 (b), ICDCS 2021, ICDCS 2019
@@ -36,3 +36,5 @@ I obtained my PhD from the [University of Minnesota](https://twin-cities.umn.edu
 * Best Student Paper Award Nomineee of ACM ICS 2021
 * Distiniguished TPC member of IEEE INFOCOM (2016-2021)
 * Best Paper Award of IEEE Systems Journal (2020) 
+
+[^1]: Until 2020, I went by Aziz Mohaisen.

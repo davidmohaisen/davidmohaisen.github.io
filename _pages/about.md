@@ -44,9 +44,9 @@ Mohammed Alkinoon, Ph.D. Candidate (CS, exp. 2024)\
 Mohamed Alqadhi, Ph.D. Candidate (CS, exp. 2024)\
 Soohyeon Choi, Ph.D. Candidate (CS, exp. 2025)\
 Ayodeji Adeniran, Ph.D. Student (MST, part-time, post-qual)\
-Ali Alkinoon, Ph.D. Student (CS, ORC Fellow, pre-qual)\
+Ali Alkinoon, Ph.D. Student (CS, pre-qual)\
 Jie Li, Ph.D. Student (CS, pre-qual)\
-Aziz Alghamdi, Ph.D. Student (ECE, SACM Fellow, pre-qual)\
+Aziz Alghamdi, Ph.D. Student (ECE, pre-qual)\
 Ahod Alghureid, Ph.D. Student (CS, pre-qual)
 
 [Jeff Spaulding](https://www.linkedin.com/in/jeffreyspaulding/) (2018) &rarr; Assistant Professor, [Canisius College](https://www.canisius.edu/) &rarr; Lead Engineer, [Booz Allen](https://www.boozallen.com/)\

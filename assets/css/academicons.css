@@ -237,13 +237,14 @@
 }
 .ai-ul > li {
   position: relative;
+    margin-bottom: 1px; 
 }
 .ai-li {
   position: absolute;
   left: -2.14285714em;
   width: 1.14285714em;
-  top: 0.04285714em;
   text-align: center;
+  margin-bottom: 1px; 
 }
 .ai-li.fa-lg {
   left: -1.85714286em;

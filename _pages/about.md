@@ -14,7 +14,7 @@ My name is David Mohaisen[^1] and I am a [Full Professor](https://www.cs.ucf.edu
 * <span style="color:maroon">Wearables & IoT</span>: [IEEE VR 2022](files/vr22a.pdf), [CHI 2022](files/chi22.pdf), [WPES 2021](files/wpes22sia.pdf), ICDCS 2020, NDSS 2018
 * <span style="color:maroon">ML & Software</span>: RAID 2022, ICCV 2021, WPES 2021, PETS 2020, ICDCS 2020, CCS 2018
 
-I obtained my Ph.D. from the [University of Minnesota](https://twin-cities.umn.edu/), in 2012, where I was [fellow](https://cla.umn.edu/graduate-students/research-creative-inquiry/doctoral-dissertation-fellowship-ddf) advised by [Prof. Yongdae Kim](https://syssec.kaist.ac.kr/~yongdaek/). I spent several years before and after then in the research and development industry, working as a research engineer at [ETRI](https://etri.re.kr/intro.html) and as a (senior) research scientist at Verisign Labs. At UCF, I direct the Security and Analytics Lab (SEAL), where I have been fortunate to mentor, work with, and learn from several hardworking graduate and undergraduate students. 
+I obtained my Ph.D. from the [University of Minnesota](https://twin-cities.umn.edu/), in 2012, where I was a [fellow](https://cla.umn.edu/graduate-students/research-creative-inquiry/doctoral-dissertation-fellowship-ddf) advised by [Prof. Yongdae Kim](https://syssec.kaist.ac.kr/~yongdaek/). I spent several years before and after then in the research and development industry, working as a research engineer at [ETRI](https://etri.re.kr/intro.html) and as a (senior) research scientist at Verisign Labs. At UCF, I direct the Security and Analytics Lab (SEAL), where I have been fortunate to mentor, work with, and learn from several hardworking graduate and undergraduate students. 
 
 Current and Past Doctoral Advisees
 ----

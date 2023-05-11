@@ -41,7 +41,7 @@ I obtained my PhD from the [University of Minnesota](https://twin-cities.umn.edu
 
 <ul>
 <li><font color="#000000"><a href="https://www.linkedin.com/in/jeffreyspaulding/">Jeff Spaulding</a> (2018) <font color="red">&#x2192;</font> <!-- <s><i>Asst. Prof.</i>,  <a href="https://www.canisius.edu/">Canisius College</a></s>--> Lead Engineer, <a href="https://www.boozallen.com/">Booz Allen</font></li>
-<li><font color="#000000"><a href="https://www.linkedin.com/in/ahmad-ashar/">Ashar Ahmad</a> (2019) <font color="red">&#x2192;</font> VP Engineering, Rapticore</font> </li>
+<li><font color="#000000"><a href="https://www.linkedin.com/in/ahmad-ashar/">Ashar Ahmad</a> (2019) <font color="red">&#x2192;</font> VP Engineering, [Rapticore](https://www.rapticore.com/team)</font> </li>
 <li><font color="#000000"><a href="https://www.linkedin.com/in/abuhamadm/">Mo Abuhamad</a> (2020) <font color="red">&#x2192;</font> Asst Prof, <a href="https://www.luc.edu/">Loyola Chicago</a></font></li>
 <li><font color="#000000"><a href="https://www.linkedin.com/in/hisham-alasmary-24ba31189/">Hisham Alasmary</a> (2020) <font color="red">&#x2192;</font> Asst Prof, <a href="https://www.kku.edu.sa/en">King Khalid U</a></font></li>
 <li><font color="#000000"><a href="https://www.linkedin.com/in/rhongho-jang-a57706152/">Rhongho Jang</a> (2020) <font color="red">&#x2192;</font> Asst Prof, <a href="https://wayne.edu/">Wayne State</a></font></li>

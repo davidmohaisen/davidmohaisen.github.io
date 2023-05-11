@@ -39,10 +39,9 @@ I obtained my PhD from the [University of Minnesota](https://twin-cities.umn.edu
 
 **Graduated Doctoral Advisees**
 
-<ul>
-<li><font color="#000000"><a href="https://www.linkedin.com/in/jeffreyspaulding/">Jeff Spaulding</a> (2018) <font color="red">&#x2192;</font> <!-- <s><i>Asst. Prof.</i>,  <a href="https://www.canisius.edu/">Canisius College</a></s>--> Lead Engineer, <a href="https://www.boozallen.com/">Booz Allen</font></li>
-<li><font color="#000000"><a href="https://www.linkedin.com/in/ahmad-ashar/">Ashar Ahmad</a> (2019) <font color="red">&#x2192;</font> VP Engineering, [Rapticore](https://www.rapticore.com/team)</font> </li>
-<li><font color="#000000"><a href="https://www.linkedin.com/in/abuhamadm/">Mo Abuhamad</a> (2020) <font color="red">&#x2192;</font> Asst Prof, <a href="https://www.luc.edu/">Loyola Chicago</a></font></li>
+* [Jeff Spaulding](https://www.linkedin.com/in/jeffreyspaulding/) (2018) &rarr; Asst. Prof. [Canisius College](https://www.canisius.edu/) &rarr; Lead Engineer, [Booz Allen](https://www.boozallen.com/)
+* [Ashar Ahmad](https://www.linkedin.com/in/ahmad-ashar/) (2019) &rarr; VP Engineering, [Rapticore](https://www.rapticore.com/team)
+* [Mo Abuhamad](https://www.linkedin.com/in/abuhamadm) (2020) &rarr; Asst Prof, [Loyola Chicago](https://www.luc.edu/)
 <li><font color="#000000"><a href="https://www.linkedin.com/in/hisham-alasmary-24ba31189/">Hisham Alasmary</a> (2020) <font color="red">&#x2192;</font> Asst Prof, <a href="https://www.kku.edu.sa/en">King Khalid U</a></font></li>
 <li><font color="#000000"><a href="https://www.linkedin.com/in/rhongho-jang-a57706152/">Rhongho Jang</a> (2020) <font color="red">&#x2192;</font> Asst Prof, <a href="https://wayne.edu/">Wayne State</a></font></li>
 <li><font color="#000000"><a href="https://www.linkedin.com/in/jemanpark122/">Jeman Park</a> (2020) <font color="red">&#x2192;</font> Scientist, <a href="https://www.gatech.edu/">Georgia Tech</a></font></li>

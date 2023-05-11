@@ -1,5 +1,6 @@
 ---
 permalink: /
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -38,5 +39,23 @@ I obtained my PhD from the [University of Minnesota](https://twin-cities.umn.edu
 * Best Student Paper Award Nomineee of ACM ICS 2021
 * Distiniguished TPC member of IEEE INFOCOM (2016-2021)
 * Best Paper Award of IEEE Systems Journal (2020) 
+
+**Graduated Doctoral Advisees**
+<span>
+<ol>
+<li><font color="#000000"><a href="https://www.linkedin.com/in/jeffreyspaulding/">Jeff Spaulding</a> (2018) <font color="red">&#x2192;</font> <!-- <s><i>Asst. Prof.</i>,  <a href="https://www.canisius.edu/">Canisius College</a></s>--> Lead Engineer, <a href="https://www.boozallen.com/">Booz Allen</font></li>
+<li><font color="#000000"><a href="https://www.linkedin.com/in/ahmad-ashar/">Ashar Ahmad</a> (2019) <font color="red">&#x2192;</font> Clear Village Inc.</font> </li>
+<li><font color="#000000"><a href="https://www.linkedin.com/in/abuhamadm/">Mo Abuhamad</a> (2020) <font color="red">&#x2192;</font> Asst Prof, <a href="https://www.luc.edu/">Loyola Chicago</a></font></li>
+<li><font color="#000000"><a href="https://www.linkedin.com/in/hisham-alasmary-24ba31189/">Hisham Alasmary</a> (2020) <font color="red">&#x2192;</font> Asst Prof, <a href="https://www.kku.edu.sa/en">King Khalid U</a></font></li>
+<li><font color="#000000"><a href="https://www.linkedin.com/in/rhongho-jang-a57706152/">Rhongho Jang</a> (2020) <font color="red">&#x2192;</font> Asst Prof, <a href="https://wayne.edu/">Wayne State</a></font></li>
+<li><font color="#000000"><a href="https://www.linkedin.com/in/jemanpark122/">Jeman Park</a> (2020) <font color="red">&#x2192;</font> Scientist, <a href="https://www.gatech.edu/">Georgia Tech</a></font></li>
+<li><font color="#000000"><a href="https://www.linkedin.com/in/jinchunchoi/">Jinchun Choi</a> (2020) <font color="red">&#x2192;</font> Sr Researcher, <a href="https://www.etri.re.kr/eng/main/main.etri">ETRI</a></font> </li>
+<li><font color="#000000"><a href="https://www.linkedin.com/in/afsahanwar/">Afsah Anwar</a> (2021) <font color="red">&#x2192;</font> Asst Prof, <a href="https://www.famu.edu/">Florida A&M</a></li>
+<li><font color="#000000"><a href="https://www.linkedin.com/in/sultan-alshamrani-52b7a588/">Sultan Alshamrani</a> (2021)  <font color="red">&#x2192;</font> Asst Prof, <a href="https://seu.edu.sa/en/home">Saudi Elec. U</a></font></li>
+<li><font color="#000000"><a href="https://www.linkedin.com/in/muhammad-saad-b41665145/">Muhammad Saad</a> (2021) <font color="red">&#x2192;</font> Sr Scientist, <a href="">PayPal</a></font> </li>
+<li><a href="https://www.linkedin.com/in/ahmed-abusnaina-958b4b138/">Ahmed Abusnaina</a> (2022) <font color="red">&#x2192;</font> Scientist, <a href="https://about.facebook.com/?utm_source=meta.com&utm_medium=redirect">Facebook</a></li>
+<li><a href="https://www.linkedin.com/in/ulku-meteriz/">Ülkü Meteriz-Yıldıran</a> (2022) <font color="red">&#x2192;</font> Scientist, <a href="https://about.facebook.com/?utm_source=meta.com&utm_medium=redirect">Facebook</a></li>
+<li><a href="https://www.linkedin.com/in/alabduljabbar/">A. Alabduljabbar</a> (2022) <font color="red">&#x2192;</font> Asst Prof/Chair, <a href="https://www.psau.edu.sa/en">PSAU</a></li>
+</ol></span>
 
 [^1]: Until 2020, I went by Aziz Mohaisen.

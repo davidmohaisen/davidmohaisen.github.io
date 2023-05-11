@@ -37,7 +37,16 @@ I obtained my PhD from the [University of Minnesota](https://twin-cities.umn.edu
 * Distiniguished TPC member of IEEE INFOCOM (2016-2021)
 * Best Paper Award of IEEE Systems Journal (2020) 
 
-**Graduated Doctoral Advisees**
+**Current and Past Doctoral Advisees**
+Hattan Althebeiti, Ph.D. Candidate (ECE, exp. 2023)\
+Mohammed Alkinoon, Ph.D. Candidate (CS, exp. 2024)\
+Mohamed Alqadhi, Ph.D. Candidate (CS, exp. 2024)\
+Soohyeon Choi, Ph.D. Candidate (CS, exp. 2025)\
+Ayodeji Adeniran, Ph.D. Student (MST, part-time, post-qual)\
+Ali Alkinoon, Ph.D. Student (CS, ORC Fellow, pre-qual)\
+Jie Li, Ph.D. Student (CS, pre-qual)\
+Aziz Alghamdi, Ph.D. Student (ECE, SACM Fellow, pre-qual)\
+Ahod Alghureid, Ph.D. Student (CS, pre-qual)
 
 [Jeff Spaulding](https://www.linkedin.com/in/jeffreyspaulding/) (2018) &rarr; Assistant Professor, [Canisius College](https://www.canisius.edu/) &rarr; Lead Engineer, [Booz Allen](https://www.boozallen.com/)\
 [Ashar Ahmad](https://www.linkedin.com/in/ahmad-ashar/) (2019) &rarr; VP Engineering, [Rapticore](https://www.rapticore.com/team)\

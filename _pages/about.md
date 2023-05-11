@@ -39,19 +39,18 @@ I obtained my PhD from the [University of Minnesota](https://twin-cities.umn.edu
 
 **Graduated Doctoral Advisees**
 
-* [Jeff Spaulding](https://www.linkedin.com/in/jeffreyspaulding/) (2018) &rarr; Asst. Prof. [Canisius College](https://www.canisius.edu/) &rarr; Lead Engineer, [Booz Allen](https://www.boozallen.com/)
+* [Jeff Spaulding](https://www.linkedin.com/in/jeffreyspaulding/) (2018) &rarr; Assistant Professor, [Canisius College](https://www.canisius.edu/) &rarr; Lead Engineer, [Booz Allen](https://www.boozallen.com/)
 * [Ashar Ahmad](https://www.linkedin.com/in/ahmad-ashar/) (2019) &rarr; VP Engineering, [Rapticore](https://www.rapticore.com/team)
-* [Mo Abuhamad](https://www.linkedin.com/in/abuhamadm) (2020) &rarr; Asst Prof, [Loyola Chicago](https://www.luc.edu/)
-<li><font color="#000000"><a href="https://www.linkedin.com/in/hisham-alasmary-24ba31189/">Hisham Alasmary</a> (2020) <font color="red">&#x2192;</font> Asst Prof, <a href="https://www.kku.edu.sa/en">King Khalid U</a></font></li>
-<li><font color="#000000"><a href="https://www.linkedin.com/in/rhongho-jang-a57706152/">Rhongho Jang</a> (2020) <font color="red">&#x2192;</font> Asst Prof, <a href="https://wayne.edu/">Wayne State</a></font></li>
-<li><font color="#000000"><a href="https://www.linkedin.com/in/jemanpark122/">Jeman Park</a> (2020) <font color="red">&#x2192;</font> Scientist, <a href="https://www.gatech.edu/">Georgia Tech</a></font></li>
-<li><font color="#000000"><a href="https://www.linkedin.com/in/jinchunchoi/">Jinchun Choi</a> (2020) <font color="red">&#x2192;</font> Sr Researcher, <a href="https://www.etri.re.kr/eng/main/main.etri">ETRI</a></font> </li>
-<li><font color="#000000"><a href="https://www.linkedin.com/in/afsahanwar/">Afsah Anwar</a> (2021) <font color="red">&#x2192;</font> Asst Prof, <a href="https://www.famu.edu/">Florida A&M</a></li>
-<li><font color="#000000"><a href="https://www.linkedin.com/in/sultan-alshamrani-52b7a588/">Sultan Alshamrani</a> (2021)  <font color="red">&#x2192;</font> Asst Prof, <a href="https://seu.edu.sa/en/home">Saudi Elec. U</a></font></li>
-<li><font color="#000000"><a href="https://www.linkedin.com/in/muhammad-saad-b41665145/">Muhammad Saad</a> (2021) <font color="red">&#x2192;</font> Sr Scientist, <a href="">PayPal</a></font> </li>
-<li><a href="https://www.linkedin.com/in/ahmed-abusnaina-958b4b138/">Ahmed Abusnaina</a> (2022) <font color="red">&#x2192;</font> Scientist, <a href="https://about.facebook.com/?utm_source=meta.com&utm_medium=redirect">Facebook</a></li>
-<li><a href="https://www.linkedin.com/in/ulku-meteriz/">Ülkü Meteriz-Yıldıran</a> (2022) <font color="red">&#x2192;</font> Scientist, <a href="https://about.facebook.com/?utm_source=meta.com&utm_medium=redirect">Facebook</a></li>
-<li><a href="https://www.linkedin.com/in/alabduljabbar/">A. Alabduljabbar</a> (2022) <font color="red">&#x2192;</font> Asst Prof/Chair, <a href="https://www.psau.edu.sa/en">PSAU</a></li>
-</ul>
+* [Mo Abuhamad](https://www.linkedin.com/in/abuhamadm) (2020) &rarr; Assistant Professor, [Loyola University Chicago](https://www.luc.edu/)
+* [Hisham Alasmary](https://www.linkedin.com/in/hisham-alasmary-24ba31189) (2020) &rarr;  Assistant Professor, [King Khalid University](https://www.kku.edu.sa/en)
+* [Rhongho Jang](https://www.linkedin.com/in/rhongho-jang-a57706152/) (2020) &rarr; Assistant Professor, [Wayne State University](https://wayne.edu/)
+* [Jeman Park](https://www.linkedin.com/in/jemanpark122/) (2020) &rarr; Research Scientist, [Georgia Institute of Technology](https://www.gatech.edu/)
+* [Jinchun Choi](https://www.linkedin.com/in/jinchunchoi/) (2020) &rarr; Sr Researcher, [ETRI](https://www.etri.re.kr/eng/main/main.etri)
+* [Afsah Anwar](https://www.linkedin.com/in/afsahanwar/) (2021) &rarr; Assistant Professor, [University of New Mexico](https://www.famu.edu/)
+* [Sultan Alshamrani](https://www.linkedin.com/in/sultan-alshamrani-52b7a588/) (2021) &rarr; Assistant Professor, [Saudi Electronic University](https://seu.edu.sa/en/home)
+* [Muhammad Saad](https://www.linkedin.com/in/muhammad-saad-b41665145/) (2021) &rarr; Sr Scientist, [PayPal](https://www.paypal.com/us/home)
+* [Ahmed Abusnaina](https://www.linkedin.com/in/ahmed-abusnaina-958b4b138/) (2022) &rarr; Research Scientist, [Meta](https://about.facebook.com/?utm_source=meta.com&utm_medium=redirect)
+* [Ülkü Meteriz-Yıldıran](https://www.linkedin.com/in/ulku-meteriz/) (2022) &rarr; Research Scientist, [Meta](https://about.facebook.com/?utm_source=meta.com&utm_medium=redirect)
+* [Abdulrahman Alabduljabbar](https://www.linkedin.com/in/alabduljabbar/) &rarr; (2022)  Assistant Professor and Chair, [PSAU](https://www.psau.edu.sa/en)
 
 [^1]: Until 2020, I went by Aziz Mohaisen.

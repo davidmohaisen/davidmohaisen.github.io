@@ -38,6 +38,7 @@ I obtained my PhD from the [University of Minnesota](https://twin-cities.umn.edu
 * Best Paper Award of IEEE Systems Journal (2020) 
 
 **Current and Past Doctoral Advisees**
+
 Hattan Althebeiti, Ph.D. Candidate (ECE, exp. 2023)\
 Mohammed Alkinoon, Ph.D. Candidate (CS, exp. 2024)\
 Mohamed Alqadhi, Ph.D. Candidate (CS, exp. 2024)\

@@ -43,14 +43,11 @@ Ahod Alghureid, Ph.D. Student (CS, pre-qual)
 [Abdulrahman Alabduljabbar](https://www.linkedin.com/in/alabduljabbar/) &rarr; (2022)  Assistant Professor and Chair, [PSAU](https://www.psau.edu.sa/en)
 
 **Current Services** 
-* Associate Editor: [IEEE Transactions on Dependable and Secure Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)
-* General Co-Chair: [IEEE Conference on Communications and Network Security (CNS 2023)](https://cns2023.ieee-cns.org/)
-* TPC Co-Chair: [International Conference on Networked Systems (Netys 2023)](https://netys.net)
-* TPC MEMBER: [ACM CCS 2023](https://www.sigsac.org/ccs/CCS2023/), [ICICS 2023](https://icics23.nankai.edu.cn/), WWW 2023
 
-**Recent Updates**
-* I will be on leave during 2023-2024.
-* I am looking for one student to work on VR security.
+Associate Editor: [IEEE Transactions on Dependable and Secure Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)\
+General Co-Chair: [IEEE Conference on Communications and Network Security (CNS 2023)](https://cns2023.ieee-cns.org/)\
+TPC Co-Chair: [International Conference on Networked Systems (Netys 2023)](https://netys.net)\
+TPC MEMBER: [ACM CCS 2023](https://www.sigsac.org/ccs/CCS2023/), [ICICS 2023](https://icics23.nankai.edu.cn/), WWW 2023
 
 **Honors and Awards**
 
@@ -62,5 +59,9 @@ Ahod Alghureid, Ph.D. Student (CS, pre-qual)
 * Best Student Paper Award Nomineee of ACM ICS 2021
 * Distiniguished TPC member of IEEE INFOCOM (2016-2021)
 * Best Paper Award of IEEE Systems Journal (2020) 
+
+**Recent Updates**
+* I will be on leave during 2023-2024.
+* I am looking for one student with VR-related experience.
 
 [^1]: Until 2020, I went by Aziz Mohaisen.

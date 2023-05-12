@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is David Mohaisen[^1] and I am a [Full Professor](https://www.cs.ucf.edu/person/aziz-mohaisen/) of [Computer Science](https://www.cs.ucf.edu/) at the [University of Central Florida](https://www.ucf.edu/). My [research work](https://dblp.uni-trier.de/pid/70/2832.html) is in the area of security and privacy and I have been recently focusing on topics such as machine learning and arificial intelligence, software, web, and networked systems, internet of things and wearables, and blockchains. My active work pursuits include:
+My name is David Mohaisen[^1] and I am a [Full Professor](https://www.cs.ucf.edu/person/aziz-mohaisen/) of [Computer Science](https://www.cs.ucf.edu/) at the [University of Central Florida](https://www.ucf.edu/) with joint appointments in [Computer Engineering](https://www.ece.ucf.edu/) and [Modeling and Simulation](https://www.ucf.edu/modeling-simulation/). My [research work](https://dblp.uni-trier.de/pid/70/2832.html) is in the area of security and privacy and I have been recently focusing on topics such as machine learning and arificial intelligence, software, web, and networked systems, internet of things and wearables, and blockchains. My active work pursuits include:
 
 * <span style="color:maroon">Networks</span>: [NDSS 2023](files/ndss23.pdf), [CCS 2022](files/ccs22.pdf), [DSN 2022](files/dsn22.pdf), [INFOCOM 2020](files/infocom20sf.pdf), [DSN 2019](files/dsn19a.pdf), [ICDCS 2019](files/icdcs19b.pdf)
 * <span style="color:maroon">Blockchain</span>: [IEEE S&P 2023](files/sp23.pdf), [ACM CCS 2021](files/ccs21a.pdf), [ACM CCS 2021](files/ccs21b.pdf), [ICDCS 2021](files/icdcs21.pdf), [ICDCS 2019](files.icdcs19c.pdf)

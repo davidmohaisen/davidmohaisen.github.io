@@ -7,4 +7,3 @@ venue: 'Comput. Secur.'
 paperurl: 'https://doi.org/10.1016/j.cose.2021.102338'
 citation: ' Changhun Jung,  Jinchun Choi,  Rhongho Jang,  David Mohaisen,  DaeHun Nyang, &quot;A network-independent tool-based usable authentication system for Internet of Things devices.&quot; Comput. Secur., 2021.'
 ---
-[Access paper here](https://doi.org/10.1016/j.cose.2021.102338){:target="_blank"}

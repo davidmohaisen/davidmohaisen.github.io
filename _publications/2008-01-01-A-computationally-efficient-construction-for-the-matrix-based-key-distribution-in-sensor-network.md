@@ -7,4 +7,3 @@ venue: 'CoRR'
 paperurl: 'http://arxiv.org/abs/0812.4485'
 citation: ' Abedelaziz Mohaisen, &quot;A computationally-efficient construction for the matrix-based key distribution in sensor network.&quot; CoRR, 2008.'
 ---
-[Access paper here](http://arxiv.org/abs/0812.4485){:target="_blank"}

@@ -7,4 +7,3 @@ venue: 'CoRR'
 paperurl: 'http://arxiv.org/abs/1809.02152'
 citation: ' Muhammad Saad,  Aminollah Khormali,  Aziz Mohaisen, &quot;End-to-End Analysis of In-Browser Cryptojacking.&quot; CoRR, 2018.'
 ---
-[Access paper here](http://arxiv.org/abs/1809.02152){:target="_blank"}

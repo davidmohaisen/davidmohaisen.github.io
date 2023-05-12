@@ -7,4 +7,3 @@ venue: 'CoRR'
 paperurl: 'https://arxiv.org/abs/2007.00146'
 citation: ' Aminollah Khormali,  DaeHun Nyang,  David Mohaisen, &quot;Generating Adversarial Examples with an Optimized Quality.&quot; CoRR, 2020.'
 ---
-[Access paper here](https://arxiv.org/abs/2007.00146){:target="_blank"}

@@ -5,6 +5,5 @@ permalink: /publication/2006-01-01-Hierarchical-Grid-Based-Pairwise-Key-Predistr
 date: 2006-01-01
 venue: 'In the proceedings of Wireless Sensor Networks, Third European Workshop, EWSN 2006, Zurich, Switzerland, February 13-15, 2006, Proceedings'
 paperurl: 'https://doi.org/10.1007/11669463\_9'
-citation: ' Abedelaziz Mohaisen,  DaeHun Nyang, &quot;Hierarchical Grid-Based Pairwise Key Predistribution Scheme for Wireless Sensor Networks.&quot; In the proceedings of Wireless Sensor Networks, Third European Workshop, EWSN 2006, Zurich, Switzerland, February 13-15, 2006, Proceedings, 2006.'
+citation: ' David Mohaisen,  DaeHun Nyang, &quot;Hierarchical Grid-Based Pairwise Key Predistribution Scheme for Wireless Sensor Networks.&quot; In the proceedings of Wireless Sensor Networks, Third European Workshop, EWSN 2006, Zurich, Switzerland, February 13-15, 2006, Proceedings, 2006.'
 ---
-[Access paper here](https://doi.org/10.1007/11669463\_9){:target="_blank"}

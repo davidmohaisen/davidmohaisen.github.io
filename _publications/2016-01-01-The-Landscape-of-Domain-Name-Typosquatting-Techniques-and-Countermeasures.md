@@ -3,8 +3,7 @@ title: "The Landscape of Domain Name Typosquatting: Techniques and Countermeasur
 collection: publications
 permalink: /publication/2016-01-01-The-Landscape-of-Domain-Name-Typosquatting-Techniques-and-Countermeasures
 date: 2016-01-01
-venue: 'CoRR'
-paperurl: 'http://arxiv.org/abs/1603.02767'
-citation: ' Jeffrey Spaulding,  Shambhu Upadhyaya,  Aziz Mohaisen, &quot;The Landscape of Domain Name Typosquatting: Techniques and Countermeasures.&quot; CoRR, 2016.'
+venue: 'In the proceedings of 11th International Conference on Availability, Reliability and Security, ARES 2016, Salzburg, Austria, August 31 - September 2, 2016'
+paperurl: 'https://doi.org/10.1109/ARES.2016.84'
+citation: ' Jeffrey Spaulding,  Shambhu Upadhyaya,  David Mohaisen, &quot;The Landscape of Domain Name Typosquatting: Techniques and Countermeasures.&quot; In the proceedings of 11th International Conference on Availability, Reliability and Security, ARES 2016, Salzburg, Austria, August 31 - September 2, 2016, 2016.'
 ---
-[Access paper here](http://arxiv.org/abs/1603.02767){:target="_blank"}

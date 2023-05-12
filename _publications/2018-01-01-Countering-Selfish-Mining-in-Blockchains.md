@@ -7,4 +7,3 @@ venue: 'CoRR'
 paperurl: 'http://arxiv.org/abs/1811.09943'
 citation: ' Muhammad Saad,  Laurent Njilla,  Charles Kamhoua,  Aziz Mohaisen, &quot;Countering Selfish Mining in Blockchains.&quot; CoRR, 2018.'
 ---
-[Access paper here](http://arxiv.org/abs/1811.09943){:target="_blank"}

@@ -7,4 +7,3 @@ venue: 'In the proceedings of 2022 IEEE Conference on Virtual Reality and 3D Use
 paperurl: 'https://doi.org/10.1109/VRW55335.2022.00189'
 citation: ' Necip Yildiran,  {\&quot;{U}}lk{\&quot;{u}} Meteriz{-}Yildiran,  David Mohaisen, &quot;AiRType: An Air-tapping Keyboard for Augmented Reality Environments.&quot; In the proceedings of 2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops, VR Workshops, Christchurch, New Zealand, March 12-16, 2022, 2022.'
 ---
-[Access paper here](https://doi.org/10.1109/VRW55335.2022.00189){:target="_blank"}

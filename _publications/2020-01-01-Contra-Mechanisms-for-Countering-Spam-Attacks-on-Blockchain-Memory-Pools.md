@@ -7,4 +7,3 @@ venue: 'CoRR'
 paperurl: 'https://arxiv.org/abs/2005.04842'
 citation: ' Muhammad Saad,  Joongheon Kim,  DaeHun Nyang,  David Mohaisen, &quot;Contra-*: Mechanisms for Countering Spam Attacks on Blockchain Memory Pools.&quot; CoRR, 2020.'
 ---
-[Access paper here](https://arxiv.org/abs/2005.04842){:target="_blank"}

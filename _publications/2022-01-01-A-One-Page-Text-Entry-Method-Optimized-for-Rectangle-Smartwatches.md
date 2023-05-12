@@ -7,4 +7,3 @@ venue: 'IEEE Trans. Mob. Comput.'
 paperurl: 'https://doi.org/10.1109/TMC.2021.3057226'
 citation: ' Rhongho Jang,  Changhun Jung,  David Mohaisen,  KyungHee Lee,  DaeHun Nyang, &quot;A One-Page Text Entry Method Optimized for Rectangle Smartwatches.&quot; IEEE Trans. Mob. Comput., 2022.'
 ---
-[Access paper here](https://doi.org/10.1109/TMC.2021.3057226){:target="_blank"}

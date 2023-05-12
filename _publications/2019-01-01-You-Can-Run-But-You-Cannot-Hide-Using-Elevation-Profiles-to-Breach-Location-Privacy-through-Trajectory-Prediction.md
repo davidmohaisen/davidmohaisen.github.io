@@ -7,4 +7,3 @@ venue: 'CoRR'
 paperurl: 'http://arxiv.org/abs/1910.09041'
 citation: ' {\&quot;{U}}lk{\&quot;{u}} Meteriz,  Necip Yildiran,  Aziz Mohaisen, &quot;You Can Run, But You Cannot Hide: Using Elevation Profiles to Breach Location Privacy through Trajectory Prediction.&quot; CoRR, 2019.'
 ---
-[Access paper here](http://arxiv.org/abs/1910.09041){:target="_blank"}

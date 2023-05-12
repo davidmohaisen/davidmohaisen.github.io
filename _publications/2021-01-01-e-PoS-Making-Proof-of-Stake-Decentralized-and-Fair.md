@@ -7,4 +7,3 @@ venue: 'CoRR'
 paperurl: 'https://arxiv.org/abs/2101.00330'
 citation: ' Muhammad Saad,  Zhan Qin,  Kui Ren,  DaeHun Nyang,  David Mohaisen, &quot;e-PoS: Making Proof-of-Stake Decentralized and Fair.&quot; CoRR, 2021.'
 ---
-[Access paper here](https://arxiv.org/abs/2101.00330){:target="_blank"}

@@ -7,4 +7,3 @@ venue: 'CoRR'
 paperurl: 'http://arxiv.org/abs/1911.12593'
 citation: ' David Mohaisen,  Songqing Chen, &quot;Computer Systems Have 99 Problems, Let&amp;apos;s Not Make Machine Learning Another One.&quot; CoRR, 2019.'
 ---
-[Access paper here](http://arxiv.org/abs/1911.12593){:target="_blank"}

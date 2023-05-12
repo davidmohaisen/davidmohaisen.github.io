@@ -5,6 +5,5 @@ permalink: /publication/2018-01-01-Interference-Aware-Adaptive-Beam-Alignment-fo
 date: 2018-01-01
 venue: 'Sensors'
 paperurl: 'https://doi.org/10.3390/s18103364'
-citation: ' Dohyun Kwon,  Sang{-}Wook Kim,  Joongheon Kim,  Aziz Mohaisen, &quot;Interference-Aware Adaptive Beam Alignment for Hyper-Dense IEEE 802.11ax Internet-of-Things Networks.&quot; Sensors, 2018.'
+citation: ' Dohyun Kwon,  Sang{-}Wook Kim,  Joongheon Kim,  David Mohaisen, &quot;Interference-Aware Adaptive Beam Alignment for Hyper-Dense IEEE 802.11ax Internet-of-Things Networks.&quot; Sensors, 2018.'
 ---
-[Access paper here](https://doi.org/10.3390/s18103364){:target="_blank"}

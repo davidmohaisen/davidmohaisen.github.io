@@ -7,4 +7,3 @@ venue: 'J. Netw. Comput. Appl.'
 paperurl: 'https://doi.org/10.1016/j.jnca.2020.102971'
 citation: ' Muhammad Saad,  Joongheon Kim,  DaeHun Nyang,  David Mohaisen, &quot;Contra-(_ast): Mechanisms for countering spam attacks on blockchain&amp;apos;s memory pools.&quot; J. Netw. Comput. Appl., 2021.'
 ---
-[Access paper here](https://doi.org/10.1016/j.jnca.2020.102971){:target="_blank"}

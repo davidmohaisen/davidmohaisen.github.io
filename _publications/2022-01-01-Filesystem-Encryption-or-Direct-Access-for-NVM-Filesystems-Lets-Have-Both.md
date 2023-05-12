@@ -7,4 +7,3 @@ venue: 'In the proceedings of IEEE International Symposium on High-Performance C
 paperurl: 'https://doi.org/10.1109/HPCA53966.2022.00043'
 citation: ' Kazi Zubair,  David Mohaisen,  Amro Awad, &quot;Filesystem Encryption or Direct-Access for NVM Filesystems? Let&amp;apos;s Have Both!.&quot; In the proceedings of IEEE International Symposium on High-Performance Computer Architecture, HPCA 2022, Seoul, South Korea, April 2-6, 2022, 2022.'
 ---
-[Access paper here](https://doi.org/10.1109/HPCA53966.2022.00043){:target="_blank"}

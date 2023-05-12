@@ -7,4 +7,3 @@ venue: 'IEEE Internet Things J.'
 paperurl: 'https://doi.org/10.1109/JIOT.2021.3086398'
 citation: ' Hisham Alasmary,  Afsah Anwar,  Ahmed Abusnaina,  Abdulrahman Alabduljabbar,  Mohammed Abuhamad,  An Wang,  Daehun Nyang,  Amro Awad,  David Mohaisen, &quot;ShellCore: Automating Malicious IoT Software Detection Using Shell Commands Representation.&quot; IEEE Internet Things J., 2022.'
 ---
-[Access paper here](https://doi.org/10.1109/JIOT.2021.3086398){:target="_blank"}

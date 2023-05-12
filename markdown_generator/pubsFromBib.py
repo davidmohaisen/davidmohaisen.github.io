@@ -143,11 +143,11 @@ for pubsource in publist:
             ## Markdown description for individual page
             if note:
                 md += "\n" + html_escape(b["note"]) + "\n"
-
-            if url:
-                md += "\n[Access paper here](" + b["url"] + "){:target=\"_blank\"}\n" 
-            else:
-                md += "\nUse [Google Scholar](https://scholar.google.com/scholar?q="+html.escape(clean_title.replace("-","+"))+"){:target=\"_blank\"} for full citation"
+            
+            #if url:
+            #    md += "\n[Access paper here](" + b["url"] + "){:target=\"_blank\"}\n" 
+            #else:
+            #    md += "\nUse [Google Scholar](https://scholar.google.com/scholar?q="+html.escape(clean_title.replace("-","+"))+"){:target=\"_blank\"} for full citation"
 
             md_filename = os.path.basename(md_filename)
 

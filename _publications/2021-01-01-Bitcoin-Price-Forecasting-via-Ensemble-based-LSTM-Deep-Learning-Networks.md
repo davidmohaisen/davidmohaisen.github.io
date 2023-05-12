@@ -7,4 +7,3 @@ venue: 'In the proceedings of International Conference on Information Networking
 paperurl: 'https://doi.org/10.1109/ICOIN50884.2021.9333853'
 citation: ' Myungjae Shin,  David Mohaisen,  Joongheon Kim, &quot;Bitcoin Price Forecasting via Ensemble-based LSTM Deep Learning Networks.&quot; In the proceedings of International Conference on Information Networking, ICOIN 2021, Jeju Island, South Korea, January 13-16, 2021, 2021.'
 ---
-[Access paper here](https://doi.org/10.1109/ICOIN50884.2021.9333853){:target="_blank"}

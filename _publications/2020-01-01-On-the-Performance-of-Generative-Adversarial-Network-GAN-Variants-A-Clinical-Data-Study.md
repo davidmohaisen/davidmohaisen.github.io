@@ -7,4 +7,3 @@ venue: 'CoRR'
 paperurl: 'https://arxiv.org/abs/2009.09579'
 citation: ' Jaesung Yoo,  Jeman Park,  An Wang,  David Mohaisen,  Joongheon Kim, &quot;On the Performance of Generative Adversarial Network (GAN) Variants: A Clinical Data Study.&quot; CoRR, 2020.'
 ---
-[Access paper here](https://arxiv.org/abs/2009.09579){:target="_blank"}

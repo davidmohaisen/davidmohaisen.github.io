@@ -7,4 +7,3 @@ venue: 'CoRR'
 paperurl: 'https://doi.org/10.48550/arXiv.2304.13253'
 citation: ' Muhammad Saad,  David Mohaisen, &quot;Analyzing In-browser Cryptojacking.&quot; CoRR, 2023.'
 ---
-[Access paper here](https://doi.org/10.48550/arXiv.2304.13253){:target="_blank"}

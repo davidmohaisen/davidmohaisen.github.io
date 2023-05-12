@@ -7,4 +7,3 @@ venue: 'CoRR'
 paperurl: 'https://arxiv.org/abs/2009.07923'
 citation: ' Sultan Alshamrani,  Ahmed Abusnaina,  David Mohaisen, &quot;Hiding in Plain Sight: A Measurement and Analysis of Kids&amp;apos; Exposure to Malicious URLs on YouTube.&quot; CoRR, 2020.'
 ---
-[Access paper here](https://arxiv.org/abs/2009.07923){:target="_blank"}

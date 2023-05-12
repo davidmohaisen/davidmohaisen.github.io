@@ -7,4 +7,3 @@ venue: 'CoRR'
 paperurl: 'http://arxiv.org/abs/0903.2682'
 citation: ' Abedelaziz Mohaisen,  Dowon Hong,  DaeHun Nyang, &quot;Privacy in Location Based Services: Primitives Toward the Solution.&quot; CoRR, 2009.'
 ---
-[Access paper here](http://arxiv.org/abs/0903.2682){:target="_blank"}

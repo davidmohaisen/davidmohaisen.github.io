@@ -7,4 +7,3 @@ venue: 'CoRR'
 paperurl: 'https://arxiv.org/abs/2001.08578'
 citation: ' Mohammed Abuhamad,  Ahmed Abusnaina,  DaeHun Nyang,  David Mohaisen, &quot;Sensor-based Continuous Authentication of Smartphones&amp;apos; Users Using Behavioral Biometrics: A Survey.&quot; CoRR, 2020.'
 ---
-[Access paper here](https://arxiv.org/abs/2001.08578){:target="_blank"}

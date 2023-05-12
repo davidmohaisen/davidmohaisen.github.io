@@ -7,4 +7,3 @@ venue: 'IEEE Access'
 paperurl: 'https://doi.org/10.1109/ACCESS.2020.3000959'
 citation: ' Jinchun Choi,  Mohammed Abuhamad,  Ahmed Abusnaina,  Afsah Anwar,  Sultan Alshamrani,  Jeman Park,  Daehun Nyang,  David Mohaisen, &quot;Understanding the Proxy Ecosystem: A Comparative Analysis of Residential and Open Proxies on the Internet.&quot; IEEE Access, 2020.'
 ---
-[Access paper here](https://doi.org/10.1109/ACCESS.2020.3000959){:target="_blank"}

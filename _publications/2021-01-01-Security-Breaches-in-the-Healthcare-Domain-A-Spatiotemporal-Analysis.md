@@ -7,4 +7,3 @@ venue: 'In the proceedings of Computational Data and Social Networks - 10th Inte
 paperurl: 'https://doi.org/10.1007/978-3-030-91434-9\_16'
 citation: ' Mohammed Alkinoon,  Marwan Omar,  Manar Mohaisen,  David Mohaisen, &quot;Security Breaches in the Healthcare Domain: A Spatiotemporal Analysis.&quot; In the proceedings of Computational Data and Social Networks - 10th International Conference, CSoNet 2021, Virtual Event, November 15-17, 2021, Proceedings, 2021.'
 ---
-[Access paper here](https://doi.org/10.1007/978-3-030-91434-9\_16){:target="_blank"}

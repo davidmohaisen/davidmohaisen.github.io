@@ -5,5 +5,5 @@ permalink: /publication/2023-01-01-Truthful-and-performance-optimal-computation-
 date: 2023-03-01
 venue: 'Comput. Networks'
 link: 'https://doi.org/10.1016/j.comnet.2023.109651'
-citation: ' Soyi Jung,  Jae{-}Hyun Kim,  David Mohaisen,  Joongheon Kim, &quot;Truthful and performance-optimal computation outsourcing for aerial surveillance platforms via learning-based auction.&quot; Comput. Networks, 2023.'
+citation: ' Soyi Jung,  Jae-Hyun Kim,  David Mohaisen,  Joongheon Kim, &quot;Truthful and performance-optimal computation outsourcing for aerial surveillance platforms via learning-based auction.&quot; Comput. Networks, 2023.'
 ---

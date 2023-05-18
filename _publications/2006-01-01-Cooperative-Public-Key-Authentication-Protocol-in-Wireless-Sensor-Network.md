@@ -5,5 +5,5 @@ permalink: /publication/2006-01-01-Cooperative-Public-Key-Authentication-Protoco
 date: 2006-01-01
 venue: 'In the proceedings of Ubiquitous Intelligence and Computing, Third International Conference, UIC 2006, Wuhan, China, September 3-6, 2006, Proceedings'
 paperurl: 'https://doi.org/10.1007/11833529\_88'
-citation: ' DaeHun Nyang,  David Mohaisen, &quot;Cooperative Public Key Authentication Protocol in Wireless Sensor Network.&quot; In the proceedings of Ubiquitous Intelligence and Computing, Third International Conference, UIC 2006, Wuhan, China, September 3-6, 2006, Proceedings, 2006.'
+citation: ' DaeHun Nyang,  David Mohaisen, "Cooperative Public Key Authentication Protocol in Wireless Sensor Network." In the proceedings of Ubiquitous Intelligence and Computing, Third International Conference, UIC 2006, Wuhan, China, September 3-6, 2006.'
 ---

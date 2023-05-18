@@ -87,7 +87,9 @@ for pubsource in publist:
             pub_date = pub_year+"-"+pub_month+"-"+pub_day
             
             #strip out {} as needed (some bibtex entries that maintain formatting)
-            clean_title = b["title"].replace("{", "").replace("}","").replace("\\","").replace(" ","-")    
+            clean_title = b["title"].replace("{", "").replace("}","").replace("\\","").replace(" ","-")
+
+            #clean_auth = b["author"].replace("{", "").replace("}","").replace("\\","").replace(" ","-")    
 
             url_slug = re.sub("\\[.*\\]|[^a-zA-Z0-9_-]", "", clean_title)
             url_slug = url_slug.replace("--","-")

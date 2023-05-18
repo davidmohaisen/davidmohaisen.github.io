@@ -6,5 +6,5 @@ date: 2022-01-01
 venue: 'In the proceedings of CHI &apos;22: CHI Conference on Human Factors in Computing Systems, New Orleans, LA, USA, 29 April 2022 - 5 May 2022, Extended Abstracts'
 link: 'https://doi.org/10.1145/3491101.3519691'
 github: 'https://github.com/davidmohaisen/AcousticType'
-citation: 'Ulku Meteriz-Yidiran,  Necip Yildiran,  David Mohaisen, &quot;AcousticType: Smartwatch-Enabled Cross-Device Text Entry Method Using Keyboard Acoustics.&quot; In the proceedings of CHI &amp;apos;22: CHI Conference on Human Factors in Computing Systems, New Orleans, LA, USA, 29 April 2022 - 5 May 2022, Extended Abstracts, 2022.'
+citation: 'Ulku Meteriz-Yidiran,  Necip Yildiran,  David Mohaisen, &quot;AcousticType: Smartwatch-Enabled Cross-Device Text Entry Method Using Keyboard Acoustics.&quot; In the proceedings of CHI: CHI Conference on Human Factors in Computing Systems, New Orleans, LA, USA,  Extended Abstracts, 2022.'
 ---

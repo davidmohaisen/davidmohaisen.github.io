@@ -69,33 +69,33 @@ Ahmed Abusnaina, Afsah Anwar, Sultan Alshamrani, Abdulrahman Alabduljabbar, Rhon
 
 Marwan Omar, Soohyeon Choi, Daehun Nyang, David Mohaisen, "*Quantifying the Performance of Adversarial Training on Language Models with Distribution Shifts*." In Proceedings of the 1st Workshop on Cybersecurity and Social Sciences, **CySSS@AsiaCCS**, Nagasaki, Japan, 2022.
 
-Dinhnguyen Dao, Rhongho Jang, Changhun Jung, David Mohaisen, DaeHun Nyang, "**Minimizing Noise in HyperLogLog-Based Spread Estimation of Multiple Flows**." In the proceedings of 52nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks, **DSN**, Baltimore, MD, USA, 2022.
+Dinhnguyen Dao, Rhongho Jang, Changhun Jung, David Mohaisen, DaeHun Nyang, "*Minimizing Noise in HyperLogLog-Based Spread Estimation of Multiple Flows*." In the proceedings of 52nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks, **DSN**, Baltimore, MD, USA, 2022.
 
-Mazen Al-Wadi, Rujia Wang, David Mohaisen, Clayton Hughes, Simon Hammond, Amro Awad, **"Minerva: Rethinking Secure Architectures for the Era of Fabric-Attached Memory Architectures.**" In the proceedings of 2022 IEEE International Parallel and Distributed Processing Symposium, **IPDPS**, Virtual Event / Lyon, France, 2022.
+Mazen Al-Wadi, Rujia Wang, David Mohaisen, Clayton Hughes, Simon Hammond, Amro Awad, *"Minerva: Rethinking Secure Architectures for the Era of Fabric-Attached Memory Architectures.*" In the proceedings of 2022 IEEE International Parallel and Distributed Processing Symposium, **IPDPS**, Virtual Event / Lyon, France, 2022.
 
-Ayodeji Adeniran, David Mohaisen, "**Miners in the Cloud: Measuring and Analyzing Cryptocurrency Mining in Public Clouds**." **CSoNet**, Virtual Event, 2022.
+Ayodeji Adeniran, David Mohaisen, "*Miners in the Cloud: Measuring and Analyzing Cryptocurrency Mining in Public Clouds*." **CSoNet**, Virtual Event, 2022.
 
-Abdulrahman Alabduljabbar, David Mohaisen, "**Measuring the Privacy Dimension of Free Content Websites through Automated Privacy Policy Analysis and Annotation**." In the proceedings of Companion of The Web Conference Companion Volume, **WWW**, Virtual Event / Lyon, France, 2022.
+Abdulrahman Alabduljabbar, David Mohaisen, "*Measuring the Privacy Dimension of Free Content Websites through Automated Privacy Policy Analysis and Annotation*." In the proceedings of Companion of The Web Conference Companion Volume, **WWW**, Virtual Event / Lyon, France, 2022.
 
-Ayodeji Adeniran, David Mohaisen, "**Measuring Cryptocurrency Mining in Public Cloud Services: A Security Perspective**." In Proceedings of the 11th International Conference of Computational Data and Social Networks, **CSoNet**, Virtual Event, 2022.
+Ayodeji Adeniran, David Mohaisen, "*Measuring Cryptocurrency Mining in Public Cloud Services: A Security Perspective*." In Proceedings of the 11th International Conference of Computational Data and Social Networks, **CSoNet**, Virtual Event, 2022.
 
-Marwan Omar, David Mohaisen, **"Making Adversarially-Trained Language Models Forget with Model Retraining: A Case Study on Hate Speech Detection.**" In the proceedings of Companion of The Web Conference 2022, **WWW**, Virtual Event / Lyon, France, 2022.
+Marwan Omar, David Mohaisen, *"Making Adversarially-Trained Language Models Forget with Model Retraining: A Case Study on Hate Speech Detection.*" In the proceedings of Companion of The Web Conference 2022, **WWW**, Virtual Event / Lyon, France, 2022.
 
-Won Yun, David Mohaisen, Soyi Jung, Jong-Kook Kim, Joongheon Kim, "**Hierarchical Reinforcement Learning using Gaussian Random Trajectory Generation in Autonomous Furniture Assembly**." In the proceedings of Proceedings of the 31st ACM International Conference on Information and Knowledge Management, **CIKM**, Atlanta, GA, USA, 2022.
+Won Yun, David Mohaisen, Soyi Jung, Jong-Kook Kim, Joongheon Kim, "*Hierarchical Reinforcement Learning using Gaussian Random Trajectory Generation in Autonomous Furniture Assembly*." In the proceedings of Proceedings of the 31st ACM International Conference on Information and Knowledge Management, **CIKM**, Atlanta, GA, USA, 2022.
 
 Kazi Zubair, David Mohaisen, Amro Awad, "Filesystem Encryption or Direct-Access for NVM Filesystems? Let's Have Both!." In the proceedings of IEEE International Symposium on High-Performance Computer Architecture, **HPCA**, Seoul, South Korea, 2022.
 
-Hattan Althebeiti, David Mohaisen, "**Enriching Vulnerability Reports Through Automated and Augmented Description Summarization**." WISA, 2022.
+Hattan Althebeiti, David Mohaisen, "*Enriching Vulnerability Reports Through Automated and Augmented Description Summarization*." WISA, 2022.
 
-Mohamed Alqadhi, Abdulrahman Alabduljabbar, Kyle Thomas, Saeed Salem, DaeHun Nyang, David Mohaisen, "**Do Content Management Systems Impact the Security of Free Content Websites?**." In the proceedings of 11th International Conference Computational Data and Social Networks, **CSoNet**, Virtual Event, 2022.
+Mohamed Alqadhi, Abdulrahman Alabduljabbar, Kyle Thomas, Saeed Salem, DaeHun Nyang, David Mohaisen, "*Do Content Management Systems Impact the Security of Free Content Websites?*." In the proceedings of 11th International Conference Computational Data and Social Networks, **CSoNet**, Virtual Event, 2022.
 
-Yu Mi, David Mohaisen, An Wang, "**AutoDefense: Reinforcement Learning Based Autoreactive Defense Against Network Attacks**." In the proceedings of 10th IEEE Conference on Communications and Network Security, **CNS**, Austin, TX, USA, 2022.
+Yu Mi, David Mohaisen, An Wang, "*AutoDefense: Reinforcement Learning Based Autoreactive Defense Against Network Attacks*." In the proceedings of 10th IEEE Conference on Communications and Network Security, **CNS**, Austin, TX, USA, 2022.
 
-Necip Yildiran, {\"{U}}lk{\"{u}} Meteriz{-}Yildiran, David Mohaisen, "**AiRType: An Air-tapping Keyboard for Augmented Reality Environments**." In the proceedings of 2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops, **VR Workshops**, Christchurch, New Zealand, 2022.
+Necip Yildiran, {\"{U}}lk{\"{u}} Meteriz{-}Yildiran, David Mohaisen, "*AiRType: An Air-tapping Keyboard for Augmented Reality Environments*." In the proceedings of 2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops, **VR Workshops**, Christchurch, New Zealand, 2022.
 
 Ulku Meteriz-Yidiran, Necip Yildiran, David Mohaisen, "AcousticType: Smartwatch-Enabled Cross-Device Text Entry Method Using Keyboard Acoustics." In the proceedings of CHI Conference on Human Factors in Computing Systems, **CHI**, New Orleans, LA, USA, Extended Abstracts, 2022.
 
-Changhun Jung, Sian Kim, Rhongho Jang, David Mohaisen, DaeHun Nyang, "**A Scalable and Dynamic ACL System for In-Network Defense**." In the proceedings of Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security, **CCS**, Los Angeles, CA, USA, 2022.
+Changhun Jung, Sian Kim, Rhongho Jang, David Mohaisen, DaeHun Nyang, "*A Scalable and Dynamic ACL System for In-Network Defense*." In the proceedings of Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security, **CCS**, Los Angeles, CA, USA, 2022.
 
 Afsah Anwar, Jinchun Choi, Abdulrahman Alabduljabbar, Hisham Alasmary, Jeffrey Spaulding, An Wang, Songqing Chen, DaeHun Nyang, Amro Awad, David Mohaisen, "*Understanding Internet of Things Malware by Analyzing Endpoints in their Static Artifacts*." **CoRR**, 2021.
 

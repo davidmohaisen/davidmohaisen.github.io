@@ -5,6 +5,22 @@ permalink: /publications/
 author_profile: true
 ---
 
+Editorship
+----
+
+1. David Mohaisen, Ruoming Jin: [Proceedings of the 10th International Conference on Computational Data and Social Networks, CSoNet 2021, Virtual Event, November 15-17, 2021](https://dblp.uni-trier.de/db/conf/ccs/scc2018.html). Lecture Notes in Computer Science 13116, Springer 2021, ISBN 978-3-030-91433-2 
+
+2. David Mohaisen, Zhi-Li Zhang: [Proceedings of the 15th International Conference on Emerging Networking Experiments And Technologies, CoNEXT 2019, Orlando, FL, USA, December 09-12, 2019](https://dblp.uni-trier.de/db/conf/conext/conext2019.html). ACM 2019, ISBN 978-1-4503-6998-5 
+
+3. Songqing Chen, Kim-Kwang Raymond Choo, Xinwen Fu, Wenjing Lou, David Mohaisen: [Proceedings of the 15th EAI International Conference Security and Privacy in Communication Networks, SecureComm 2019, Part I, Orlando, FL, USA, October 23-25, 2019](https://dblp.uni-trier.de/db/conf/securecomm/securecomm2019-1.html). Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering 304, Springer 2019, ISBN 978-3-030-37227-9
+
+3. Songqing Chen, Kim-Kwang Raymond Choo, Xinwen Fu, Wenjing Lou, David Mohaisen: [Proceedings of the 15th EAI International Conference Security and Privacy in Communication Networks, SecureComm 2019, Part II, Orlando, FL, USA, October 23-25, 2019](https://dblp.uni-trier.de/db/conf/securecomm/securecomm2019-2.html). Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering 305, Springer 2019, ISBN 978-3-030-37230-9
+
+4. David Mohaisen, Qian Wang: [Proceedings of the 6th International Workshop on Security in Cloud Computing, SCC@AsiaCCS 2018, Incheon, Republic of Korea, June 04-08, 2018](https://dblp.uni-trier.de/db/conf/ccs/scc2018.html). ACM 2018
+
+Journal and Conference Papers
+---
+
 Mohammed Abuhamad, Changhun Jung, David Mohaisen, DaeHun Nyang, "*SHIELD: Thwarting Code Authorship Attribution*." **CoRR**, 2023.
 
 Abdulrahman Alabduljabbar, Runyu Ma, Ahmed Abusnaina, Rhongho Jang, Songqing Chen, DaeHun Nyang, David Mohaisen, "*Measuring and Modeling the Free Content Web*." **CoRR**, 2023.

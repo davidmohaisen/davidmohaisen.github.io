@@ -22,67 +22,67 @@ Journal and Conference Papers
 ---
 
 [Analyzing In-browser Cryptojacking]()\
-Muhammad Saad, David Mohaisen\
+M. Saad, D. Mohaisen\
 **CoRR**, 2023.
 
 [SHIELD: Thwarting Code Authorship Attribution]()\
-Mohammed Abuhamad, Changhun Jung, David Mohaisen, DaeHun Nyang\
+M. Abuhamad, C. Jung, D. Mohaisen, D. Nyang\
 **CoRR**, 2023.
 
 [Measuring and Modeling the Free Content Web]()\
-Abdulrahman Alabduljabbar, Runyu Ma, Ahmed Abusnaina, Rhongho Jang, Songqing Chen, DaeHun Nyang, David Mohaisen\
+A. Alabduljabbar, R. Ma, A. Abusnaina, R. Jang, S. Chen, D. Nyang, M. Mohaisen\
 **CoRR**, 2023.
 
 [Exploration of Bitflip’s Effect on DNN Accuracy in Plaintext and Ciphertext]()\
-Kyle Thomas, Muhammad Santriaji, David Mohaisen and Yan Solihin\
+K. Thomas, M. Santriaji, D. Mohaisen and Y. Solihin\
 **IEEE Micro Magazine**, 2023.
 
 [Truthful and performance-optimal computation outsourcing for aerial surveillance platforms via learning-based auction]()\
-Soyi Jung, Jae-Hyun Kim, David Mohaisen, Joongheon Kim\
+S. Jung, J.-H. Kim, D. Mohaisen, J. Kim\
 **Comput. Networks**, 2023.
 
 [Self-Configurable Stabilized Real-Time Detection Learning for Autonomous Driving Applications]()\
-Won Yun, Soohyun Park, Joongheon Kim, David Mohaisen\
+W. Yun, S. Park, J. Kim, D. Mohaisen\
 **IEEE Trans. Intell. Transp. Syst.**, 2023.
 
 [Improving the Social Connectivity in Engineering Educational Networks and Implications]()\
-Manar Mohaisen, David Mohaisen\
+M. Mohaisen, D. Mohaisen\
 **IEEE Trans. Educ.**, 2023.
 
 [Understanding the Security and Performance of the Web Presence of Hospitals: A Measurement Study]()\
-Mohammed Alkinoon, Abdulrahman Alabduljabbar, Hattan Althebeiti, Rhongho Jang, DaeHun Nyang, David Mohaisen\
- **IEEE ICCCN**, Honolulu, HI, USA, 2023.
+M. Alkinoon, A. Alabduljabbar, H. Althebeiti, R. Jang, D. Nyang, D. Mohaisen\
+**IEEE ICCCN**, Honolulu, HI, USA, 2023.
 
 [Three Birds with One Stone: Efficient Partitioning Attacks on Interdependent Cryptocurrency Networks]()\ 
-Muhammad Saad and David Mohaisen\
+M. Saad and D. Mohaisen\
 **IEEE IEEE S&P**, 2023.
 
 [A Robust Counting Sketch for Data Plane Intrusion Detection]()\
-Sian Kim, Changhun Jung, RhongHo Jang, David Mohaisen, DaeHun Nyang\
+S. Kim, C. Jung, R. Jang, D. Mohaisen, D. Nyang\
 **ISOC NDSS**, San Diego, California, USA, 2023.
 
 [Learning Location from Shared Elevation Profiles in Fitness Apps: A Privacy Perspective]()\ 
-Ulku Meteriz-Yildiran, Necip Yildiran, Joongheon Kim, David Mohaisen\
+U. Meteriz-Yildiran, N. Yildiran, J. Kim, D. Mohaisen\
 **IEEE Trans. Mob. Comput.**, 2023.
 
 [Robust Natural Language Processing: Recent Advances, Challenges, and Future Directions]()\
-Marwan Omar, Soohyeon Choi, DaeHun Nyang, David Mohaisen\
+M. Omar, S. Choi, D. Nyang, D. Mohaisen\
 **CoRR**, 2022.
 
 [FAT-PIM: Low-Cost Error Detection for Processing-In-Memory]()\
-Kazi Zubair, Sumit Jha, David Mohaisen, Clayton Hughes, Amro Awad\
+K. Zubair, S. Jha, D. Mohaisen, C. Hughes, A. Awad\
 **CoRR**, 2022.
 
 [Cooperative Multi-Agent Deep Reinforcement Learning for Reliable Surveillance via Autonomous Multi-UAV Control]()\
-Won Yun, Soohyun Park, Joongheon Kim, Myungjae Shin, Soyi Jung, David Mohaisen, Jae-Hyun Kim\
+W. Yun, S. Park, J. Kim, M. Shin, S. Jung, D. Mohaisen, J.-H. Kim\
 **CoRR**, 2022.
 
 [RouteChain: Towards Blockchain-based secure and efficient BGP routing]()\
-Muhammad Saad, Afsah Anwar, Ashar Ahmad, Hisham Alasmary, Murat Yuksel, David Mohaisen\
+M. Saad, A. Anwar, A. Ahmad, H. Alasmary, M. Yuksel, D. Mohaisen\
 **Comput. Networks**, 2022.
 
 [WBC image classification and generative models based on convolutional neural network]()\
-Changhun Jung, Mohammed Abuhamad, David Mohaisen, Kyungja Han, DaeHun Nyang\
+C. Jung, M. Abuhamad, D. Mohaisen, K. Han, D. Nyang\
 **BMC Medical Imaging**, 2022.
 
 [Understanding Internet of Things malware by analyzing endpoints in their static artifacts]()\
@@ -94,19 +94,19 @@ H. Alasmary, A. Anwar, A. Abusnaina, A. Alabduljabbar, M. Abuhamad, A. Wang, D. 
 **IEEE Internet Things J.**, 2022.
 
 [Phoenix: Towards Ultra-Low Overhead, Recoverable, and Persistently Secure NVM]()\
-Mazen Al-Wadi, Kazi Zubair, David Mohaisen, Amro Awad\
+M. Al-Wadi, K. Zubair, D. Mohaisen, A. Awad\
 **IEEE Trans. Dependable Secur. Comput.**, 2022.
 
 [Investigating the Effect of Traffic Sampling on Machine Learning-Based Network Intrusion Detection Approaches]()\
-Jumabek Alikhanov, Rhongho Jang, Mohammed Abuhamad, David Mohaisen, Daehun Nyang, Youngtae Noh\
+K. Alikhanov, R. Jang, M. Abuhamad, D. Mohaisen, D. Nyang, Y. Noh\
 **IEEE Access**, 2022.
 
 [GraphShield: Dynamic Large Graphs for Secure Queries With Forward Privacy]()\
-Minxin Du, Shuangke Wu, Qian Wang, Dian Chen, Peipei Jiang, David Mohaisen\
+M. Du, S. Wu, Q. Wang, D. Chen, P. Jiang, D. Mohaisen\
 **IEEE Trans. Knowl. Data Eng.**, 2022.
 
 [Exploring Partitioning Attacks on the Bitcoin Network]()\
-Muhammad Saad, Victor Cook, Lan Nguyen, My Thai, David Mohaisen\
+M. Saad, V. Cook, L. Nguyen, M. Thai, D. Mohaisen\
 **IEEE/ACM Trans. Netw.**, 2022.
 
 [DL-FHMC: Deep Learning-Based Fine-Grained Hierarchical Learning Approach for Robust Malware Classification]()\
@@ -114,140 +114,140 @@ A. Abusnaina, M. Abuhamad, H. Alasmary, A. Anwar, R. Jang, S. Salem, D. Nyang, D
 **IEEE Trans. Dependable Secur. Comput.**, 2022.
 
 [Cooperative Multiagent Deep Reinforcement Learning for Reliable Surveillance via Autonomous Multi-UAV Control]()\
-Won Yun, Soohyun Park, Joongheon Kim, Myungjae Shin, Soyi Jung, David Mohaisen, Jae-Hyun Kim\
+W. Yun, S. Park, J. Kim, M. Shin, S. Jung, D. Mohaisen, J.-H. Kim\
 **IEEE Trans. Ind. Informatics**, 2022.
 
 [Cleaning the NVD: Comprehensive Quality Assessment, Improvements*, and Analyses]()\
-Afsah Anwar, Ahmed Abusnaina, Songqing Chen, Frank Li, David Mohaisen\
+A. Anwar, A. Abusnaina, S. Chen, F. Li, D. Mohaisen\
 **IEEE Trans. Dependable Secur. Comput.**, 2022.
 
 [BlockTrail: A Service for Secure and Transparent Blockchain-Driven Audit Trails]()\
-Ashar Ahmad, Muhammad Saad, Mohammed AlGhamdi, DaeHun Nyang, David Mohaisen\
+A. Ahmad, M. Saad, M. AlGhamdi, D. Nyang, D. Mohaisen\
 **IEEE Syst. J.**, 2022.
 
 [A One-Page Text Entry Method Optimized for Rectangle Smartwatches]()\
-Rhongho Jang, Changhun Jung, David Mohaisen, KyungHee Lee, DaeHun Nyang\
+R. Jang, C. Jung, D. Mohaisen, K. Lee, D. Nyang\
 **IEEE Trans. Mob. Comput.**, 2022.
 
 [A Large-Scale Behavioral Analysis of the Open DNS Resolvers on the Internet]()\
-Jeman Park, Rhongho Jang, Manar Mohaisen, David Mohaisen\
+J. Park, R. Jang, M. Mohaisen, D. Mohaisen\
 **IEEE/ACM Trans. Netw.**, 2022.
 
 [A Keylogging Inference Attack on Air-Tapping Keyboards in Virtual Environments]()\
-Ulku Meteriz-Yildiran, Necip Yildiran, Amro Awad, David Mohaisen\
+U. Meteriz-Yildiran, N. Yildiran, A. Awad, D. Mohaisen\
 **IEEE VR**, Christchurch, New Zealand, 2022.
 
 [Understanding the Security of Free Content Websites by Analyzing their SSL Certificates: A Comparative Study]()\
-Abdulrahman Alabduljabbar, Runyu Ma, Soohyeon Choi, Rhongho Jang, Songqing Chen, David Mohaisen\
+A. Alabduljabbar, R. Ma, S. Choi, R. Jang, S. Chen, D. Mohaisen\
 **ACM CySSS@AsiaCCS**, Nagasaki, 2022.
 
 [Systematically Evaluating the Robustness of ML-based IoT Malware Detection Systems]()\
-Ahmed Abusnaina, Afsah Anwar, Sultan Alshamrani, Abdulrahman Alabduljabbar, RhongHo Jang, DaeHun Nyang, David Mohaisen\
+A. Abusnaina, A. Anwar, S. Alshamrani, A. Alabduljabbar, R. Jang, D. Nyang, D. Mohaisen\
 **RAID**, Limassol, Cyprus, 2022.
 
 [Quantifying the Performance of Adversarial Training on Language Models with Distribution Shifts]()\
-Marwan Omar, Soohyeon Choi, Daehun Nyang, David Mohaisen\
+M. Omar, S. Choi, D. Nyang, D. Mohaisen\
 **ACM CySSS@AsiaCCS**, Nagasaki, Japan, 2022.
 
 [Minimizing Noise in HyperLogLog-Based Spread Estimation of Multiple Flows]()\
-Dinhnguyen Dao, Rhongho Jang, Changhun Jung, David Mohaisen, DaeHun Nyang\
+D. Dao, R. Jang, C. Jung, D. Mohaisen, D. Nyang\
 **IEEE DSN**, Baltimore, MD, USA, 2022.
 
 [Minerva: Rethinking Secure Architectures for the Era of Fabric-Attached Memory Architectures]()\
-Mazen Al-Wadi, Rujia Wang, David Mohaisen, Clayton Hughes, Simon Hammond, Amro Awad\
+M. Al-Wadi, R. Wang, D. Mohaisen, C. Hughes, S. Hammond, A. Awad\
 **IEEE IPDPS**, Virtual Event / Lyon, France, 2022.
 
 [Miners in the Cloud: Measuring and Analyzing Cryptocurrency Mining in Public Clouds]()\
-Ayodeji Adeniran, David Mohaisen\
+A. Adeniran, D. Mohaisen\
 **CSoNet**, Virtual Event, 2022.
 
 [Measuring the Privacy Dimension of Free Content Websites through Automated Privacy Policy Analysis and Annotation]()\
-Abdulrahman Alabduljabbar, David Mohaisen\
- **SocialNLP@WWW**, Virtual Event / Lyon, France, 2022.
+A. Alabduljabbar, D. Mohaisen\
+**SocialNLP@WWW**, Virtual Event / Lyon, France, 2022.
 
 [Making Adversarially-Trained Language Models Forget with Model Retraining: A Case Study on Hate Speech Detection]()\ 
-Marwan Omar, David Mohaisen\
+M. Omar, D. Mohaisen\
 **SocialNLP@WWW**, Virtual Event / Lyon, France, 2022.
 
 [Hierarchical Reinforcement Learning using Gaussian Random Trajectory Generation in Autonomous Furniture Assembly]()\
-Won Yun, David Mohaisen, Soyi Jung, Jong-Kook Kim, Joongheon Kim\
+W. Yun, D. Mohaisen, S. Jung, J.-K. Kim, J. Kim\
 **ACM CIKM**, Atlanta, GA, USA, 2022.
 
 [Filesystem Encryption or Direct-Access for NVM Filesystems? Let's Have Both!]()\
-Kazi Zubair, David Mohaisen, Amro Awad,\
+K. Zubair, D. Mohaisen, A. Awad,\
 **IEEE HPCA**, Seoul, South Korea, 2022.
 
 [Enriching Vulnerability Reports Through Automated and Augmented Description Summarization]()\
-Hattan Althebeiti, David Mohaisen\
+H. Althebeiti, D. Mohaisen\
 **WISA**, 2022.
 
 [Do Content Management Systems Impact the Security of Free Content Websites?]()\
-Mohamed Alqadhi, Abdulrahman Alabduljabbar, Kyle Thomas, Saeed Salem, DaeHun Nyang, David Mohaisen\
+M. Alqadhi, A. Alabduljabbar, K. Thomas, S. Salem, D. Nyang, D. Mohaisen\
 **CSoNet**, Virtual Event, 2022.
 
 [AutoDefense: Reinforcement Learning Based Autoreactive Defense Against Network Attacks]()\
-Yu Mi, David Mohaisen, An Wang\
+Y. Mi, D. Mohaisen, A. Wang\
 **IEEE CNS**, Austin, TX, USA, 2022.
 
 [AiRType: An Air-tapping Keyboard for Augmented Reality Environments]()\
-Necip Yildiran, Ulku Meteriz-Yildiran, David Mohaisen\
+N. Yildiran, U. Meteriz-Yildiran, D. Mohaisen\
 **IEEE VR**, Christchurch, New Zealand, 2022.
 
 [AcousticType: Smartwatch-Enabled Cross-Device Text Entry Method Using Keyboard Acoustics]()\
-Ulku Meteriz-Yidiran, Necip Yildiran, David Mohaisen\
+U. Meteriz-Yidiran, N. Yildiran, D. Mohaisen\
 **ACM CHI**, New Orleans, LA, USA, Extended Abstracts, 2022.
 
 [A Scalable and Dynamic ACL System for In-Network Defense]()\
-Changhun Jung, Sian Kim, Rhongho Jang, David Mohaisen, DaeHun Nyang\
+C. Jung, S. Kim, R. Jang, D. Mohaisen, D. Nyang\
 **ACM CCS**, Los Angeles, CA, USA, 2022.
 
 [Towards Semantically-Rich Spatial Network Representation Learning via Automated Feature Topic Pairing]()\
-Dongjie Wang, Kunpeng Liu, David Mohaisen, Pengyang Wang, Chang-Tien Lu, Yanjie Fu\
+D. Wang, K. Liu, D. Mohaisen, P. Wang, C.-T. Lu, Y. Fu\
 **Frontiers Big Data**, 2021.
 
 [Towards Low-Cost Mechanisms to Enable Restoration of Encrypted Non-Volatile Memories]()\
-Mao Ye, Kazi Zubair, David Mohaisen, Amro Awad\
+M. Ye, K. Zubair, D. Mohaisen, A. Awad\
 **IEEE Trans. Dependable Secur. Comput.**, 2021.
 
 [TLDR: Deep Learning-Based Automated Privacy Policy Annotation with Key Policy Highlights]()\
-Abdulrahman Alabduljabbar, Ahmed Abusnaina, Ulku Meteriz-Yildiran, David Mohaisen\
+A. Alabduljabbar, A. Abusnaina, U. Meteriz-Yildiran, D. Mohaisen\
 **ACM WPES**, Virtual Event, Korea, 2021.
 
 [Systemically Evaluating the Robustness of ML-based IoT Malware Detectors]()\
-Ahmed Abusnaina, Afsah Anwar, Sultan Alshamrani, Abdulrahman Alabduljabbar, Rhongho Jang, DaeHun Nyang, David Mohaisen\ 
+A. Abusnaina, A. Anwar, S. Alshamrani, A. Alabduljabbar, R. Jang, D. Nyang, D. Mohaisen\
 **IEEE DSN**, Taipei, Taiwan, Supplemental Volume, 2021\
 🏆 **Best Paper Award (Extended Abstract)**
 
 [SyncAttack: Double-spending in Bitcoin Without Mining Power]()\ 
-Muhammad Saad, Songqing Chen, David Mohaisen\
+M. Saad, S. Chen, D. Mohaisen\
 **ACM CCS**, Virtual Event, Republic of Korea, 2021
 
 [Sensor-Based Continuous Authentication of Smartphones' Users Using Behavioral Biometrics: A Contemporary Survey]()\
-Mohammed Abuhamad, Ahmed Abusnaina, Daehun Nyang, David Mohaisen\ 
+M. Abuhamad, A. Abusnaina, D. Nyang, D. Mohaisen\ 
 **IEEE Internet Things J.**, 2021.
 
 [Security Breaches in the Healthcare Domain: A Spatiotemporal Analysis]()\
-Mohammed Alkinoon, Marwan Omar, Manar Mohaisen, David Mohaisen\
+M. Alkinoon, M. Omar, M. Mohaisen, D. Mohaisen\
 **CSoNet**, Virtual Event, 2021.
 
 [SSD-Assisted Ransomware Detection and Data Recovery Techniques]()\
-SungHa Baek, Youngdon Jung, David Mohaisen, Sungjin Lee, DaeHun Nyang\
+S. Baek, Y. Jung, D. Mohaisen, S. Lee, D. Nyang\
 **IEEE Trans. Computers**, 2021.
 
 [SIA: Smartwatch-Enabled Inference Attacks on Physical Keyboards Using Acoustic Signals]()\
-Ulku Meteriz-Yildiran, Necip Yildiran, David Mohaisen\
+U. Meteriz-Yildiran, N. Yildiran, D. Mohaisen\
 **ACM WPES**, Virtual Event, Korea, 2021.
 
 [Root Cause Analyses for the Deteriorating Bitcoin Network Synchronization]()\
-Muhammad Saad, Songqing Chen, David Mohaisen\
+M. Saad, S. Chen, D. Mohaisen\
 **IEEE ICDCS**, Washington DC, USA, 2021.
 
 [Revisiting Nakamoto Consensus in Asynchronous Networks: A Comprehensive Analysis of Bitcoin Safety and ChainQuality]()\
-Muhammad Saad, Afsah Anwar, Srivatsan Ravi, David Mohaisen\
+M. Saad, A. Anwar, S. Ravi, D. Mohaisen\
 **ACM CCS**, Virtual Event, Republic of Korea, 2021.
 
 [ProMT: optimizing integrity tree updates for write-intensive pages in secure NVMs.](https://dl.acm.org/doi/10.1145/3447818.3460377)\
-Mazen Al-Wadi, David Mohaisen, Amro Awad\
+M. Al-Wadi, D. Mohaisen, A. Awad\
 **ACM ICS**,\
 Virtual Event, USA, 2021.\
 🏆 **Best Paper Award Nominee**

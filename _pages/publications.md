@@ -8,108 +8,194 @@ author_profile: true
 Editorship
 ----
 
-1. David Mohaisen, Ruoming Jin: [Proceedings of the 10th International Conference on Computational Data and Social Networks, CSoNet 2021, Virtual Event, November 15-17, 2021](https://dblp.uni-trier.de/db/conf/ccs/scc2018.html). Lecture Notes in Computer Science 13116, Springer 2021, ISBN 978-3-030-91433-2 
+5. David Mohaisen, Ruoming Jin: [Proceedings of the 10th International Conference on Computational Data and Social Networks, CSoNet 2021, Virtual Event, November 15-17, 2021](https://dblp.uni-trier.de/db/conf/ccs/scc2018.html). Lecture Notes in Computer Science 13116, Springer 2021, ISBN 978-3-030-91433-2 
 
-2. David Mohaisen, Zhi-Li Zhang: [Proceedings of the 15th International Conference on Emerging Networking Experiments And Technologies, CoNEXT 2019, Orlando, FL, USA, December 09-12, 2019](https://dblp.uni-trier.de/db/conf/conext/conext2019.html). ACM 2019, ISBN 978-1-4503-6998-5 
+4. David Mohaisen, Zhi-Li Zhang: [Proceedings of the 15th International Conference on Emerging Networking Experiments And Technologies, CoNEXT 2019, Orlando, FL, USA, December 09-12, 2019](https://dblp.uni-trier.de/db/conf/conext/conext2019.html). ACM 2019, ISBN 978-1-4503-6998-5 
 
 3. Songqing Chen, Kim-Kwang Raymond Choo, Xinwen Fu, Wenjing Lou, David Mohaisen: [Proceedings of the 15th EAI International Conference Security and Privacy in Communication Networks, SecureComm 2019, Part I, Orlando, FL, USA, October 23-25, 2019](https://dblp.uni-trier.de/db/conf/securecomm/securecomm2019-1.html). Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering 304, Springer 2019, ISBN 978-3-030-37227-9
 
-3. Songqing Chen, Kim-Kwang Raymond Choo, Xinwen Fu, Wenjing Lou, David Mohaisen: [Proceedings of the 15th EAI International Conference Security and Privacy in Communication Networks, SecureComm 2019, Part II, Orlando, FL, USA, October 23-25, 2019](https://dblp.uni-trier.de/db/conf/securecomm/securecomm2019-2.html). Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering 305, Springer 2019, ISBN 978-3-030-37230-9
+2. Songqing Chen, Kim-Kwang Raymond Choo, Xinwen Fu, Wenjing Lou, David Mohaisen: [Proceedings of the 15th EAI International Conference Security and Privacy in Communication Networks, SecureComm 2019, Part II, Orlando, FL, USA, October 23-25, 2019](https://dblp.uni-trier.de/db/conf/securecomm/securecomm2019-2.html). Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering 305, Springer 2019, ISBN 978-3-030-37230-9
 
-4. David Mohaisen, Qian Wang: [Proceedings of the 6th International Workshop on Security in Cloud Computing, SCC@AsiaCCS 2018, Incheon, Republic of Korea, June 04-08, 2018](https://dblp.uni-trier.de/db/conf/ccs/scc2018.html). ACM 2018
+1. David Mohaisen, Qian Wang: [Proceedings of the 6th International Workshop on Security in Cloud Computing, SCC@AsiaCCS 2018, Incheon, Republic of Korea, June 04-08, 2018](https://dblp.uni-trier.de/db/conf/ccs/scc2018.html). ACM 2018
 
 Journal and Conference Papers
 ---
 
-Mohammed Abuhamad, Changhun Jung, David Mohaisen, DaeHun Nyang, "*SHIELD: Thwarting Code Authorship Attribution*." **CoRR**, 2023.
+[Analyzing In-browser Cryptojacking]()\
+Muhammad Saad, David Mohaisen\
+**CoRR**, 2023.
 
-Abdulrahman Alabduljabbar, Runyu Ma, Ahmed Abusnaina, Rhongho Jang, Songqing Chen, DaeHun Nyang, David Mohaisen, "*Measuring and Modeling the Free Content Web*." **CoRR**, 2023.
+[SHIELD: Thwarting Code Authorship Attribution]()\
+Mohammed Abuhamad, Changhun Jung, David Mohaisen, DaeHun Nyang\
+**CoRR**, 2023.
 
-Muhammad Saad, David Mohaisen, "*Analyzing In-browser Cryptojacking*." **CoRR**, 2023.
+[Measuring and Modeling the Free Content Web]()\
+Abdulrahman Alabduljabbar, Runyu Ma, Ahmed Abusnaina, Rhongho Jang, Songqing Chen, DaeHun Nyang, David Mohaisen\ 
+**CoRR**, 2023.
 
-Kyle Thomas, Muhammad Santriaji, David Mohaisen and Yan Solihin, "*Exploration of Bitflip’s Effect on DNN Accuracy in Plaintext and Ciphertext*," in **IEEE Micro Magazine**, 2023.
+[Exploration of Bitflip’s Effect on DNN Accuracy in Plaintext and Ciphertext]()\
+Kyle Thomas, Muhammad Santriaji, David Mohaisen and Yan Solihin\
+**IEEE Micro Magazine**, 2023.
 
-Soyi Jung, Jae-Hyun Kim, David Mohaisen, Joongheon Kim, "*Truthful and performance-optimal computation outsourcing for aerial surveillance platforms via learning-based auction*." **Comput. Networks**, 2023.
+[Truthful and performance-optimal computation outsourcing for aerial surveillance platforms via learning-based auction]()\
+Soyi Jung, Jae-Hyun Kim, David Mohaisen, Joongheon Kim\ 
+**Comput. Networks**, 2023.
 
-Won Yun, Soohyun Park, Joongheon Kim, David Mohaisen, "*Self-Configurable Stabilized Real-Time Detection Learning for Autonomous Driving Applications*." **IEEE Trans. Intell. Transp. Syst.**, 2023.
+[Self-Configurable Stabilized Real-Time Detection Learning for Autonomous Driving Applications]()\
+Won Yun, Soohyun Park, Joongheon Kim, David Mohaisen\
+**IEEE Trans. Intell. Transp. Syst.**, 2023.
 
-Manar Mohaisen, David Mohaisen, "*Improving the Social Connectivity in Engineering Educational Networks and Implications*." **IEEE Trans. Educ.**, 2023.
+[Improving the Social Connectivity in Engineering Educational Networks and Implications]()\
+Manar Mohaisen, David Mohaisen\
+**IEEE Trans. Educ.**, 2023.
 
-Mohammed Alkinoon, Abdulrahman Alabduljabbar, Hattan Althebeiti, Rhongho Jang, DaeHun Nyang, David Mohaisen, "*Understanding the Security and Performance of the Web Presence of Hospitals: A Measurement Study*". The 32nd International Conference on Computer Communications and Networks, **ICCCN**, Honolulu, HI, USA, 2023.
+[Understanding the Security and Performance of the Web Presence of Hospitals: A Measurement Study]()\
+Mohammed Alkinoon, Abdulrahman Alabduljabbar, Hattan Althebeiti, Rhongho Jang, DaeHun Nyang, David Mohaisen\
+ **IEEE ICCCN**, Honolulu, HI, USA, 2023.
 
-Muhammad Saad and David Mohaisen, "*Three Birds with One Stone: Efficient Partitioning Attacks on Interdependent Cryptocurrency Networks*," IEEE Symposium on Security and Privacy (**IEEE S&P**) 2023.
+[Three Birds with One Stone: Efficient Partitioning Attacks on Interdependent Cryptocurrency Networks]()\ 
+Muhammad Saad and David Mohaisen\
+**IEEE IEEE S&P**, 2023.
 
-Sian Kim, Changhun Jung, RhongHo Jang, David Mohaisen, DaeHun Nyang, "*A Robust Counting Sketch for Data Plane Intrusion Detection*" In the proceedings of 30th Annual Network and Distributed System Security Symposium, **NDSS**, San Diego, California, USA, 2023.
+[A Robust Counting Sketch for Data Plane Intrusion Detection]()\
+Sian Kim, Changhun Jung, RhongHo Jang, David Mohaisen, DaeHun Nyang\
+**ISOC NDSS**, San Diego, California, USA, 2023.
 
-Ulku Meteriz-Yildiran, Necip Yildiran, Joongheon Kim, David Mohaisen, "*Learning Location from Shared Elevation Profiles in Fitness Apps: A Privacy Perspective*." **IEEE Trans. Mob. Comput.**, 2023.
+[Learning Location from Shared Elevation Profiles in Fitness Apps: A Privacy Perspective]()\ 
+Ulku Meteriz-Yildiran, Necip Yildiran, Joongheon Kim, David Mohaisen\
+**IEEE Trans. Mob. Comput.**, 2023.
 
-Marwan Omar, Soohyeon Choi, DaeHun Nyang, David Mohaisen, "*Robust Natural Language Processing: Recent Advances, Challenges, and Future Directions*." **CoRR**, 2022.
+[Robust Natural Language Processing: Recent Advances, Challenges, and Future Directions]()\
+Marwan Omar, Soohyeon Choi, DaeHun Nyang, David Mohaisen\
+**CoRR**, 2022.
 
-Kazi Zubair, Sumit Jha, David Mohaisen, Clayton Hughes, Amro Awad, "*FAT-PIM: Low-Cost Error Detection for Processing-In-Memory*." **CoRR**, 2022.
+[FAT-PIM: Low-Cost Error Detection for Processing-In-Memory]()\
+Kazi Zubair, Sumit Jha, David Mohaisen, Clayton Hughes, Amro Awad\
+**CoRR**, 2022.
 
-Won Yun, Soohyun Park, Joongheon Kim, Myungjae Shin, Soyi Jung, David Mohaisen, Jae-Hyun Kim, "*Cooperative Multi-Agent Deep Reinforcement Learning for Reliable Surveillance via Autonomous Multi-UAV Control*." **CoRR**, 2022.
+[Cooperative Multi-Agent Deep Reinforcement Learning for Reliable Surveillance via Autonomous Multi-UAV Control]()\
+Won Yun, Soohyun Park, Joongheon Kim, Myungjae Shin, Soyi Jung, David Mohaisen, Jae-Hyun Kim\
+**CoRR**, 2022.
 
-Muhammad Saad, Afsah Anwar, Ashar Ahmad, Hisham Alasmary, Murat Yuksel, David Mohaisen, "*RouteChain: Towards Blockchain-based secure and efficient BGP routing*". **Comput. Networks**, 2022.
+[RouteChain: Towards Blockchain-based secure and efficient BGP routing]()\
+Muhammad Saad, Afsah Anwar, Ashar Ahmad, Hisham Alasmary, Murat Yuksel, David Mohaisen\
+**Comput. Networks**, 2022.
 
-Changhun Jung, Mohammed Abuhamad, David Mohaisen, Kyungja Han, DaeHun Nyang, "*WBC image classification and generative models based on convolutional neural network*." **BMC Medical Imaging**, 2022.
+[WBC image classification and generative models based on convolutional neural network]()\
+Changhun Jung, Mohammed Abuhamad, David Mohaisen, Kyungja Han, DaeHun Nyang\
+**BMC Medical Imaging**, 2022.
 
-Jinchun Choi, Afsah Anwar, Abdulrahman Alabduljabbar, Hisham Alasmary, Jeffrey Spaulding, An Wang, Songqing Chen, DaeHun Nyang, Amro Awad, David Mohaisen, "*Understanding Internet of Things malware by analyzing endpoints in their static artifacts*". **Comput. Networks**, 2022.
+[Understanding Internet of Things malware by analyzing endpoints in their static artifacts]()\
+J. Choi, A. Anwar, A. Alabduljabbar, H. Alasmary, J. Spaulding, A. Wang, S. Chen, D. Nyang, A. Awad, D. Mohaisen\
+**Comput. Networks**, 2022.
 
-Hisham Alasmary, Afsah Anwar, Ahmed Abusnaina, Abdulrahman Alabduljabbar, Mohammed Abuhamad, An Wang, Daehun Nyang, Amro Awad, David Mohaisen, "*ShellCore: Automating Malicious IoT Software Detection Using Shell Commands Representation*." **IEEE Internet Things J.**, 2022.
+[ShellCore: Automating Malicious IoT Software Detection Using Shell Commands Representation]()\
+H. Alasmary, A. Anwar, A. Abusnaina, A. Alabduljabbar, M. Abuhamad, A. Wang, D. Nyang, A. Awad, D. Mohaisen\
+**IEEE Internet Things J.**, 2022.
 
-Mazen Al-Wadi, Kazi Zubair, David Mohaisen, Amro Awad, "*Phoenix: Towards Ultra-Low Overhead, Recoverable, and Persistently Secure NVM*." **IEEE Trans. Dependable Secur.** Comput., 2022.
+[Phoenix: Towards Ultra-Low Overhead, Recoverable, and Persistently Secure NVM]()\
+Mazen Al-Wadi, Kazi Zubair, David Mohaisen, Amro Awad\
+**IEEE Trans. Dependable Secur. Comput.**, 2022.
 
-Jumabek Alikhanov, Rhongho Jang, Mohammed Abuhamad, David Mohaisen, Daehun Nyang, Youngtae Noh, "*Investigating the Effect of Traffic Sampling on Machine Learning-Based Network Intrusion Detection Approaches*." **IEEE Access**, 2022.
+[Investigating the Effect of Traffic Sampling on Machine Learning-Based Network Intrusion Detection Approaches]()\
+Jumabek Alikhanov, Rhongho Jang, Mohammed Abuhamad, David Mohaisen, Daehun Nyang, Youngtae Noh\
+**IEEE Access**, 2022.
 
-Minxin Du, Shuangke Wu, Qian Wang, Dian Chen, Peipei Jiang, David Mohaisen, "*GraphShield: Dynamic Large Graphs for Secure Queries With Forward Privacy*." **IEEE Trans. Knowl. Data Eng.**, 2022.
+[GraphShield: Dynamic Large Graphs for Secure Queries With Forward Privacy]()\
+Minxin Du, Shuangke Wu, Qian Wang, Dian Chen, Peipei Jiang, David Mohaisen\
+**IEEE Trans. Knowl. Data Eng.**, 2022.
 
-Muhammad Saad, Victor Cook, Lan Nguyen, My Thai, David Mohaisen, "*Exploring Partitioning Attacks on the Bitcoin Network*." **IEEE/ACM Trans. Netw.**, 2022.
+[Exploring Partitioning Attacks on the Bitcoin Network]()\
+Muhammad Saad, Victor Cook, Lan Nguyen, My Thai, David Mohaisen\ 
+**IEEE/ACM Trans. Netw.**, 2022.
 
-Ahmed Abusnaina, Mohammed Abuhamad, Hisham Alasmary, Afsah Anwar, Rhongho Jang, Saeed Salem, DaeHun Nyang, David Mohaisen, "*DL-FHMC: Deep Learning-Based Fine-Grained Hierarchical Learning Approach for Robust Malware Classification*." **IEEE Trans. Dependable Secur. Comput.**, 2022.
+[DL-FHMC: Deep Learning-Based Fine-Grained Hierarchical Learning Approach for Robust Malware Classification]()\
+A. Abusnaina, M. Abuhamad, H. Alasmary, A. Anwar, R. Jang, S. Salem, D. Nyang, D. Mohaisen\
+**IEEE Trans. Dependable Secur. Comput.**, 2022.
 
-Won Yun, Soohyun Park, Joongheon Kim, Myungjae Shin, Soyi Jung, David Mohaisen, Jae-Hyun Kim, "*Cooperative Multiagent Deep Reinforcement Learning for Reliable Surveillance via Autonomous Multi-UAV Control*." **IEEE Trans. Ind. Informatics**, 2022.
+[Cooperative Multiagent Deep Reinforcement Learning for Reliable Surveillance via Autonomous Multi-UAV Control]()\
+Won Yun, Soohyun Park, Joongheon Kim, Myungjae Shin, Soyi Jung, David Mohaisen, Jae-Hyun Kim\
+**IEEE Trans. Ind. Informatics**, 2022.
 
-Afsah Anwar, Ahmed Abusnaina, Songqing Chen, Frank Li, David Mohaisen, "*Cleaning the NVD: Comprehensive Quality Assessment, Improvements*, and Analyses." **IEEE Trans. Dependable Secur. Comput.**, 2022.
+[Cleaning the NVD: Comprehensive Quality Assessment, Improvements*, and Analyses]()\
+Afsah Anwar, Ahmed Abusnaina, Songqing Chen, Frank Li, David Mohaisen\
+**IEEE Trans. Dependable Secur. Comput.**, 2022.
 
-Ashar Ahmad, Muhammad Saad, Mohammed AlGhamdi, DaeHun Nyang, David Mohaisen, "*BlockTrail: A Service for Secure and Transparent Blockchain-Driven Audit Trails*." **IEEE Syst. J.**, 2022.
+[BlockTrail: A Service for Secure and Transparent Blockchain-Driven Audit Trails]()\
+Ashar Ahmad, Muhammad Saad, Mohammed AlGhamdi, DaeHun Nyang, David Mohaisen\ 
+**IEEE Syst. J.**, 2022.
 
-Rhongho Jang, Changhun Jung, David Mohaisen, KyungHee Lee, DaeHun Nyang, "*A One-Page Text Entry Method Optimized for Rectangle Smartwatches*." **IEEE Trans. Mob. Comput.**, 2022.
+[A One-Page Text Entry Method Optimized for Rectangle Smartwatches]()\
+Rhongho Jang, Changhun Jung, David Mohaisen, KyungHee Lee, DaeHun Nyang\
+**IEEE Trans. Mob. Comput.**, 2022.
 
-Jeman Park, Rhongho Jang, Manar Mohaisen, David Mohaisen, "*A Large-Scale Behavioral Analysis of the Open DNS Resolvers on the Internet*." **IEEE/ACM Trans. Netw.**, 2022.
+[A Large-Scale Behavioral Analysis of the Open DNS Resolvers on the Internet]()\
+Jeman Park, Rhongho Jang, Manar Mohaisen, David Mohaisen\
+**IEEE/ACM Trans. Netw.**, 2022.
 
-Ulku Meteriz-Yildiran, Necip Yildiran, Amro Awad, David Mohaisen, "*A Keylogging Inference Attack on Air-Tapping Keyboards in Virtual Environments*." In the proceedings of IEEE Conference on Virtual Reality and 3D User Interfaces, **VR**, Christchurch, New Zealand, 2022.
+[A Keylogging Inference Attack on Air-Tapping Keyboards in Virtual Environments]()\
+Ulku Meteriz-Yildiran, Necip Yildiran, Amro Awad, David Mohaisen\
+**IEEE VR**, Christchurch, New Zealand, 2022.
 
-Abdulrahman Alabduljabbar, Runyu Ma, Soohyeon Choi, Rhongho Jang, Songqing Chen, David Mohaisen, "*Understanding the Security of Free Content Websites by Analyzing their SSL Certificates: A Comparative Study*". In Proceedings of the 1st Workshop on Cybersecurity and Social Sciences, **CySSS@AsiaCCS**, Nagasaki, 2022.
+[Understanding the Security of Free Content Websites by Analyzing their SSL Certificates: A Comparative Study]()\
+Abdulrahman Alabduljabbar, Runyu Ma, Soohyeon Choi, Rhongho Jang, Songqing Chen, David Mohaisen\
+**ACM CySSS@AsiaCCS**, Nagasaki, 2022.
 
-Ahmed Abusnaina, Afsah Anwar, Sultan Alshamrani, Abdulrahman Alabduljabbar, RhongHo Jang, DaeHun Nyang, David Mohaisen, "*Systematically Evaluating the Robustness of ML-based IoT Malware Detection Systems*." In the proceedings of 25th International Symposium on Research in Attacks, Intrusions and Defenses, **RAID**, Limassol, Cyprus, 2022.
+[Systematically Evaluating the Robustness of ML-based IoT Malware Detection Systems]()\
+Ahmed Abusnaina, Afsah Anwar, Sultan Alshamrani, Abdulrahman Alabduljabbar, RhongHo Jang, DaeHun Nyang, David Mohaisen\
+**RAID**, Limassol, Cyprus, 2022.
 
-Marwan Omar, Soohyeon Choi, Daehun Nyang, David Mohaisen, "*Quantifying the Performance of Adversarial Training on Language Models with Distribution Shifts*." In Proceedings of the 1st Workshop on Cybersecurity and Social Sciences, **CySSS@AsiaCCS**, Nagasaki, Japan, 2022.
+[Quantifying the Performance of Adversarial Training on Language Models with Distribution Shifts]()\
+Marwan Omar, Soohyeon Choi, Daehun Nyang, David Mohaisen\
+**ACM CySSS@AsiaCCS**, Nagasaki, Japan, 2022.
 
-Dinhnguyen Dao, Rhongho Jang, Changhun Jung, David Mohaisen, DaeHun Nyang, "*Minimizing Noise in HyperLogLog-Based Spread Estimation of Multiple Flows*." In the proceedings of 52nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks, **DSN**, Baltimore, MD, USA, 2022.
+[Minimizing Noise in HyperLogLog-Based Spread Estimation of Multiple Flows]()\
+Dinhnguyen Dao, Rhongho Jang, Changhun Jung, David Mohaisen, DaeHun Nyang\
+**IEEE DSN**, Baltimore, MD, USA, 2022.
 
-Mazen Al-Wadi, Rujia Wang, David Mohaisen, Clayton Hughes, Simon Hammond, Amro Awad, *"Minerva: Rethinking Secure Architectures for the Era of Fabric-Attached Memory Architectures.*" In the proceedings of 2022 IEEE International Parallel and Distributed Processing Symposium, **IPDPS**, Virtual Event / Lyon, France, 2022.
+[Minerva: Rethinking Secure Architectures for the Era of Fabric-Attached Memory Architectures]()\
+Mazen Al-Wadi, Rujia Wang, David Mohaisen, Clayton Hughes, Simon Hammond, Amro Awad\
+**IEEE IPDPS**, Virtual Event / Lyon, France, 2022.
 
-Ayodeji Adeniran, David Mohaisen, "*Miners in the Cloud: Measuring and Analyzing Cryptocurrency Mining in Public Clouds*." **CSoNet**, Virtual Event, 2022.
+[Miners in the Cloud: Measuring and Analyzing Cryptocurrency Mining in Public Clouds]()\
+Ayodeji Adeniran, David Mohaisen\
+**CSoNet**, Virtual Event, 2022.
 
-Abdulrahman Alabduljabbar, David Mohaisen, "*Measuring the Privacy Dimension of Free Content Websites through Automated Privacy Policy Analysis and Annotation*." In the proceedings of Companion of The Web Conference Companion Volume, **WWW**, Virtual Event / Lyon, France, 2022.
+[Measuring the Privacy Dimension of Free Content Websites through Automated Privacy Policy Analysis and Annotation]()\
+Abdulrahman Alabduljabbar, David Mohaisen\
+ **SocialNLP@WWW**, Virtual Event / Lyon, France, 2022.
 
-Ayodeji Adeniran, David Mohaisen, "*Measuring Cryptocurrency Mining in Public Cloud Services: A Security Perspective*." In Proceedings of the 11th International Conference of Computational Data and Social Networks, **CSoNet**, Virtual Event, 2022.
+[Making Adversarially-Trained Language Models Forget with Model Retraining: A Case Study on Hate Speech Detection]()\ 
+Marwan Omar, David Mohaisen\
+**SocialNLP@WWW**, Virtual Event / Lyon, France, 2022.
 
-Marwan Omar, David Mohaisen, *"Making Adversarially-Trained Language Models Forget with Model Retraining: A Case Study on Hate Speech Detection.*" In the proceedings of Companion of The Web Conference 2022, **WWW**, Virtual Event / Lyon, France, 2022.
+[Hierarchical Reinforcement Learning using Gaussian Random Trajectory Generation in Autonomous Furniture Assembly]()\
+Won Yun, David Mohaisen, Soyi Jung, Jong-Kook Kim, Joongheon Kim\
+**ACM CIKM**, Atlanta, GA, USA, 2022.
 
-Won Yun, David Mohaisen, Soyi Jung, Jong-Kook Kim, Joongheon Kim, "*Hierarchical Reinforcement Learning using Gaussian Random Trajectory Generation in Autonomous Furniture Assembly*." In the proceedings of Proceedings of the 31st ACM International Conference on Information and Knowledge Management, **CIKM**, Atlanta, GA, USA, 2022.
+[Filesystem Encryption or Direct-Access for NVM Filesystems? Let's Have Both!]()\
+Kazi Zubair, David Mohaisen, Amro Awad,\
+**IEEE HPCA**, Seoul, South Korea, 2022.
 
-Kazi Zubair, David Mohaisen, Amro Awad, "Filesystem Encryption or Direct-Access for NVM Filesystems? Let's Have Both!." In the proceedings of IEEE International Symposium on High-Performance Computer Architecture, **HPCA**, Seoul, South Korea, 2022.
+[Enriching Vulnerability Reports Through Automated and Augmented Description Summarization]()\
+Hattan Althebeiti, David Mohaisen\
+**WISA**, 2022.
 
-Hattan Althebeiti, David Mohaisen, "*Enriching Vulnerability Reports Through Automated and Augmented Description Summarization*." WISA, 2022.
+[Do Content Management Systems Impact the Security of Free Content Websites?]()\
+Mohamed Alqadhi, Abdulrahman Alabduljabbar, Kyle Thomas, Saeed Salem, DaeHun Nyang, David Mohaisen\
+**CSoNet**, Virtual Event, 2022.
 
-Mohamed Alqadhi, Abdulrahman Alabduljabbar, Kyle Thomas, Saeed Salem, DaeHun Nyang, David Mohaisen, "*Do Content Management Systems Impact the Security of Free Content Websites?*." In the proceedings of 11th International Conference Computational Data and Social Networks, **CSoNet**, Virtual Event, 2022.
+[AutoDefense: Reinforcement Learning Based Autoreactive Defense Against Network Attacks]()\
+Yu Mi, David Mohaisen, An Wang\
+**IEEE CNS**, Austin, TX, USA, 2022.
 
-Yu Mi, David Mohaisen, An Wang, "*AutoDefense: Reinforcement Learning Based Autoreactive Defense Against Network Attacks*." In the proceedings of 10th IEEE Conference on Communications and Network Security, **CNS**, Austin, TX, USA, 2022.
+[AiRType: An Air-tapping Keyboard for Augmented Reality Environments]()\
+Necip Yildiran, Ulku Meteriz-Yildiran, David Mohaisen\ 
+**IEEE VR**, Christchurch, New Zealand, 2022.
 
-Necip Yildiran, {\"{U}}lk{\"{u}} Meteriz{-}Yildiran, David Mohaisen, "*AiRType: An Air-tapping Keyboard for Augmented Reality Environments*." In the proceedings of 2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops, **VR Workshops**, Christchurch, New Zealand, 2022.
-
-Ulku Meteriz-Yidiran, Necip Yildiran, David Mohaisen, "AcousticType: Smartwatch-Enabled Cross-Device Text Entry Method Using Keyboard Acoustics." In the proceedings of CHI Conference on Human Factors in Computing Systems, **CHI**, New Orleans, LA, USA, Extended Abstracts, 2022.
+[AcousticType: Smartwatch-Enabled Cross-Device Text Entry Method Using Keyboard Acoustics]()\
+Ulku Meteriz-Yidiran, Necip Yildiran, David Mohaisen\
+**ACM CHI**, New Orleans, LA, USA, Extended Abstracts, 2022.
 
 Changhun Jung, Sian Kim, Rhongho Jang, David Mohaisen, DaeHun Nyang, "*A Scalable and Dynamic ACL System for In-Network Defense*." In the proceedings of Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security, **CCS**, Los Angeles, CA, USA, 2022.
 
@@ -137,7 +223,11 @@ Muhammad Saad, Songqing Chen, David Mohaisen, "Root Cause Analyses for the Deter
 
 Muhammad Saad, Afsah Anwar, Srivatsan Ravi, David Mohaisen, "Revisiting Nakamoto Consensus in Asynchronous Networks: A Comprehensive Analysis of Bitcoin Safety and ChainQuality." In the proceedings of 2021 ACM SIGSAC Conference on Computer and Communications Security, **CCS**, Virtual Event, Republic of Korea, 2021.
 
-Mazen Al{-}Wadi, David Mohaisen, Amro Awad, "ProMT: optimizing integrity tree updates for write-intensive pages in secure NVMs." In the proceedings of 2021 International Conference on Supercomputing, **ICS**, Virtual Event, USA, 2021.
+[ProMT: optimizing integrity tree updates for write-intensive pages in secure NVMs.](https://dl.acm.org/doi/10.1145/3447818.3460377) \
+Mazen Al-Wadi, David Mohaisen, Amro Awad\ 
+In the proceedings of 2021 International Conference on Supercomputing, **ICS**, \
+Virtual Event, USA, 2021.\
+🏆 **Best Paper Award Nominee**
 
 Ashar Ahmad, Muhammad Saad, Joongheon Kim, DaeHun Nyang, David Mohaisen, "Performance Evaluation of Consensus Protocols in Blockchain-based Audit Systems." In the proceedings of International Conference on Information Networking, **ICOIN**, Jeju Island, South Korea, 2021.
 

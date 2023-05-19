@@ -45,7 +45,7 @@ W. Yun, S. Park, J. Kim, D. Mohaisen\
 M. Mohaisen, D. Mohaisen\
 **IEEE Trans. Educ.**, 2023.
 
-[Learning Location from Shared Elevation Profiles in Fitness Apps: A Privacy Perspective]()\ 
+[Learning Location from Shared Elevation Profiles in Fitness Apps: A Privacy Perspective]()\
 U. Meteriz-Yildiran, N. Yildiran, J. Kim, D. Mohaisen\
 **IEEE Trans. Mob. Comput.**, 2023.
 
@@ -55,7 +55,7 @@ S. Jung, J.-H. Kim, D. Mohaisen, J. Kim\
 
 [Three Birds with One Stone: Efficient Partitioning Attacks on Interdependent Cryptocurrency Networks]()\
 M. Saad and D. Mohaisen\
-**IEEE IEEE S&P**, 2023.
+**IEEE S&P**, 2023.
 
 [A Robust Counting Sketch for Data Plane Intrusion Detection]()\
 S. Kim, C. Jung, R. Jang, D. Mohaisen, D. Nyang\
@@ -165,7 +165,7 @@ A. Adeniran, D. Mohaisen\
 A. Alabduljabbar, D. Mohaisen\
 **SocialNLP@WWW**, Virtual Event / Lyon, France, 2022.
 
-[Making Adversarially-Trained Language Models Forget with Model Retraining: A Case Study on Hate Speech Detection]()\ 
+[Making Adversarially-Trained Language Models Forget with Model Retraining: A Case Study on Hate Speech Detection]()\
 M. Omar, D. Mohaisen\
 **SocialNLP@WWW**, Virtual Event / Lyon, France, 2022.
 

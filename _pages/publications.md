@@ -8,15 +8,15 @@ author_profile: true
 Editorship
 ----
 
-5. David Mohaisen, Ruoming Jin: [Proceedings of the 10th International Conference on Computational Data and Social Networks, CSoNet 2021, Virtual Event, November 15-17, 2021](https://dblp.uni-trier.de/db/conf/ccs/scc2018.html). Lecture Notes in Computer Science 13116, Springer 2021, ISBN 978-3-030-91433-2 
+5. D. Mohaisen, R. Jin: [Proceedings of the 10th International Conference on Computational Data and Social Networks, CSoNet 2021, Virtual Event, November 15-17, 2021](https://dblp.uni-trier.de/db/conf/ccs/scc2018.html). Lecture Notes in Computer Science 13116, Springer 2021, ISBN 978-3-030-91433-2 
 
-4. David Mohaisen, Zhi-Li Zhang: [Proceedings of the 15th International Conference on Emerging Networking Experiments And Technologies, CoNEXT 2019, Orlando, FL, USA, December 09-12, 2019](https://dblp.uni-trier.de/db/conf/conext/conext2019.html). ACM 2019, ISBN 978-1-4503-6998-5 
+4. D. Mohaisen, Z.-L. Zhang: [Proceedings of the 15th International Conference on Emerging Networking Experiments And Technologies, CoNEXT 2019, Orlando, FL, USA, December 09-12, 2019](https://dblp.uni-trier.de/db/conf/conext/conext2019.html). ACM 2019, ISBN 978-1-4503-6998-5 
 
-3. Songqing Chen, Kim-Kwang Raymond Choo, Xinwen Fu, Wenjing Lou, David Mohaisen: [Proceedings of the 15th EAI International Conference Security and Privacy in Communication Networks, SecureComm 2019, Part I, Orlando, FL, USA, October 23-25, 2019](https://dblp.uni-trier.de/db/conf/securecomm/securecomm2019-1.html). Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering 304, Springer 2019, ISBN 978-3-030-37227-9
+3. S. Chen, K.-K. Choo, X. Fu, W. Lou, D. Mohaisen: [Proceedings of the 15th EAI International Conference Security and Privacy in Communication Networks, SecureComm 2019, Part I, Orlando, FL, USA, October 23-25, 2019](https://dblp.uni-trier.de/db/conf/securecomm/securecomm2019-1.html). Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering 304, Springer 2019, ISBN 978-3-030-37227-9
 
-2. Songqing Chen, Kim-Kwang Raymond Choo, Xinwen Fu, Wenjing Lou, David Mohaisen: [Proceedings of the 15th EAI International Conference Security and Privacy in Communication Networks, SecureComm 2019, Part II, Orlando, FL, USA, October 23-25, 2019](https://dblp.uni-trier.de/db/conf/securecomm/securecomm2019-2.html). Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering 305, Springer 2019, ISBN 978-3-030-37230-9
+2. S. Chen, K.-K. Choo, X. Fu, W. Lou, D. Mohaisen: [Proceedings of the 15th EAI International Conference Security and Privacy in Communication Networks, SecureComm 2019, Part II, Orlando, FL, USA, October 23-25, 2019](https://dblp.uni-trier.de/db/conf/securecomm/securecomm2019-2.html). Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering 305, Springer 2019, ISBN 978-3-030-37230-9
 
-1. David Mohaisen, Qian Wang: [Proceedings of the 6th International Workshop on Security in Cloud Computing, SCC@AsiaCCS 2018, Incheon, Republic of Korea, June 04-08, 2018](https://dblp.uni-trier.de/db/conf/ccs/scc2018.html). ACM 2018
+1. D. Mohaisen, Q. Wang: [Proceedings of the 6th International Workshop on Security in Cloud Computing, SCC@AsiaCCS 2018, Incheon, Republic of Korea, June 04-08, 2018](https://dblp.uni-trier.de/db/conf/ccs/scc2018.html). ACM 2018
 
 Journal and Conference Papers
 ---
@@ -37,10 +37,6 @@ A. Alabduljabbar, R. Ma, A. Abusnaina, R. Jang, S. Chen, D. Nyang, M. Mohaisen\
 K. Thomas, M. Santriaji, D. Mohaisen and Y. Solihin\
 **IEEE Micro Magazine**, 2023.
 
-[Truthful and performance-optimal computation outsourcing for aerial surveillance platforms via learning-based auction]()\
-S. Jung, J.-H. Kim, D. Mohaisen, J. Kim\
-**Comput. Networks**, 2023.
-
 [Self-Configurable Stabilized Real-Time Detection Learning for Autonomous Driving Applications]()\
 W. Yun, S. Park, J. Kim, D. Mohaisen\
 **IEEE Trans. Intell. Transp. Syst.**, 2023.
@@ -49,11 +45,15 @@ W. Yun, S. Park, J. Kim, D. Mohaisen\
 M. Mohaisen, D. Mohaisen\
 **IEEE Trans. Educ.**, 2023.
 
-[Understanding the Security and Performance of the Web Presence of Hospitals: A Measurement Study]()\
-M. Alkinoon, A. Alabduljabbar, H. Althebeiti, R. Jang, D. Nyang, D. Mohaisen\
-**IEEE ICCCN**, Honolulu, HI, USA, 2023.
+[Learning Location from Shared Elevation Profiles in Fitness Apps: A Privacy Perspective]()\ 
+U. Meteriz-Yildiran, N. Yildiran, J. Kim, D. Mohaisen\
+**IEEE Trans. Mob. Comput.**, 2023.
 
-[Three Birds with One Stone: Efficient Partitioning Attacks on Interdependent Cryptocurrency Networks]()\ 
+[Truthful and performance-optimal computation outsourcing for aerial surveillance platforms via learning-based auction]()\
+S. Jung, J.-H. Kim, D. Mohaisen, J. Kim\
+**Comput. Networks**, 2023.
+
+[Three Birds with One Stone: Efficient Partitioning Attacks on Interdependent Cryptocurrency Networks]()\
 M. Saad and D. Mohaisen\
 **IEEE IEEE S&P**, 2023.
 
@@ -61,9 +61,9 @@ M. Saad and D. Mohaisen\
 S. Kim, C. Jung, R. Jang, D. Mohaisen, D. Nyang\
 **ISOC NDSS**, San Diego, California, USA, 2023.
 
-[Learning Location from Shared Elevation Profiles in Fitness Apps: A Privacy Perspective]()\ 
-U. Meteriz-Yildiran, N. Yildiran, J. Kim, D. Mohaisen\
-**IEEE Trans. Mob. Comput.**, 2023.
+[Understanding the Security and Performance of the Web Presence of Hospitals: A Measurement Study]()\
+M. Alkinoon, A. Alabduljabbar, H. Althebeiti, R. Jang, D. Nyang, D. Mohaisen\
+**IEEE ICCCN**, Honolulu, HI, USA, 2023.
 
 [Robust Natural Language Processing: Recent Advances, Challenges, and Future Directions]()\
 M. Omar, S. Choi, D. Nyang, D. Mohaisen\
@@ -248,8 +248,7 @@ M. Saad, A. Anwar, S. Ravi, D. Mohaisen\
 
 [ProMT: optimizing integrity tree updates for write-intensive pages in secure NVMs.](https://dl.acm.org/doi/10.1145/3447818.3460377)\
 M. Al-Wadi, D. Mohaisen, A. Awad\
-**ACM ICS**,\
-Virtual Event, USA, 2021.\
+**ACM ICS**, Virtual Event, USA, 2021.\
 🏆 **Best Paper Award Nominee**
 
 Ashar Ahmad, Muhammad Saad, Joongheon Kim, DaeHun Nyang, David Mohaisen, "Performance Evaluation of Consensus Protocols in Blockchain-based Audit Systems." In the proceedings of International Conference on Information Networking, **ICOIN**, Jeju Island, South Korea, 2021.

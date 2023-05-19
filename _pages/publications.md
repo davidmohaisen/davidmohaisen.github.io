@@ -30,7 +30,7 @@ Mohammed Abuhamad, Changhun Jung, David Mohaisen, DaeHun Nyang\
 **CoRR**, 2023.
 
 [Measuring and Modeling the Free Content Web]()\
-Abdulrahman Alabduljabbar, Runyu Ma, Ahmed Abusnaina, Rhongho Jang, Songqing Chen, DaeHun Nyang, David Mohaisen\ 
+Abdulrahman Alabduljabbar, Runyu Ma, Ahmed Abusnaina, Rhongho Jang, Songqing Chen, DaeHun Nyang, David Mohaisen\
 **CoRR**, 2023.
 
 [Exploration of Bitflip’s Effect on DNN Accuracy in Plaintext and Ciphertext]()\
@@ -38,7 +38,7 @@ Kyle Thomas, Muhammad Santriaji, David Mohaisen and Yan Solihin\
 **IEEE Micro Magazine**, 2023.
 
 [Truthful and performance-optimal computation outsourcing for aerial surveillance platforms via learning-based auction]()\
-Soyi Jung, Jae-Hyun Kim, David Mohaisen, Joongheon Kim\ 
+Soyi Jung, Jae-Hyun Kim, David Mohaisen, Joongheon Kim\
 **Comput. Networks**, 2023.
 
 [Self-Configurable Stabilized Real-Time Detection Learning for Autonomous Driving Applications]()\
@@ -106,7 +106,7 @@ Minxin Du, Shuangke Wu, Qian Wang, Dian Chen, Peipei Jiang, David Mohaisen\
 **IEEE Trans. Knowl. Data Eng.**, 2022.
 
 [Exploring Partitioning Attacks on the Bitcoin Network]()\
-Muhammad Saad, Victor Cook, Lan Nguyen, My Thai, David Mohaisen\ 
+Muhammad Saad, Victor Cook, Lan Nguyen, My Thai, David Mohaisen\
 **IEEE/ACM Trans. Netw.**, 2022.
 
 [DL-FHMC: Deep Learning-Based Fine-Grained Hierarchical Learning Approach for Robust Malware Classification]()\
@@ -122,7 +122,7 @@ Afsah Anwar, Ahmed Abusnaina, Songqing Chen, Frank Li, David Mohaisen\
 **IEEE Trans. Dependable Secur. Comput.**, 2022.
 
 [BlockTrail: A Service for Secure and Transparent Blockchain-Driven Audit Trails]()\
-Ashar Ahmad, Muhammad Saad, Mohammed AlGhamdi, DaeHun Nyang, David Mohaisen\ 
+Ashar Ahmad, Muhammad Saad, Mohammed AlGhamdi, DaeHun Nyang, David Mohaisen\
 **IEEE Syst. J.**, 2022.
 
 [A One-Page Text Entry Method Optimized for Rectangle Smartwatches]()\
@@ -190,38 +190,61 @@ Yu Mi, David Mohaisen, An Wang\
 **IEEE CNS**, Austin, TX, USA, 2022.
 
 [AiRType: An Air-tapping Keyboard for Augmented Reality Environments]()\
-Necip Yildiran, Ulku Meteriz-Yildiran, David Mohaisen\ 
+Necip Yildiran, Ulku Meteriz-Yildiran, David Mohaisen\
 **IEEE VR**, Christchurch, New Zealand, 2022.
 
 [AcousticType: Smartwatch-Enabled Cross-Device Text Entry Method Using Keyboard Acoustics]()\
 Ulku Meteriz-Yidiran, Necip Yildiran, David Mohaisen\
 **ACM CHI**, New Orleans, LA, USA, Extended Abstracts, 2022.
 
-Changhun Jung, Sian Kim, Rhongho Jang, David Mohaisen, DaeHun Nyang, "*A Scalable and Dynamic ACL System for In-Network Defense*." In the proceedings of Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security, **CCS**, Los Angeles, CA, USA, 2022.
+[A Scalable and Dynamic ACL System for In-Network Defense]()\
+Changhun Jung, Sian Kim, Rhongho Jang, David Mohaisen, DaeHun Nyang\
+**ACM CCS**, Los Angeles, CA, USA, 2022.
 
-Afsah Anwar, Jinchun Choi, Abdulrahman Alabduljabbar, Hisham Alasmary, Jeffrey Spaulding, An Wang, Songqing Chen, DaeHun Nyang, Amro Awad, David Mohaisen, "*Understanding Internet of Things Malware by Analyzing Endpoints in their Static Artifacts*." **CoRR**, 2021.
+[Towards Semantically-Rich Spatial Network Representation Learning via Automated Feature Topic Pairing]()\
+Dongjie Wang, Kunpeng Liu, David Mohaisen, Pengyang Wang, Chang-Tien Lu, Yanjie Fu\
+**Frontiers Big Data**, 2021.
 
-Dongjie Wang, Kunpeng Liu, David Mohaisen, Pengyang Wang, Chang-Tien Lu, Yanjie Fu, "*Towards Semantically-Rich Spatial Network Representation Learning via Automated Feature Topic Pairing*." **Frontiers Big Data**, 2021.
+[Towards Low-Cost Mechanisms to Enable Restoration of Encrypted Non-Volatile Memories]()\
+Mao Ye, Kazi Zubair, David Mohaisen, Amro Awad\
+**IEEE Trans. Dependable Secur. Comput.**, 2021.
 
-Mao Ye, Kazi Zubair, David Mohaisen, Amro Awad, "*Towards Low-Cost Mechanisms to Enable Restoration of Encrypted Non-Volatile Memories*." **IEEE Trans. Dependable Secur. Comput.**, 2021.
+[TLDR: Deep Learning-Based Automated Privacy Policy Annotation with Key Policy Highlights]()\
+Abdulrahman Alabduljabbar, Ahmed Abusnaina, Ulku Meteriz-Yildiran, David Mohaisen\
+**ACM WPES**, Virtual Event, Korea, 2021.
 
-Abdulrahman Alabduljabbar, Ahmed Abusnaina, Ulku Meteriz-Yildiran, David Mohaisen, "TLDR: Deep Learning-Based Automated Privacy Policy Annotation with Key Policy Highlights." In the proceedings of Proceedings of the 20th Workshop on Workshop on Privacy in the Electronic Society, **WPES**, Virtual Event, Korea, 2021.
+[Systemically Evaluating the Robustness of ML-based IoT Malware Detectors]()\
+Ahmed Abusnaina, Afsah Anwar, Sultan Alshamrani, Abdulrahman Alabduljabbar, Rhongho Jang, DaeHun Nyang, David Mohaisen\ 
+**IEEE DSN**, Taipei, Taiwan, Supplemental Volume, 2021\
+🏆 **Best Paper Award (Extended Abstract)**
 
-Ahmed Abusnaina, Afsah Anwar, Sultan Alshamrani, Abdulrahman Alabduljabbar, Rhongho Jang, DaeHun Nyang, David Mohaisen, "Systemically Evaluating the Robustness of ML-based IoT Malware Detectors." In the proceedings of 51st Annual IEEE/IFIP International Conference on Dependable Systems and Networks, **DSN**, Taipei, Taiwan, Supplemental Volume, 2021 (BEST EXTENDED ABSTRACT).
+[SyncAttack: Double-spending in Bitcoin Without Mining Power]()\ 
+Muhammad Saad, Songqing Chen, David Mohaisen\
+**ACM CCS**, Virtual Event, Republic of Korea, 2021
 
-Muhammad Saad, Songqing Chen, David Mohaisen, "SyncAttack: Double-spending in Bitcoin Without Mining Power." In the proceedings of 2021 ACM SIGSAC Conference on Computer and Communications Security, **CCS**, Virtual Event, Republic of Korea, 2021.
+[Sensor-Based Continuous Authentication of Smartphones' Users Using Behavioral Biometrics: A Contemporary Survey]()\
+Mohammed Abuhamad, Ahmed Abusnaina, Daehun Nyang, David Mohaisen\ 
+**IEEE Internet Things J.**, 2021.
 
-Mohammed Abuhamad, Ahmed Abusnaina, Daehun Nyang, David Mohaisen, "Sensor-Based Continuous Authentication of Smartphones&apos; Users Using Behavioral Biometrics: A Contemporary Survey." **IEEE Internet Things J.**, 2021.
+[Security Breaches in the Healthcare Domain: A Spatiotemporal Analysis]()\
+Mohammed Alkinoon, Marwan Omar, Manar Mohaisen, David Mohaisen\
+**CSoNet**, Virtual Event, 2021.
 
-Mohammed Alkinoon, Marwan Omar, Manar Mohaisen, David Mohaisen, "Security Breaches in the Healthcare Domain: A Spatiotemporal Analysis." In the proceedings of Computational Data and Social Networks - 10th International Conference, **CSoNet**, Virtual Event, 2021.
+[SSD-Assisted Ransomware Detection and Data Recovery Techniques]()\
+SungHa Baek, Youngdon Jung, David Mohaisen, Sungjin Lee, DaeHun Nyang\
+**IEEE Trans. Computers**, 2021.
 
-SungHa Baek, Youngdon Jung, David Mohaisen, Sungjin Lee, DaeHun Nyang, "SSD-Assisted Ransomware Detection and Data Recovery Techniques." **IEEE Trans. Computers**, 2021.
+[SIA: Smartwatch-Enabled Inference Attacks on Physical Keyboards Using Acoustic Signals]()\
+Ulku Meteriz-Yildiran, Necip Yildiran, David Mohaisen\
+**ACM WPES**, Virtual Event, Korea, 2021.
 
-Ulku Meteriz-Yildiran, Necip Yildiran, David Mohaisen, "SIA: Smartwatch-Enabled Inference Attacks on Physical Keyboards Using Acoustic Signals." In the proceedings of  Proceedings of the 20th Workshop on Workshop on Privacy in the Electronic Society, **WPES**, Virtual Event, Korea, 2021.
+[Root Cause Analyses for the Deteriorating Bitcoin Network Synchronization]()\
+Muhammad Saad, Songqing Chen, David Mohaisen\
+**IEEE ICDCS**, Washington DC, USA, 2021.
 
-Muhammad Saad, Songqing Chen, David Mohaisen, "Root Cause Analyses for the Deteriorating Bitcoin Network Synchronization." In the proceedings of 41st IEEE International Conference on Distributed Computing Systems, **ICDCS**, Washington DC, USA, 2021.
-
-Muhammad Saad, Afsah Anwar, Srivatsan Ravi, David Mohaisen, "Revisiting Nakamoto Consensus in Asynchronous Networks: A Comprehensive Analysis of Bitcoin Safety and ChainQuality." In the proceedings of 2021 ACM SIGSAC Conference on Computer and Communications Security, **CCS**, Virtual Event, Republic of Korea, 2021.
+[Revisiting Nakamoto Consensus in Asynchronous Networks: A Comprehensive Analysis of Bitcoin Safety and ChainQuality]()\
+Muhammad Saad, Afsah Anwar, Srivatsan Ravi, David Mohaisen\
+**ACM CCS**, Virtual Event, Republic of Korea, 2021.
 
 [ProMT: optimizing integrity tree updates for write-intensive pages in secure NVMs.](https://dl.acm.org/doi/10.1145/3447818.3460377) \
 Mazen Al-Wadi, David Mohaisen, Amro Awad\ 

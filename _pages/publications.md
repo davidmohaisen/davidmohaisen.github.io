@@ -246,9 +246,9 @@ Muhammad Saad, Songqing Chen, David Mohaisen\
 Muhammad Saad, Afsah Anwar, Srivatsan Ravi, David Mohaisen\
 **ACM CCS**, Virtual Event, Republic of Korea, 2021.
 
-[ProMT: optimizing integrity tree updates for write-intensive pages in secure NVMs.](https://dl.acm.org/doi/10.1145/3447818.3460377) \
-Mazen Al-Wadi, David Mohaisen, Amro Awad\ 
-In the proceedings of 2021 International Conference on Supercomputing, **ICS**, \
+[ProMT: optimizing integrity tree updates for write-intensive pages in secure NVMs.](https://dl.acm.org/doi/10.1145/3447818.3460377)\
+Mazen Al-Wadi, David Mohaisen, Amro Awad\
+**ACM ICS**,\
 Virtual Event, USA, 2021.\
 🏆 **Best Paper Award Nominee**
 

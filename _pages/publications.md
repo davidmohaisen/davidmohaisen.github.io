@@ -218,12 +218,12 @@ A. Abusnaina, A. Anwar, S. Alshamrani, A. Alabduljabbar, R. Jang, D. Nyang, D. M
 **IEEE DSN**, Taipei, Taiwan, Supplemental Volume, 2021\
 🏆 **Best Paper Award (Extended Abstract)**
 
-[SyncAttack: Double-spending in Bitcoin Without Mining Power]()\ 
+[SyncAttack: Double-spending in Bitcoin Without Mining Power]()\
 M. Saad, S. Chen, D. Mohaisen\
 **ACM CCS**, Virtual Event, Republic of Korea, 2021
 
-[Sensor-Based Continuous Authentication of Smartphones' Users Using Behavioral Biometrics: A Contemporary Survey]()\
-M. Abuhamad, A. Abusnaina, D. Nyang, D. Mohaisen\ 
+[Sensor-Based Continuous Authentication of Smartphones' Users Using Behavioral Biometrics]()\
+M. Abuhamad, A. Abusnaina, D. Nyang, D. Mohaisen\
 **IEEE Internet Things J.**, 2021.
 
 [Security Breaches in the Healthcare Domain: A Spatiotemporal Analysis]()\
@@ -242,7 +242,7 @@ U. Meteriz-Yildiran, N. Yildiran, D. Mohaisen\
 M. Saad, S. Chen, D. Mohaisen\
 **IEEE ICDCS**, Washington DC, USA, 2021.
 
-[Revisiting Nakamoto Consensus in Asynchronous Networks: A Comprehensive Analysis of Bitcoin Safety and ChainQuality]()\
+[Revisiting Nakamoto Consensus in Asynchronous Networks]()\
 M. Saad, A. Anwar, S. Ravi, D. Mohaisen\
 **ACM CCS**, Virtual Event, Republic of Korea, 2021.
 

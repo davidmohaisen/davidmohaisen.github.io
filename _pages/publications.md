@@ -52,6 +52,10 @@ S. Kim, C. Jung, R. Jang, D. Mohaisen, D. Nyang\
 M. Alkinoon, A. Alabduljabbar, H. Althebeiti, R. Jang, D. Nyang, D. Mohaisen\
 **IEEE ICCCN**, Honolulu, HI, USA, 2023.
 
+[*Understanding the Privacy Dimension of Wearables through Machine Learning-enabled Inferences*]()\
+D. Mohaisen\
+**ACM SNTA** (Kenote), Orlando, 2023
+
 [Robust Natural Language Processing: Recent Advances, Challenges, and Future Directions]()\
 M. Omar, S. Choi, D. Nyang, D. Mohaisen\
 **CoRR**, 2022.

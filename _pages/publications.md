@@ -54,7 +54,7 @@ M. Alkinoon, A. Alabduljabbar, H. Althebeiti, R. Jang, D. Nyang, D. Mohaisen\
 
 1. [*Understanding the Privacy Dimension of Wearables through Machine Learning-enabled Inferences*]()\
 D. Mohaisen\
-**ACM SNTA** (Kenote), Orlando, 2023
+**ACM SNTA** (Keynote), Orlando, 2023
 
 1. [Robust Natural Language Processing: Recent Advances, Challenges, and Future Directions]()\
 M. O., S. Choi, D. Nyang, D. Mohaisen\

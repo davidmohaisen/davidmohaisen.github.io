@@ -57,7 +57,7 @@ D. Mohaisen\
 **ACM SNTA** (Kenote), Orlando, 2023
 
 [Robust Natural Language Processing: Recent Advances, Challenges, and Future Directions]()\
-M. Omar, S. Choi, D. Nyang, D. Mohaisen\
+M. O., S. Choi, D. Nyang, D. Mohaisen\
 **CoRR**, 2022.
 
 [FAT-PIM: Low-Cost Error Detection for Processing-In-Memory]()\
@@ -110,7 +110,8 @@ W. Yun, S. Park, J. Kim, M. Shin, S. Jung, D. Mohaisen, J.-H. Kim\
 
 [Cleaning the NVD: Comprehensive Quality Assessment, Improvements*, and Analyses]()\
 A. Anwar, A. Abusnaina, S. Chen, F. Li, D. Mohaisen\
-**IEEE Trans. Dependable Secur. Comput.**, 2022.
+**IEEE Trans. Dependable Secur. Comput.**, 2022\
+**DSN** (extended abstract), Taipei, Taiwan, Supplemental Volume, 2021
 
 [BlockTrail: A Service for Secure and Transparent Blockchain-Driven Audit Trails]()\
 A. Ahmad, M. Saad, M. AlGhamdi, D. Nyang, D. Mohaisen\
@@ -138,7 +139,7 @@ A. Abusnaina, A. Anwar, S. Alshamrani, A. Alabduljabbar, R. Jang, D. Nyang, D. M
 **RAID**, Limassol, Cyprus, 2022.
 
 [Quantifying the Performance of Adversarial Training on Language Models with Distribution Shifts]()\
-M. Omar, S. Choi, D. Nyang, D. Mohaisen\
+M. O., S. Choi, D. Nyang, D. Mohaisen\
 **ACM CySSS@AsiaCCS**, Nagasaki, Japan, 2022.
 
 [Minimizing Noise in HyperLogLog-Based Spread Estimation of Multiple Flows]()\
@@ -158,7 +159,7 @@ A. Alabduljabbar, D. Mohaisen\
 **SocialNLP@WWW**, Virtual Event / Lyon, France, 2022.
 
 [Making Adversarially-Trained Language Models Forget with Model Retraining: A Case Study on Hate Speech Detection]()\
-M. Omar, D. Mohaisen\
+M. O., D. Mohaisen\
 **SocialNLP@WWW**, Virtual Event / Lyon, France, 2022.
 
 [Hierarchical Reinforcement Learning using Gaussian Random Trajectory Generation in Autonomous Furniture Assembly]()\
@@ -219,7 +220,7 @@ M. Abuhamad, A. Abusnaina, D. Nyang, D. Mohaisen\
 **IEEE Internet Things J.**, 2021.
 
 [Security Breaches in the Healthcare Domain: A Spatiotemporal Analysis]()\
-M. Alkinoon, M. Omar, M. Mohaisen, D. Mohaisen\
+M. Alkinoon, M. O., M. Mohaisen, D. Mohaisen\
 **CSoNet**, Virtual Event, 2021.
 
 [SSD-Assisted Ransomware Detection and Data Recovery Techniques]()\
@@ -244,728 +245,714 @@ M. Al-Wadi, D. Mohaisen, A. Awad\
 🏆 **Best Paper Award Nominee**
 
 *Performance Evaluation of Consensus Protocols in Blockchain-based Audit Systems*\
-Ashar Ahmad, Muhammad Saad, Joongheon Kim, DaeHun Nyang, David Mohaisen\
+A. Ahmad, M. Saad, J. Kim, D. Nyang, D. Mohaisen\
 **ICOIN**, Jeju Island, South Korea, 2021.
 
 *Measuring Healthcare Data Breaches*\
-Mohammed Alkinoon, Sung Choi, David Mohaisen\
+M. Alkinoon, Sung Choi, D. Mohaisen\
 **WISA**, Jeju Island, South Korea, Revised Selected Papers, 2021.
 
 *ML-based IoT Malware Detection Under Adversarial Settings: A Systematic Evaluation*\
-Ahmed Abusnaina, Afsah Anwar, Sultan Alshamrani, Abdulrahman Alabduljabbar, RhongHo Jang, Daehun Nyang, David Mohaisen\
+A. Abusnaina, A. Anwar, S. Alshamrani, A. Alabduljabbar, R. Jang, D. Nyang, D. Mohaisen\
 **CoRR**, 2021.
 
 *Large-scale and Robust Code Authorship Identification with Deep Feature Learning*\
-Mohammed Abuhamad, Tamer AbuHmed, David Mohaisen, Daehun Nyang\
+M. Abuhamad, T. AbuHmed, D. Mohaisen, D. Nyang\
 **ACM Trans. Priv. Secur.**, 2021.
 
 *Hate, Obscenity, and Insults: Measuring the Exposure of Children to Inappropriate Comments in YouTube*\
-Sultan Alshamrani, Ahmed Abusnaina, Mohammed Abuhamad, Daehun Nyang, David Mohaisen
+S. Alshamrani, A. Abusnaina, M. Abuhamad, D. Nyang, D. Mohaisen
 **CoRR**, 2021.
 
 *Empirically comparing the performance of blockchain's consensus algorithms*\
-Ashar Ahmad, Abdulrahman Alabduljabbar, Muhammad Saad, Daehun Nyang, Joongheon Kim, David Mohaisen\
+A. Ahmad, A. Alabduljabbar, M. Saad, D. Nyang, J. Kim, D. Mohaisen\
 **IET Blockchain**, 2021.
 
 *Domain name system security and privacy: A contemporary survey*\
-Aminollah Khormali, Jeman Park, Hisham Alasmary, Afsah Anwar, Muhammad Saad, David Mohaisen\
+A. Khormali, J. Park, H. Alasmary, A. Anwar, M. Saad, D. Mohaisen\
 **Comput. Networks**, 2021.
 
 *Count-Less: A Counting Sketch for the Data Plane of High Speed Switches*\
-Sunyoung Kim, Changhun Jung, RhongHo Jang, David Mohaisen, DaeHun Nyang\
+Sunyoung Kim, C. Jung, R. Jang, D. Mohaisen, D. Nyang\
 **CoRR**, 2021.
 
 *Contra-*: Mechanisms for countering spam attacks on blockchain's memory pools*\
-Muhammad Saad, Joongheon Kim, DaeHun Nyang, David Mohaisen, \
+M. Saad, J. Kim, D. Nyang, D. Mohaisen, \
 **J. Netw. Comput. Appl.**, 2021.
 
-*Cleaning the NVD: Comprehensive Quality Assessment, Improvements, and Analyses*\
-Afsah Anwar, Ahmed Abusnaina, Songqing Chen, Frank Li, David Mohaisen,\
-**DSN**, Taipei, Taiwan, Supplemental Volume, 2021.
-
 *Bitcoin Price Forecasting via Ensemble-based LSTM Deep Learning Networks*\
-Myungjae Shin, David Mohaisen, Joongheon Kim\
+Myungjae Shin, D. Mohaisen, J. Kim\
 **ICOIN**, Jeju Island, South Korea, 2021.
 
 *Automated Privacy Policy Annotation with Information Highlighting Made Practical Using Deep Representations*\
-Abdulrahman Alabduljabbar, Ahmed Abusnaina, Ulku Meteriz-Yildiran, David Mohaisen\
+A. Alabduljabbar, A. Abusnaina, U. Meteriz-Yildiran, D. Mohaisen\
 **ACM CCS**, Virtual Event, Republic of Korea, 2021.
 
 *Adversarial Example Detection Using Latent Neighborhood Graph*\
-Ahmed Abusnaina, Yuhang Wu, Sunpreet Arora, Yizhen Wang, Fei Wang, Hao Yang, David Mohaisen\
+A. Abusnaina, Y. Wu, S. Arora, Y. Wang, Fei Wang, H. Yang, D. Mohaisen\
 **IEEE ICCV**, Montreal, QC, Canada, 2021.
 
 *A network-independent tool-based usable authentication system for Internet of Things devices*\
-Changhun Jung, Jinchun Choi, Rhongho Jang, David Mohaisen, DaeHun Nyang\
+C. Jung, J. Choi, R. Jang, D. Mohaisen, D. Nyang\
 **Comput. Secur.**, 2021.
 
 *Understanding the Proxy Ecosystem: A Comparative Analysis of Residential and Open Proxies on the Internet*\
-Jinchun Choi, Mohammed Abuhamad, Ahmed Abusnaina, Afsah Anwar, Sultan Alshamrani, Jeman Park, Daehun Nyang, David Mohaisen,\
+J. Choi, M. Abuhamad, A. Abusnaina, A. Anwar, S. Alshamrani, J. Park, D. Nyang, D. Mohaisen,\
 **IEEE Access**, 2020.
 
 "Understanding the Potential Risks of Sharing Elevation Information on Fitness Applications."\
-Ulku Meteriz, Necip Yildiran, Joongheon Kim, David Mohaisen\
+U. Meteriz, Necip Yildiran, J. Kim, D. Mohaisen\
 **IEEE ICDCS**, Singapore, 2020.
 
 *Toward Characterizing Blockchain-Based Cryptocurrencies for Highly Accurate Predictions*\
-Muhammad Saad, Jinchun Choi, DaeHun Nyang, Joongheon Kim, David Mohaisen\
+M. Saad, J. Choi, D. Nyang, J. Kim, D. Mohaisen\
 **IEEE Syst. J.**, 2020\
 🏆 **Best Paper Award**\
 A shorter version appeared in **IEEE INFOCOM Workshops**, Honolulu, HI, USA, 2018
 
 "Statically Dissecting Internet of Things Malware: Analysis, Characterization, and Detection."\
-Afsah Anwar, Hisham Alasmary, Jeman Park, An Wang, Songqing Chen, David Mohaisen\
+A. Anwar, H. Alasmary, J. Park, A. Wang, S. Chen, D. Mohaisen\
 **ICICS**, Copenhagen, Denmark, 2020.
 
 *Soteria: Detecting Adversarial Examples in Control Flow Graph-based Malware Classifiers*\
-Hisham Alasmary, Ahmed Abusnaina, Rhongho Jang, Mohammed Abuhamad, Afsah Anwar, DaeHun Nyang, David Mohaisen,\
+H. Alasmary, A. Abusnaina, R. Jang, M. Abuhamad, A. Anwar, D. Nyang, D. Mohaisen,\
 **IEEE ICDCS**, Singapore, 2020.
 
 *SketchFlow: Per-Flow Systematic Sampling Using Sketch Saturation Event*\
-Rhongho Jang, DaeHong Min, Seongkwang Moon, David Mohaisen, DaeHun Nyang\
+R. Jang, D. Min, S. Moon, D. Mohaisen, D. Nyang\
 **IEEE INFOCOM**, Toronto, ON, Canada, 2020.
 
 *Self-adaptive power control with deep reinforcement learning for millimeter-wave Internet-of-vehicles video caching*\
-Dohyun Kwon, Joongheon Kim, David Mohaisen, Wonjun Lee\
+D. Kwon, J. Kim, D. Mohaisen, W. Lee\
 **J. Commun. Networks**, 2020.
 
 *Reinforced Edge Selection using Deep Learning for Robust Surveillance in Unmanned Aerial Vehicles*\
-SooHyun Park, Jeman Park, David Mohaisen, Joongheon Kim\
+S. Park, J. Park, D. Mohaisen, J. Kim\
 **CoRR**, 2020.
 
 *Multi-(chi): Identifying Multiple Authors from Source Code Files*\
-Mohammed Abuhamad, Tamer AbuHmed, DaeHun Nyang, David Mohaisen
+M. Abuhamad, T. AbuHmed, D. Nyang, D. Mohaisen
 **Proc. Priv. Enhancing Technol.**, 2020.
 
 *Measuring the Cost of Software Vulnerabilities*\
-Afsah Anwar, Aminollah Khormali, Jinchun Choi, Hisham Alasmary, Saeed Salem, DaeHun Nyang, David Mohaisen\
+A. Anwar, A. Khormali, J. Choi, H. Alasmary, S. Salem, D. Nyang, D. Mohaisen\
 **EAI Endorsed Trans. Security Safety**, 2020\
 Also in **EAI SecureComm** (full paper), Singapore, 2018\
 Also in **ACM AsiaCCS** (poster), Incheon, Republic of Korea, 2018
 
 *Look-Aside at Your Own Risk: Privacy Implications of DNSSEC Look-Aside Validation*\
-David Mohaisen, Zhongshu Gu, Kui Ren, Zhenhua Li, Charles Kamhoua, Laurent Njilla, DaeHun Nyang\
+D. Mohaisen, Z. Gu, K. Ren, Z. Li, C. Kamhoua, L. Njilla, D. Nyang\
 **IEEE Trans. Dependable Secur. Comput.**, 2020.
 
 *Investigating Online Toxicity in Users Interactions with the Mainstream Media Channels on YouTube*\
-Sultan Alshamrani, Mohammed Abuhamad, Ahmed Abusnaina, David Mohaisen\
+S. Alshamrani, M. Abuhamad, A. Abusnaina, D. Mohaisen\
 **SocialNLP@CIKM**, Galway, Ireland, 2020.
 
 *Insights into Attacks' Progression: Prediction of Spatio-Temporal Behavior of DDoS Attacks*\
-Ahmed Abusnaina, Mohammed Abuhamad, DaeHun Nyang, Songqing Chen, An Wang, David Mohaisen\
+A. Abusnaina, M. Abuhamad, D. Nyang, S. Chen, A. Wang, D. Mohaisen\
 **WISA**, Jeju Island, South Korea, Revised Selected Papers, 2020.
 
 *Hiding in Plain Sight: A Measurement and Analysis of Kids' Exposure to Malicious URLs on YouTube*\
-Sultan Alshamrani, Ahmed Abusnaina, David Mohaisen\
+S. Alshamrani, A. Abusnaina, D. Mohaisen\
 **CoRR**, 2020.
 
 *Generating Adversarial Examples with an Optimized Quality*\
-Aminollah Khormali, DaeHun Nyang, David Mohaisen\
+A. Khormali, D. Nyang, D. Mohaisen\
 **CoRR**, 2020.
 
 *From Blue-Sky to Practical Adversarial Learning*\
-Aminollah Khormali, Ahmed Abusnaina, Songqing Chen, DaeHun Nyang, David Mohaisen\
+A. Khormali, A. Abusnaina, S. Chen, D. Nyang, D. Mohaisen\
 **IEEE TPS-ISA**, Atlanta, GA, USA, 2020.
 
 *Exploring the Attack Surface of Blockchain: A Comprehensive Survey*\
-Muhammad Saad, Jeffrey Spaulding, Laurent Njilla, Charles Kamhoua, Sachin Shetty, DaeHun Nyang, David Mohaisen\
+M. Saad, J. Spaulding, L. Njilla, C. Kamhoua, S. Shetty, D. Nyang, D. Mohaisen\
 **IEEE Commun. Surv. Tutorials**, 2020.
 
 *DFD: Adversarial Learning-based Approach to Defend Against Website Fingerprinting*\
-Ahmed Abusnaina, Rhongho Jang, Aminollah Khormali, DaeHun Nyang, David Mohaisen\
+A. Abusnaina, R. Jang, A. Khormali, D. Nyang, D. Mohaisen\
 **IEEE INFOCOM**, Toronto, ON, Canada, 2020.
 
 *Contra-*: Mechanisms for Countering Spam Attacks on Blockchain Memory Pools*\
-Muhammad Saad, Joongheon Kim, DaeHun Nyang, David Mohaisen\
-**CoRR**, 2020.
-
-*Cleaning the NVD: Comprehensive Quality Assessment, Improvements, and Analyses*\
-Afsah Anwar, Ahmed Abusnaina, Songqing Chen, Frank Li, David Mohaisen\
+M. Saad, J. Kim, D. Nyang, D. Mohaisen\
 **CoRR**, 2020.
 
 *Catch Me If You Can: Rogue Access Point Detection Using Intentional Channel Interference*\
-Rhongho Jang, Jeonil Kang, David Mohaisen, DaeHun Nyang\
+R. Jang, J. Kang, D. Mohaisen, D. Nyang\
 **IEEE Trans. Mob. Comput.**, 2020.
 
 *Assessing the effectiveness of pulsing denial of service attacks under realistic network synchronization assumptions*\
-Jeman Park, Manar Mohaisen, DaeHun Nyang, David Mohaisen\
+J. Park, M. Mohaisen, D. Nyang, D. Mohaisen\
 **Comput. Networks**, 2020.
 
 *An Analysis of Users Engagement on Twitter During the COVID-19 Pandemic: Topical Trends and Sentiments*\
-Sultan Alshamrani, Ahmed Abusnaina, Mohammed Abuhamad, Anho Lee, DaeHun Nyang, David Mohaisen\
+S. Alshamrani, A. Abusnaina, M. Abuhamad, Anho Lee, D. Nyang, D. Mohaisen\
 **CSoNet**, Dallas, TX, USA, 2020.
 
 *AUToSen: Deep-Learning-Based Implicit Continuous Authentication Using Smartphone Sensors*\
-Mohammed Abuhamad, Tamer AbuHmed, David Mohaisen, DaeHun Nyang\
+M. Abuhamad, T. AbuHmed, D. Mohaisen, D. Nyang\
 **IEEE Internet Things J.**, 2020.
 
 *A Data-Driven Study of DDoS Attacks and Their Dynamics*\
-An Wang, Wentao Chang, Songqing Chen, David Mohaisen\
+A. Wang, W. Chang, S. Chen, D. Mohaisen\
 **IEEE Trans. Dependable Secur. Comput.**, 2020.
 
 *XLF: A Cross-layer Framework to Secure the Internet of Things (IoT)*\
-An Wang, David Mohaisen, Songqing Chen\
+A. Wang, D. Mohaisen, S. Chen\
 **IEEE ICDCS**, Dallas, TX, USA, 2019.
 
 *Where Are You Taking Me? Behavioral Analysis of Open DNS Resolvers*\
-Jeman Park, Aminollah Khormali, Manar Mohaisen, David Mohaisen\
+J. Park, A. Khormali, M. Mohaisen, D. Mohaisen\
 **IEEE DSN**, Portland, OR, USA, 2019\
 Also **ACM CoNEXT** (poster), Orlando, FL, USA, 2019.
 
 *Two-Stage IoT Device Scheduling With Dynamic Programming for Energy Internet Systems*\
-Laihyuk Park, Chunghyun Lee, Joongheon Kim, David Mohaisen, Sungrae Cho\
+Laihyuk Park, Chunghyun Lee, J. Kim, D. Mohaisen, Sungrae Cho\
 **IEEE Internet Things J.,** 2019.
 
 *Transparency in the New gTLD Era: Evaluating the DNS Centralized Zone Data Service*\
-Jeman Park, Jinchun Choi, DaeHun Nyang, David Mohaisen\
+J. Park, J. Choi, D. Nyang, D. Mohaisen\
 **IEEE Trans. Netw. Serv. Manag.**, 2019.
 
 *Thriving on chaos: Proactive detection of command and control domains in internet of things-scale botnets using DRIFT*\
-Jeffrey Spaulding, Jeman Park, Joongheon Kim, DaeHun Nyang, David Mohaisen\
+J. Spaulding, J. Park, J. Kim, D. Nyang, D. Mohaisen\
 **Trans. Emerg. Telecommun. Technol.**, 2019.
 
 *Subgraph-Based Adversarial Examples Against Graph-Based IoT Malware Detection Systems*\
-Ahmed Abusnaina, Hisham Alasmary, Mohammed Abuhamad, Saeed Salem, DaeHun Nyang, David Mohaisen
+A. Abusnaina, H. Alasmary, M. Abuhamad, S. Salem, D. Nyang, D. Mohaisen
 **CSoNet**, Ho Chi Minh City, Vietnam, 2019.
 
 *Secure and transparent audit logs with emphBlockAudit*\
-Ashar Ahmad, Muhammad Saad, David Mohaisen\
+A. Ahmad, M. Saad, D. Mohaisen\
 **J. Netw. Comput. Appl.**, 2019.
 
 *Scaling Up Anomaly Detection Using In-DRAM Working Set of Active Flows Table*\
-RhongHo Jang, Seongkwang Moon, Youngtae Noh, David Mohaisen, DaeHun Nyang\
+R. Jang, S. Moon, Y. Noh, D. Mohaisen, D. Nyang\
 **CoRR**, 2019.
 
 *RouteChain: Towards Blockchain-based Secure and Efficient BGP Routing*\
-Muhammad Saad, Afsah Anwar, Ashar Ahmad, Hisham Alasmary, Murat Yuksel, David Mohaisen\
+M. Saad, A. Anwar, A. Ahmad, H. Alasmary, M. Yuksel, D. Mohaisen\
 **IEEE ICBC**, Seoul, Korea (South), 2019.
 
 *Privacy-Preserving Deep Learning Computation for Geo-Distributed Medical Big-Data Platforms*\
-Joohyung Jeon, Junhui Kim, Joongheon Kim, Kwangsoo Kim, David Mohaisen, Jong-Kook Kim\
+J. Jeon, J. Kim, J. Kim, K. Kim, D. Mohaisen, J.-K. Kim\
 **IEEE DSN**, Portland, OR, USA, Supplemental Volume, 2019.
 
 *Pricing Data Tampering in Automated Fare Collection with NFC-Equipped Smartphones*\
-Fan Dang, Ennan Zhai, Zhenhua Li, Pengfei Zhou, David Mohaisen, Kaigui Bian, Qingfu Wen, Mo Li\
-**IEEE Trans. Mob. Comput.**, 2019.
+F. Dang, E. Zhai, Z. Li, P. Zhou, D. Mohaisen, K. Bian, Q. Wen, M. Li\
+**IEEE Trans. Mob. Comput.**, 2019\
+Also in **IEEE INFOCOM**, Atlanta, GA, USA, 2017
 
 *Partitioning Attacks on Bitcoin: Colliding Space, Time, and Logic*\
-Muhammad Saad, Victor Cook, Lan Nguyen, My Thai, David Mohaisen\
+M. Saad, V. Cook, Lan Nguyen, M. Thai, D. Mohaisen\
 **IEEE ICDCS**, Dallas, TX, USA, 2019.
 
 *Mempool optimization for Defending Against DDoS Attacks in PoW-based Blockchain Systems*\
-Muhammad Saad, Laurent Njilla, Charles Kamhoua, Joongheon Kim, DaeHun Nyang, David Mohaisen\
+M. Saad, L. Njilla, C. Kamhoua, J. Kim, D. Nyang, D. Mohaisen\
 **IEEE ICBC**, Seoul, Korea (South), 2019.
 
 *IoT malware ecosystem in the wild: a glimpse into analysis and exposures*\
-Jinchun Choi, Afsah Anwar, Hisham Alasmary, Jeffrey Spaulding, DaeHun Nyang, David Mohaisen\
+J. Choi, A. Anwar, H. Alasmary, J. Spaulding, D. Nyang, D. Mohaisen\
 **ACM/IEEE SEC**, Arlington, Virginia, USA, 2019.
 
 *InstaMeasure: Instant Per-flow Detection Using Large In-DRAM Working Set of Active Flows*\
-Rhongho Jang, Seongkwang Moon, Youngtae Noh, David Mohaisen, DaeHun Nyang\
+R. Jang, S. Moon, Y. Noh, D. Mohaisen, D. Nyang\
 **IEEE ICDCS**, Dallas, TX, USA, 2019.
 
-Jinchun Choi, Ahmed Abusnaina, Afsah Anwar, An Wang, Songqing Chen, DaeHun Nyang, David Mohaisen\
 *Honor among Thieves: Towards Understanding the Dynamics and Interdependencies in IoT Botnets*\
+J. Choi, A. Abusnaina, A. Anwar, A. Wang, S. Chen, D. Nyang, D. Mohaisen\
 **IEEE DSC**, Hangzhou, China, 2019.
 
-Muhammad Saad, Ashar Ahmad, David Mohaisen\
 *Fighting Fake News Propagation with Blockchains*\
+M. Saad, A. Ahmad, D. Mohaisen\
 **IEEE CNS**, Washington, DC, USA, 2019.
 
-Ahmed Abusnaina, DaeHun Nyang, Murat Yuksel, David Mohaisen\
-*POSTER: Examining the Security of DDoS Detection Systems in Software Defined Networks*\
-**ACM CoNEXT**, Companion Volume, Orlando, FL, USA, 2019.
-
-Ahmed Abusnaina, Aminollah Khormali, DaeHun Nyang, Murat Yuksel, David Mohaisen\
+A. Abusnaina, A. Khormali, D. Nyang, M. Yuksel, D. Mohaisen\
 *Examining the Robustness of Learning-Based DDoS Detection in Software Defined Networks*\
 **IEEE DSC**, Hangzhou, China, 2019\
-🏆 **Best Ppaper -- Runner Up**
+🏆 **Best Ppaper -- Runner Up**\
+Also in **ACM CoNEXT** (poster), Orlando, FL, USA, 2019
 
-Muhammad Saad, Aminollah Khormali, David Mohaisen\
 *Dine and Dash: Static, Dynamic, and Economic Analysis of In-Browser Cryptojacking*\
+M. Saad, A. Khormali, D. Mohaisen\
 **eCrime**, Pittsburgh, PA, USA, 2019.
 
-Hyun-Jae Kang, Jae-wook Jang, David Mohaisen, Huy Kang Kim,\
 *Detecting and Classifying Android Malware using Static Analysis along with Creator Information*\
+H.-J. Kang, J.-w. Jang, D. Mohaisen, H. Kim,\
 **CoRR**, 2019.
 
-Jeman Park, David Mohaisen, Charles Kamhoua, Michael Weisman, Nandi Leslie, Laurent Njilla\
 *Cyber Deception in the Internet of Battlefield Things: Techniques, Instances, and Assessments*\
+J. Park, D. Mohaisen, C. Kamhoua, Michael Weisman, Nandi Leslie, L. Njilla\
 **WISA**, Jeju Island, South Korea, Revised Selected Papers, 2019.
 
-Muhammad Saad, Laurent Njilla, Charles Kamhoua, David Mohaisen\
 *Countering Selfish Mining in Blockchains*\
+M. Saad, L. Njilla, C. Kamhoua, D. Mohaisen\
 **IEEE ICNC**, Honolulu, HI, USA, 2019.
 
-David Mohaisen, Songqing Chen\
 *Computer Systems Have 99 Problems, Let's Not Make Machine Learning Another One*\
+D. Mohaisen, S. Chen\
 **CoRR**, 2019.
 
-Aminollah Khormali, Ahmed Abusnaina, Songqing Chen, DaeHun Nyang, Aziz Mohaisen\
 *COPYCAT: Practical Adversarial Attacks on Visualization-Based Malware Detection*\
+A. Khormali, A. Abusnaina, S. Chen, D. Nyang, Aziz Mohaisen\
 **CoRR**, 2019.
 
-Ahmed Abusnaina, Aminollah Khormali, Hisham Alasmary, Jeman Park, Afsah Anwar, Ulku Meteriz, David Mohaisen\
 "Poster: Breaking graph-based IoT malware detection systems using adversarial examples."\
+A. Abusnaina, A. Khormali, H. Alasmary, J. Park, A. Anwar, U. Meteriz, D. Mohaisen\
 **ACM WiSec**, Miami, Florida, USA, 2019.
 
-Ashar Ahmad, Muhammad Saad, Laurent Njilla, Charles Kamhoua, Mostafa Bassiouni, David Mohaisen\
 "BlockTrail: A Scalable Multichain Solution for Blockchain-Based Audit Trails."\
+A. Ahmad, M. Saad, L. Njilla, C. Kamhoua, M. Bassiouni, D. Mohaisen\
 **IEEE ICC**, Shanghai, China, 2019.
 
 *Android Malware Detection Using Complex-Flows*\
-Feng Shen, Justin Vecchio, David Mohaisen, Steven Ko, Lukasz Ziarek\
+Feng Shen, Justin Vecchio, D. Mohaisen, S. Ko, Lukasz Ziarek\
 **IEEE Trans. Mob. Comput.**, 2019\
 Also appeared in **IEEE ICDCS** (short paper), Atlanta, GA, USA, 2017\
 Also appeared in **ACM MobiSys** (poster), Niagara Falls, NY, USA, 2017
 
-Jinchun Choi, Afsah Anwar, Hisham Alasmary, Jeffrey Spaulding, DaeHun Nyang, David Mohaisen\
 *Poster: Analyzing endpoints in the internet of things malware*\
+J. Choi, A. Anwar, H. Alasmary, J. Spaulding, D. Nyang, D. Mohaisen\
 **ACM WiSec**, Miami, Florida, USA, 2019.
 
-Hisham Alasmary, Aminollah Khormali, Afsah Anwar, Jeman Park, Jinchun Choi, Ahmed Abusnaina, Amro Awad, DaeHun Nyang, David Mohaisen\
 *Analyzing and Detecting Emerging Internet of Things Malware: A Graph-Based Approach*\
+H. Alasmary, A. Khormali, A. Anwar, J. Park, J. Choi, A. Abusnaina, Amro Awad, D. Nyang, D. Mohaisen\
 **IEEE Internet Things J.**, 2019.
 
-Ahmed Abusnaina, Aminollah Khormali, Hisham Alasmary, Jeman Park, Afsah Anwar, David Mohaisen\
 *Adversarial Learning Attacks on Graph-based IoT Malware Detection Systems*\
+A. Abusnaina, A. Khormali, H. Alasmary, J. Park, A. Anwar, D. Mohaisen\
 **IEEE ICDCS**, Dallas, TX, USA, 2019.
 
-Rhongho Jang, Seongkwang Moon, Youngtae Noh, David Mohaisen, DaeHun Nyang\
 *Poster: A cost-effective anomaly detection system using in-DRAM working set of active flows table*\
+R. Jang, S. Moon, Y. Noh, D. Mohaisen, D. Nyang\
 **ACM WiSec**, Miami, Florida, USA, 2019.
 
-Amirali Sanatinia, Jeman Park, Erik-Oliver Blass, David Mohaisen, Guevara Noubir\
 *A Privacy-Preserving Longevity Study of Tor's Hidden Services*\
+A. Sanatinia, J. Park, E.-O. Blass, D. Mohaisen, G. Noubir\
 **CoRR**, 2019.
 
-Andreas Hulsing, Denis Butin, Stefan{-}Lukas Gazdag, Joost Rijneveld, David Mohaisen\
 *XMSS: eXtended Merkle Signature Scheme*\
+Andreas Hulsing, D. Butin, Stefan{-}Lukas Gazdag, Joost Rijneveld, D. Mohaisen\
 **IETF RFC**, 2018.
 
 *Two-Thumbs-Up: Physical protection for PIN entry secure against recording attacks*\
-DaeHun Nyang, Hyoungshick Kim, Woojoo Lee, Sung-bae Kang, Geumhwan Cho, Mun-Kyu Lee, David Mohaisen\
+D. Nyang, H. Kim, W. Lee, S. Kang, G. Cho, M. Lee, D. Mohaisen\
 **Comput. Secur.**, 2018.
 
 *Towards Blockchain-Driven, Secure and Transparent Audit Logs*\
-Ashar Ahmad, Muhammad Saad, Mostafa Bassiouni, David Mohaisen\
+A. Ahmad, M. Saad, M. Bassiouni, D. Mohaisen\
 **DLoT@MobiQuitous**, New York City, NY, USA, 2018\
 🏆 **Best Paper Award**
 
 *Timing is Almost Everything: Realistic Evaluation of the Very Short Intermittent DDoS Attacks*\
-Jeman Park, DaeHun Nyang, David Mohaisen\
+J. Park, D. Nyang, D. Mohaisen\
 **IEEE PST**, Belfast, Northern Ireland, Uk, 2018.
 
 *ShmCaffe: A Distributed Deep Learning Platform with Shared Memory Buffer for HPC Architecture*\
-Shin-Young Ahn, Joongheon Kim, Eunji Lim, Wan Choi, David Mohaisen, Sungwon Kang\
+S. Ahn, J. Kim, E. Lim, W. Choi, D. Mohaisen, S. Kang\
 **IEEE ICDCS**, Vienna, Austria, 2018.
 
 *SSD-Insider: Internal Defense of Solid-State Drive against Ransomware with Perfect Data Recovery*\
-SungHa Baek, Youngdon Jung, David Mohaisen, Sungjin Lee, DaeHun Nyang\
+S. Baek, Y. Jung, D. Mohaisen, S. Lee, D. Nyang\
 **IEEE ICDCS**, Vienna, Austria, 2018.
 
 *QOI: Assessing Participation in Threat Information Sharing*\
-Jeman Park, Hisham Alasmary, Omar Al-Ibrahim, Charles Kamhoua, Kevin Kwiat, Laurent Njilla, David Mohaisen\
+J. Park, H. Alasmary, O. Al-Ibrahim, C. Kamhoua, K. Kwiat, L. Njilla, D. Mohaisen\
 **IEEE ICASSP**, Calgary, AB, Canada, 2018.
 
 *Proactive detection of algorithmically generated malicious domains*\
-Jeffrey Spaulding, Jeman Park, Joongheon Kim, David Mohaisen\
+J. Spaulding, J. Park, J. Kim, D. Mohaisen\
 **ICOIN**, Chiang Mai, Thailand, 2018.
 
 *POSTER: Deterring DDoS Attacks on Blockchain-based Cryptocurrencies through Mempool Optimization*\
-Muhammad Saad, My Thai, David Mohaisen\
+M. Saad, My Thai, D. Mohaisen\
 **ACM AsiaCCS**, Incheon, Republic of Korea, 2018.
 
 *Neural Network Syntax Analyzer for Embedded Standardized Deep Learning*\
-Myungjae Shin, Joongheon Kim, David Mohaisen, Jaebok Park, KyungHee Lee\
+M. Shin, J. Kim, D. Mohaisen, J. Park, K. Lee\
 **EMDL@MobiSys**, Munich, Germany, 2018.
 
 *Network-based Analysis and Classification of Malware using Behavioral Artifacts Ordering*\
-David Mohaisen, Omar Alrawi, Jeman Park, Joongheon Kim, DaeHun Nyang, Manar Mohaisen\
+D. Mohaisen, O. Alrawi, J. Park, J. Kim, D. Nyang, M. Mohaisen\
 **EAI Endorsed Trans. Security Safety**, 2018.
 
 *Large-Scale and Language-Oblivious Code Authorship Identification*\
-Mohammed Abuhamad, Tamer AbuHmed, David Mohaisen, DaeHun Nyang\
+M. Abuhamad, T. AbuHmed, D. Mohaisen, D. Nyang\
 **ACM CCS**, Toronto, ON, Canada, 2018.
 
 *Interference-Aware Adaptive Beam Alignment for Hyper-Dense IEEE 802.11ax Internet-of-Things Networks*\
-Dohyun Kwon, Sang{-}Wook Kim, Joongheon Kim, David Mohaisen\
+D. Kwon, Sang{-}Wook Kim, J. Kim, D. Mohaisen\
 **Sensors**, 2018.
 
 *Graph-Based Comparison of IoT and Android Malware*\
-Hisham Alasmary, Afsah Anwar, Jeman Park, Jinchun Choi, DaeHun Nyang, David Mohaisen\
+H. Alasmary, A. Anwar, J. Park, J. Choi, D. Nyang, D. Mohaisen\
 **CSoNet**, Shanghai, China, 2018.
 
-Changhun Jung, Jeonil Kang, David Mohaisen, DaeHun Nyang\
 *Digitalseal: a Transaction Authentication Tool for Online and Offline Transactions*\
+C. Jung, J. Kang, D. Mohaisen, D. Nyang\
 **IEEE ICASSP**, Calgary, AB, Canada, 2018.
 
 *Delving Into Internet DDoS Attacks by Botnets: Characterization and Analysis*\
-An Wang, Wentao Chang, Songqing Chen, David Mohaisen\
+A. Wang, W. Chang, S. Chen, D. Mohaisen\
 **IEEE/ACM Trans. Netw.**, 2018.
 
 *Defending Internet of Things Against Malicious Domain Names using D-FENS*\
-Jeffrey Spaulding, David Mohaisen\
+J. Spaulding, D. Mohaisen\
 **IEEE/ACM SEC Workshops**, Seattle, WA, USA, 2018.
 
 *Countering Selfish Mining in Blockchains*\
-Muhammad Saad, Laurent Njilla, Charles Kamhoua, David Mohaisen\
+M. Saad, L. Njilla, C. Kamhoua, D. Mohaisen\
 **IEEE ICNC**, 2018.
 
 *ABC: Enabling Smartphone Authentication with Built-in Camera*\
-Zhongjie Ba, Sixu Piao, Xinwen Fu, Dimitrios Koutsonikolas, David Mohaisen, Kui Ren\
+Z. Ba, S. Piao, X. Fu, D. Koutsonikolas, D. Mohaisen, K. Ren\
 **ISOC NDSS**, San Diego, California, USA, 2018.
 
 *You've Been Tricked! A User Study of the Effectiveness of Typosquatting Techniques*\
-Jeffrey Spaulding, Shambhu Upadhyaya, David Mohaisen\
+J. Spaulding, S. Upadhyaya, D. Mohaisen\
 **IEEE ICDCS**, Atlanta, GA, USA, 2017.
 
 *You Can Hear But You Cannot Steal: Defending Against Voice Impersonation Attacks on Smartphones*\
-Si Chen, Kui Ren, Sixu Piao, Cong Wang, Qian Wang, Jian Weng, Lu Su, David Mohaisen\
+Si Chen, K. Ren, S. Piao, C. Wang, Q. Wang, J. Weng, L. Su, D. Mohaisen\
 **IEEE ICDCS 2017**, Atlanta, GA, USA, 2017.
 
 *When Smart TV Meets CRN: Privacy-Preserving Fine-Grained Spectrum Access*\
-Chaowen Guan, David Mohaisen, Zhi Sun, Lu Su, Kui Ren, Yaling Yang\
+C. Guan, D. Mohaisen, Z. Sun, L. Su, K. Ren, Y. Yang\
 **IEEE ICDCS 2017**, Atlanta, GA, USA, 2017.
 
 *Understanding the effectiveness of typosquatting techniques*\
-Jeffrey Spaulding, DaeHun Nyang, David Mohaisen\
+J. Spaulding, D. Nyang, D. Mohaisen\
 **ACM/IEEE HotWeb 2017**, San Jose / Silicon Valley, CA, USA, 2017.
 
 *Understanding Adversarial Strategies from Bot Recruitment to Scheduling*\
-Wentao Chang, David Mohaisen, An Wang, Songqing Chen\
+W. Chang, D. Mohaisen, A. Wang, S. Chen\
 **EAI SecureComm**, Niagara Falls, ON, Canada, 2017.
 
 *Poster: Two-level network monitoring and management in WLAN using software-defined networking*\
-RhongHo Jang, DongGyu Cho, David Mohaisen, Youngtae Noh, DaeHun Nyang\
+R. Jang, D. Cho, D. Mohaisen, Y. Noh, D. Nyang\
 **ACM WiSec**, Boston, MA, USA, 2017.
 
 *SecGDB: Graph Encryption for Exact Shortest Distance Queries with Efficient Updates*\
-Qian Wang, Kui Ren, Minxin Du, Qi Li, David Mohaisen\
+Q. Wang, K. Ren, M. Du, Q. Li, D. Mohaisen\
 **Financial Crypto**, Sliema, Malta, Revised Selected Papers, 2017.
 
 *Rogue Access Point Detector Using Characteristics of Channel Overlapping in 802.11n*\
-RhongHo Jang, Jeonil Kang, David Mohaisen, DaeHun Nyang\
+R. Jang, J. Kang, D. Mohaisen, D. Nyang\
 **IEEE ICDCS**, Atlanta, GA, USA, 2017.
 
 *Rethinking information sharing for threat intelligence*\
-David Mohaisen, Omar Al-Ibrahim, Charles Kamhoua, Kevin Kwiat, Laurent Njilla\
+D. Mohaisen, O. Al-Ibrahim, C. Kamhoua, K. Kwiat, L. Njilla\
 **ACM/IEEE HotWeb**, San Jose / Silicon Valley, CA, USA, 2017.
 
 *Privacy Implications of DNSSEC Look-Aside Validation*\
-David Mohaisen, Zhongshu Gu, Kui Ren\
+D. Mohaisen, Z. Gu, K. Ren\
 **IEEE ICDCS**, Atlanta, GA, USA, 2017.\
 Also in **IEEE PAC**, 2017 (poster).
 
 *Performance of deep learning computation with TensorFlow software library in GPU-capable multi-core computing platforms*\
-Young Mo, Joongheon Kim, Jong{-}Kook Kim, David Mohaisen, Woojoo Lee\
+Y. Mo, J. Kim, J.-K. Kim, D. Mohaisen, W. Lee\
 **IEEE ICUFN**, Milan, Italy, 2017.
 
 *Leakage of .onion at the DNS Root: Measurements, Causes, and Countermeasures*\
-David Mohaisen, Kui Ren\
+D. Mohaisen, K. Ren\
 **IEEE/ACM Trans. Netw.**, 2017.
 
-*Large-scale invisible attack on AFC systems with NFC-equipped smartphones*\
-Fan Dang, Pengfei Zhou, Zhenhua Li, Ennan Zhai, David Mohaisen, Qingfu Wen, Mo Li\
-**IEEE INFOCOM**, Atlanta, GA, USA, 2017.
-
 *Highly-accurate rogue access point detection using intentional channel interference: poster*\
-RhongHo Jang, Jeonil Kang, David Mohaisen, DaeHun Nyang\
+R. Jang, J. Kang, D. Mohaisen, D. Nyang\
 **ACM WiSec**, Boston, MA, USA, 2017.
 
 *Distributed and reliable decision-making for cloud-enabled mobile service platforms*\
-Joongheon Kim, David Mohaisen\
+J. Kim, D. Mohaisen\
 **Int. J. Distributed Sens. Networks**, 2017.
 
 *Crime Scene Reconstruction: Online Gold Farming Network Analysis*\
-Hyukmin Kwon, David Mohaisen, Jiyoung Woo, Yongdae Kim, Eunjo Lee, Huy Kim,\
+H. Kwon, D. Mohaisen, J. Woo, Y. Kim, E. Lee, H. Kim,\
 **IEEE Trans. Inf. Forensics Secur.**, 2017.
 
 *An Adversary-Centric Behavior Modeling of DDoS Attacks*\
-An Wang, David Mohaisen, Songqing Chen\
+A. Wang, D. Mohaisen, S. Chen\
 **IEEE ICDCS**, Atlanta, GA, USA, 2017.
 
 *You are a Game Bot!: Uncovering Game Bots in MMORPGs via Self-similarity in the Wild
-Eunjo Lee, Jiyoung Woo, Hyoungshick Kim, David Mohaisen, Huy Kim*\
+E. Lee, J. Woo, H. Kim, D. Mohaisen, H. Kim*\
 **ISOC NDSS**, San Diego, California, USA, 2016.
 
 *Transparency in the New gTLD Era: Evaluating the DNS Centralized Zone Data Service*\
-Ah Kang, Seong Jeong, Steven Ko, Kui Ren, David Mohaisen\
+A. Kang, S. Jeong, S. Ko, K. Ren, D. Mohaisen\
 **IEEE/ACM HotWeb**, Washington, DC, USA, 2016.
 
 *The Landscape of Domain Name Typosquatting: Techniques and Countermeasures*\
-Jeffrey Spaulding, Shambhu Upadhyaya, David Mohaisen\
+J. Spaulding, S. Upadhyaya, D. Mohaisen\
 **ARES**, Salzburg, Austria, 2016.
 
 *Private Over-Threshold Aggregation Protocols over Distributed Datasets*\
-Myungsun Kim, David Mohaisen, Jung Cheon, Yongdae Kim\
+M. Kim, D. Mohaisen, J. Cheon, Y. Kim\
 **IEEE Trans. Knowl. Data Eng.**, 2016.
 
 *Multimodal Game Bot Detection using User Behavioral Characteristics*\
-Ah Kang, Seong Jeong, David Mohaisen, Huy Kim\
+A. Kang, S. Jeong, D. Mohaisen, H. Kim\
 **CoRR**, 2016.
 
 *Measuring and Analyzing Trends in Recent Distributed Denial of Service Attacks*\
-An Wang, David Mohaisen, Wentao Chang, Songqing Chen\
+A. Wang, D. Mohaisen, W. Chang, S. Chen\
 **WISA**, Jeju Island, Korea, Revised Selected Papers, 2016.
 
 *Mal-Netminer: Malware Classification Approach based on Social Network Analysis of System Call Graph*\
-Jae-wook Jang, Jiyoung Woo, David Mohaisen, Jaesung Yun, Huy Kim\
+J.-w. Jang, J. Woo, D. Mohaisen, J. Yun, H. Kim\
 **CoRR**, 2016.
 
 *Chains of Distrust: Towards Understanding Certificates Used for Signing Malicious Applications*\
-Omar Alrawi, David Mohaisen\
+O. Alrawi, D. Mohaisen\
 **WWW Companion**, Montreal, Canada, 2016.
 
 *Andro-profiler: Detecting and Classifying Android Malware based on Behavioral Profiles*\
-Jae-wook Jang, Jaesung Yun, David Mohaisen, Jiyoung Woo, Huy Kim\
+J.-w. Jang, J. Yun, D. Mohaisen, J. Woo, H. Kim\
 **CoRR**, 2016.
 
 *Andro-Dumpsys: Anti-malware system based on the similarity of malware creator and malware centric information*\
-Jae-wook Jang, Hyun-Jae Kang, Jiyoung Woo, David Mohaisen, Huy Kim\
+J.-w. Jang, H.-J. Kang, J. Woo, D. Mohaisen, H. Kim\
 **Comput. Secur.**, 2016.
 
 *A Longitudinal Analysis of .i2p Leakage in the Public DNS Infrastructure*\
-Seong Jeong, Ah Kang, Joongheon Kim, Huy Kim, David Mohaisen\
+S. Jeong, A. Kang, J. Kim, H. Kim, D. Mohaisen\
 **ACM SIGCOMM** (poster), Florianopolis, Brazil, 2016.
 
 *Transaction authentication using complementary colors*\
-YoungJae Maeng, David Mohaisen, Mun-Kyu Lee, DaeHun Nyang\
+Y. Maeng, D. Mohaisen, M. Lee, D. Nyang\
 **Comput. Secur.**, 2015.
 
 Towards Automatic and Lightweight Detection and Classification of Malicious Web Contents\
-David Mohaisen\
+D. Mohaisen\
 **ACM/IEEE HotWeb**, Washington, DC, USA, 2015.
 
 *Timing Attacks on Access Privacy in Information Centric Networks and Countermeasures*\
-David Mohaisen, Hesham Mekky, Xinwen Zhang, Haiyong Xie, Yongdae Kim\
+D. Mohaisen, H. Mekky, X. Zhang, H. Xie, Y. Kim\
 **IEEE Trans. Dependable Secur. Comput.**, 2015.
 
 *Separation of benign and malicious network events for accurate malware family classification*\
-Hesham Mekky, David Mohaisen, Zhi-Li Zhang\
+H. Mekky, D. Mohaisen, Z.-L. Zhang\
 **IEEE CNS**, Florence, Italy, 2015.\
 **ACM CCS** (poster), Scottsdale, AZ, USA, 2014.
 
 *Measuring Botnets in the Wild: Some New Trends*\
-Wentao Chang, David Mohaisen, An Wang, Songqing Chen\
+W. Chang, D. Mohaisen, A. Wang, S. Chen\
 **ACM ASIACCS**, Singapore, 2015.
 
 *Detecting and Classifying Android Malware Using Static Analysis along with Creator Information*\
-Hyun-Jae Kang, Jae-wook Jang, David Mohaisen, Huy Kim\
+H.-J. Kang, J.-w. Jang, D. Mohaisen, H. Kim\
 **Int. J. Distributed Sens. Networks**, 2015.
 
 *Delving into Internet DDoS Attacks by Botnets: Characterization and Analysis*\
-An Wang, David Mohaisen, Wentao Chang, Songqing Chen\
+A. Wang, D. Mohaisen, W. Chang, S. Chen\
 **IEEE DSN**, Rio de Janeiro, Brazil, 2015.
 
 *Capturing DDoS Attack Dynamics Behind the Scenes*\
-An Wang, David Mohaisen, Wentao Chang, Songqing Chen\
+A. Wang, D. Mohaisen, W. Chang, S. Chen\
 **DIMVA**, Milan, Italy, 2015.
 
 *Andro-AutoPsy: Anti-malware system based on similarity matching of malware and malware creator-centric information*\
-Jae-wook Jang, Hyunjae Kang, Jiyoung Woo, David Mohaisen, Huy Kim\
+J.-w. Jang, Hyunjae Kang, J. Woo, D. Mohaisen, H. Kim\
 **Digit. Investig.**, 2015.
 
 *AMAL: High-fidelity, behavior-based automated malware analysis and classification*\
-David Mohaisen, Omar Alrawi, Manar Mohaisen\
+D. Mohaisen, O. Alrawi, M. Mohaisen\
 **Comput. Secur.**, 2015.
 
 *Trustworthy Distributed Computing on Social Networks*\
-David Mohaisen, Huy Tran, Abhishek Chandra, Yongdae Kim\
+D. Mohaisen, H. Tran, A. Chandra, Y. Kim\
 **IEEE Trans. Serv. Comput.**, 2014.
 
 *Parallel QRD-M encoder for multi-user MIMO systems*\
-Manar Mohaisen, David Mohaisen, Merouane Debbah\
+M. Mohaisen, D. Mohaisen, M. Debbah\
 **Telecommun. Syst.**, 2014.
 
 *POSTER: How Distributed Are Today's DDoS Attacks?*\
-An Wang, Wentao Chang, David Mohaisen, Songqing Chen\
+A. Wang, W. Chang, D. Mohaisen, S. Chen\
 **ACM CCS**, Scottsdale, AZ, USA, 2014.
 
 *Name Server Switching: Anomaly Signatures, Usage, Clustering, and Prediction*\
-David Mohaisen, Mansurul Bhuiyan, Yannis Labrou\
-WISA, Jeju Island, Korea, Revised Selected Papers, 2014.
+D. Mohaisen, M. Bhuiyan, Y. Labrou\
+**WISA**, Jeju Island, Korea, Revised Selected Papers, 2014.
 
 *Metadata-Driven Threat Classification of Network Endpoints Appearing in Malware*\
-Andrew West, David Mohaisen\
+A. West, D. Mohaisen\
 **DIMVA**, Egham, UK, 2014.
 
 *Measuring the Leakage of Onion at the Root: A measurement of Tor's .onion pseudo-TLD in the global domain name system*\
-Matthew Thomas, David Mohaisen\
+M. Thomas, D. Mohaisen\
 **ACM WPES**, Scottsdale, AZ, USA, 2014.
 
 *Kindred domains: detecting and clustering botnet domains using DNS traffic*\
-Matthew Thomas, David Mohaisen\
+M. Thomas, D. Mohaisen\
 **WWW**, Seoul, Republic of Korea, Companion Volume, 2014.
 
 Keylogging-Resistant Visual Authentication Protocols\
-DaeHun Nyang, David Mohaisen, Jeonil Kang\
+D. Nyang, D. Mohaisen, J. Kang\
 **IEEE Trans. Mob. Comput.**, 2014.
 
 *Fast and Low-Power Link Setup for IEEE 802.15.3c Multi-Gigabit/s Wireless Sensor Networks*\
-Joongheon Kim, David Mohaisen, Jong-Kook Kim\
+J. Kim, D. Mohaisen, J.-K. Kim\
 **IEEE Commun. Lett.**, 2014.
 
 *Chatter: Classifying malware families using system event ordering*\
-David Mohaisen, Andrew West, Allison Mankin, Omar Alrawi\
+D. Mohaisen, A. West, A. Mankin, O. Alrawi\
 **IEEE CNS**, San Francisco, CA, USA, 2014.
 
 *Characterizing botnets-as-a-service*\
-Wentao Chang, An Wang, David Mohaisen, Songqing Chen\
+W. Chang, A. Wang, D. Mohaisen, S. Chen\
 **ACM SIGCOMM**, Chicago, IL, USA, 2014.
 
 *AV-Meter: An Evaluation of Antivirus Scans and Labels*\
-David Mohaisen, Omar Alrawi\
+D. Mohaisen, O. Alrawi\
 **DIMVA**, Egham, UK, 2014.
 
 AMAL: High-Fidelity, Behavior-Based Automated Malware Analysis and Classification\
-David Mohaisen, Omar Alrawi\
+D. Mohaisen, O. Alrawi\
 **WISA**, Jeju Island, Korea, Revised Selected Papers, 2014\
 🏆 **Best Paper Award**
 
-Ahmed Kosba, David Mohaisen, Andrew West, Trevor Tonn, Huy Kim\
+A. Kosba, D. Mohaisen, A. West, T. Tonn, H. Kim\
 *ADAM: Automated Detection and Attribution of Malicious Webpages*\
 **WISA**, Jeju Island, Korea, Revised Selected Papers, 2014.
 
 *A Private Walk in the Clouds: Using End-to-End Encryption between Cloud Applications in a Personal Domain*\
-Youngbae Song, Hyoungshick Kim, David Mohaisen\
+Y. Song, H. Kim, D. Mohaisen\
 **TrustBus**, Munich, Germany, 2014.
 
 *Unveiling Zeus: automated classification of malware samples*\
-David Mohaisen, Omar Alrawi\
+D. Mohaisen, O. Alrawi\
 **WWW**, Rio de Janeiro, Brazil, Companion Volume, 2013.
 
 *Trustworthy distributed computing on social networks*\
-David Mohaisen, Huy Tran, Abhishek Chandra, Yongdae Kim\
+D. Mohaisen, H. Tran, A. Chandra, Y. Kim\
 **ACM ASIACCS**, Hangzhou, China, 2013.
 
 *Trading Optimality for Scalability in Large-Scale Opportunistic Routing*\
-Yanhua Li, David Mohaisen, Zhi-Li Zhang\
+Y. Li, D. Mohaisen, Z.-L. Zhang\
 **IEEE Trans. Veh. Technol.**, 2013.
 
 *Towards a Methodical Evaluation of Antivirus Scans and Labels*\
-David Mohaisen, Omar Alrawi, Matt Larson, Danny McPherson\
+D. Mohaisen, O. Alrawi, M. Larson, D. McPherson\
 **WISA**, Jeju Island, Korea, Revised Selected Papers, 2013.
 
 *Secure Encounter-Based Mobile Social Networks: Requirements, Designs, and Tradeoffs*\
-David Mohaisen, Denis Kune, Eugene Vasserman, Myungsun Kim, Yongdae Kim\
+D. Mohaisen, D. Kune, E. Vasserman, M. Kim, Y. Kim\
 **IEEE Trans. Dependable Secur. Comput.**, 2013\
 Also in **ACM CCS** (poster), Chicago, Illinois, USA, 2010.
 
 *Protecting access privacy of cached contents in information centric networks*\
-David Mohaisen, Xinwen Zhang, Max Schuchard, Haiyong Xie, Yongdae Kim\
+D. Mohaisen, X. Zhang, M. Schuchard, H. Xie, Y. Kim\
 **ACM AsiaCCS**, Hangzhou, China, 2013.
 
 *Improving Social Network-Based Sybil Defenses by Rewiring and Augmenting Social Graphs*\
-David Mohaisen, Scott Hollenbeck\
+D. Mohaisen, S. Hollenbeck\
 **WISA**, Jeju Island, Korea, Revised Selected Papers, 2013.
 
 *Dynamix: anonymity on dynamic social structures*\
-David Mohaisen, Yongdae Kim\
+D. Mohaisen, Y. Kim\
 **ACM AsiaCCS**, Hangzhou, China, 2013.
 
 *Poster: Characterization of the dynamics and interactions of domain names and name serve*\
-Mansurul Bhuiyan, David Mohaisen, Yannis Labrou, Mohammad Hasan\
+M. Bhuiyan, D. Mohaisen, Y. Labrou, M. Hasan\
 **IEEE CNS**, National Harbor, MD, USA, 2013.
 
 *Poster: Babble: Identifying malware by its dialects*\
-David Mohaisen, Omar Alrawi, Andrew West, Allison Mankin\
+D. Mohaisen, O. Alrawi, A. West, A. Mankin\
 **IEEE CNS**, National Harbor, MD, USA, 2013.
 
 *Poster: ADAM: Automated detection and attribution of malicious webpages*\
-Ahmed Kosba, David Mohaisen, Andrew West, Trevor Tonn\
+A. Kosba, D. Mohaisen, A. West, T. Tonn\
 **IEEE CNS**, National Harbor, MD, USA, 2013\
 🏆 **Best Poster Award**
 
 *Protecting access privacy of cached contents in information centric networks*\
-David Mohaisen, Xinwen Zhang, Max Schuchard, Haiyong Xie, Yongdae Kim\
+D. Mohaisen, X. Zhang, M. Schuchard, H. Xie, Y. Kim\
 **ACM CCS**, Raleigh, NC, USA, 2012.
 
 *Private Over-Threshold Aggregation Protocols*\
-Myungsun Kim, David Mohaisen, Jung Cheon, Yongdae Kim\
+M. Kim, D. Mohaisen, J. Cheon, Y. Kim\
 **ICISC**, Seoul, Korea, Revised Selected Papers, 2012.
 
 *On the mixing time of directed social graphs and security implications*\
-David Mohaisen, Huy Tran, Nicholas Hopper, Yongdae Kim\
+D. Mohaisen, H. Tran, N. Hopper, Y. Kim\
 **ACM AsiaCCS**, Seoul, Korea, 2012.
 
 *Measuring bias in the mixing time of social graphs due to graph sampling*\
-David Mohaisen, Pengkui Luo, Yanhua Li, Yongdae Kim, Zhi-Li Zhang\
+D. Mohaisen, PengK. Luo, Y. Li, Y. Kim, Z.-L. Zhang\
 **IEEE MILCOM**, Orlando, FL, USA, 2012.
 
 *DEOS: Dynamic energy-oriented scheduling for sustainable wireless sensor networks*\
-Ting Zhu, David Mohaisen, Yi Ping, Don Towsley\
+T. Zhu, D. Mohaisen, Y. Ping, D. Towsley\
 **IEEE INFOCOM**, Orlando, FL, USA, 2012.
 
 *Collaboration in social network-based information dissemination*\
-David Mohaisen, Tamer AbuHmed, Ting Zhu, Manar Mohaisen\
+D. Mohaisen, T. AbuHmed, T. Zhu, M. Mohaisen\
 **IEEE ICC**, Ottawa, ON, Canada, 2012.
 
 *Understanding Social Networks Properties for Trustworthy Computing*\
-David Mohaisen, Huy Tran, Nicholas Hopper, Yongdae Kim\
+D. Mohaisen, H. Tran, N. Hopper, Y. Kim\
 **IEEE ICDCS Workshops**, Minneapolis, Minnesota, USA, 2011.
 
 *Parallel QRD-M Encoder for Decentralized Multi-User MIMO Systems*\
-Manar Mohaisen, David Mohaisen, Yanhua Li, Pengkui Luo\
+M. Mohaisen, D. Mohaisen, Y. Li, P. Luo\
 **IEEE ICC**, Kyoto, Japan, 2011.
 
 *Losing Control of the Internet: Using the Data Plane to Attack the Control Plane*\
-Max Schuchard, David Mohaisen, Denis Kune, Nicholas Hopper, Yongdae Kim, Eugene Vasserman\
+M. Schuchard, D. Mohaisen, D. Kune, N. Hopper, Y. Kim, E. Vasserman\
 **ISOC NDSS**, San Diego, California, USA, 2011.\
 Also **ACM CCS** (poster), Chicago, Illinois, USA, 2010.
 
 
 *Keep your friends close: Incorporating trust into social network-based Sybil defenses*\
-David Mohaisen, Nicholas Hopper, Yongdae Kim\
+D. Mohaisen, N. Hopper, Y. Kim\
 **IEEE INFOCOM**, Shanghai, China, 2011.\
 Also **ACM CCS** (poster), Chicago, Illinois, USA, 2010.
 
 *Privacy Preserving Association Rule Mining Revisited: Privacy Enhancement and Resources Efficiency*\
-David Mohaisen, Nam-Su Jho, Dowon Hong, DaeHun Nyang\
+D. Mohaisen, N. Jho, D. Hong, D. Nyang\
 **IEICE Trans. Inf. Syst.**, 2010.
 
 *Measuring the mixing time of social graphs*\
-David Mohaisen, Aaram Yun, Yongdae Kim\
+D. Mohaisen, A. Yun, Y. Kim\
 **ACM IMC**, Melbourne, Australia, 2010.
 
 *Augmented Rotation-Based Transformation for Privacy-Preserving Data Clustering*\
-Dowon Hong, David Mohaisen\
+D. Hong, D. Mohaisen\
 **ETRI Journal**, 2010.
 
 *Mitigating the ICA Attack against Rotation Based Transformation for Privacy Preserving Clustering*\
-David Mohaisen, Dowon Hong\
+D. Mohaisen, D. Hong\
 **ETRI Journal**, 2009.
 
 *Hierarchical Grid-based Pairwise Key Pre-distribution in Wireless Sensor Networks*\
-David Mohaisen, DaeHun Nyang, KyungHee Lee\
+D. Mohaisen, D. Nyang, K. Lee\
 **Int. J. Netw. Secur.**, 2009.
 
 *Data Randomization for Lightweight Secure Data Aggregation in Sensor Network*\
-David Mohaisen, Ik Jeong, Dowon Hong, Nam{-}Su Jho, DaeHun Nyang\
+D. Mohaisen, I. Jeong, D. Hong, N. Jho, D. Nyang\
 **UIC**, Oslo, Norway, 2008.
 
 *A Survey on Deep Packet Inspection for Intrusion Detection Systems*\
-Tamer AbuHmed, David Mohaisen, DaeHun Nyang\
+T. AbuHmed, D. Mohaisen, D. Nyang\
 **Korea Telecommunication Magazine**, 2008.
 
 *Structures for Communication-Efficient Public Key Revocation in Ubiquitous Sensor Network*\
-David Mohaisen, DaeHun Nyang, YoungJae Maeng, KyungHee Lee\
+D. Mohaisen, D. Nyang, Y. Maeng, K. Lee\
 **IEEE MSN**, Beijing, China 2007.
 
-YoungJae Maeng, David Mohaisen, DaeHun Nyang\
+Y. Maeng, D. Mohaisen, D. Nyang\
 *Secret Key Revocation in Sensor Networks*\
 **UIC**, Hong Kong, China, 2007.
 
 *On Grid-Based Key Pre-distribution: Toward a Better Connectivity in Wireless Sensor Network*\
-David Mohaisen, YoungJae Maeng, DaeHun Nyang\
+D. Mohaisen, Y. Maeng, D. Nyang\
 **PAKDD**, Nanjing, China, Revised Selected Papers, 2007.
 
 *[Cooperative Public Key Authentication Protocol in Wireless Sensor Network]()*\
-DaeHun Nyang, David Mohaisen\
+D. Nyang, D. Mohaisen\
 **UIC**, Wuhan, China, 2006. 
 
 *[Hierarchical Grid-Based Pairwise Key Predistribution Scheme for Wireless Sensor Networks]()*\
-David Mohaisen, DaeHun Nyang\
+D. Mohaisen, D. Nyang\
 **EWSN**, Zurich, Switzerland, 2006.
 
 Editorship

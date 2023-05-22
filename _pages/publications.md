@@ -8,379 +8,379 @@ author_profile: true
 Journal and Conference Papers
 ---
 
-[Analyzing In-browser Cryptojacking]()\
+1. [Analyzing In-browser Cryptojacking]()\
 M. Saad, D. Mohaisen\
 **CoRR**, 2023.
 
-[SHIELD: Thwarting Code Authorship Attribution]()\
+1. [SHIELD: Thwarting Code Authorship Attribution]()\
 M. Abuhamad, C. Jung, D. Mohaisen, D. Nyang\
 **CoRR**, 2023.
 
-[Measuring and Modeling the Free Content Web]()\
+1. [Measuring and Modeling the Free Content Web]()\
 A. Alabduljabbar, R. Ma, A. Abusnaina, R. Jang, S. Chen, D. Nyang, M. Mohaisen\
 **CoRR**, 2023.
 
-[Exploration of Bitflip’s Effect on DNN Accuracy in Plaintext and Ciphertext]()\
+1. [Exploration of Bitflip’s Effect on DNN Accuracy in Plaintext and Ciphertext]()\
 K. Thomas, M. Santriaji, D. Mohaisen and Y. Solihin\
 **IEEE Micro Magazine**, 2023.
 
-[Self-Configurable Stabilized Real-Time Detection Learning for Autonomous Driving Applications]()\
+1. [Self-Configurable Stabilized Real-Time Detection Learning for Autonomous Driving Applications]()\
 W. Yun, S. Park, J. Kim, D. Mohaisen\
 **IEEE Trans. Intell. Transp. Syst.**, 2023.
 
-[Improving the Social Connectivity in Engineering Educational Networks and Implications]()\
+1. [Improving the Social Connectivity in Engineering Educational Networks and Implications]()\
 M. Mohaisen, D. Mohaisen\
 **IEEE Trans. Educ.**, 2023.
 
-[Learning Location from Shared Elevation Profiles in Fitness Apps: A Privacy Perspective]()\
+1. [Learning Location from Shared Elevation Profiles in Fitness Apps: A Privacy Perspective]()\
 U. Meteriz-Yildiran, N. Yildiran, J. Kim, D. Mohaisen\
 **IEEE Trans. Mob. Comput.**, 2023.
 
-[Truthful and performance-optimal computation outsourcing for aerial surveillance platforms via learning-based auction]()\
+1. [Truthful and performance-optimal computation outsourcing for aerial surveillance platforms via learning-based auction]()\
 S. Jung, J.-H. Kim, D. Mohaisen, J. Kim\
 **Comput. Networks**, 2023.
 
-[Three Birds with One Stone: Efficient Partitioning Attacks on Interdependent Cryptocurrency Networks]()\
+1. [Three Birds with One Stone: Efficient Partitioning Attacks on Interdependent Cryptocurrency Networks]()\
 M. Saad and D. Mohaisen\
 **IEEE S&P**, 2023.
 
-[A Robust Counting Sketch for Data Plane Intrusion Detection]()\
+1. [A Robust Counting Sketch for Data Plane Intrusion Detection]()\
 S. Kim, C. Jung, R. Jang, D. Mohaisen, D. Nyang\
 **ISOC NDSS**, San Diego, California, USA, 2023.
 
-[Understanding the Security and Performance of the Web Presence of Hospitals: A Measurement Study]()\
+1. [Understanding the Security and Performance of the Web Presence of Hospitals: A Measurement Study]()\
 M. Alkinoon, A. Alabduljabbar, H. Althebeiti, R. Jang, D. Nyang, D. Mohaisen\
 **IEEE ICCCN**, Honolulu, HI, USA, 2023.
 
-[*Understanding the Privacy Dimension of Wearables through Machine Learning-enabled Inferences*]()\
+1. [*Understanding the Privacy Dimension of Wearables through Machine Learning-enabled Inferences*]()\
 D. Mohaisen\
 **ACM SNTA** (Kenote), Orlando, 2023
 
-[Robust Natural Language Processing: Recent Advances, Challenges, and Future Directions]()\
+1. [Robust Natural Language Processing: Recent Advances, Challenges, and Future Directions]()\
 M. O., S. Choi, D. Nyang, D. Mohaisen\
 **CoRR**, 2022.
 
-[FAT-PIM: Low-Cost Error Detection for Processing-In-Memory]()\
+1. [FAT-PIM: Low-Cost Error Detection for Processing-In-Memory]()\
 K. Zubair, S. Jha, D. Mohaisen, C. Hughes, A. Awad\
 **CoRR**, 2022.
 
-[Cooperative Multi-Agent Deep Reinforcement Learning for Reliable Surveillance via Autonomous Multi-UAV Control]()\
+1. [Cooperative Multi-Agent Deep Reinforcement Learning for Reliable Surveillance via Autonomous Multi-UAV Control]()\
 W. Yun, S. Park, J. Kim, M. Shin, S. Jung, D. Mohaisen, J.-H. Kim\
 **CoRR**, 2022.
 
-[RouteChain: Towards Blockchain-based secure and efficient BGP routing]()\
+1. [RouteChain: Towards Blockchain-based secure and efficient BGP routing]()\
 M. Saad, A. Anwar, A. Ahmad, H. Alasmary, M. Yuksel, D. Mohaisen\
 **Comput. Networks**, 2022.
 
-[WBC image classification and generative models based on convolutional neural network]()\
+1. [WBC image classification and generative models based on convolutional neural network]()\
 C. Jung, M. Abuhamad, D. Mohaisen, K. Han, D. Nyang\
 **BMC Medical Imaging**, 2022.
 
-[Understanding Internet of Things malware by analyzing endpoints in their static artifacts]()\
+1. [Understanding Internet of Things malware by analyzing endpoints in their static artifacts]()\
 J. Choi, A. Anwar, A. Alabduljabbar, H. Alasmary, J. Spaulding, A. Wang, S. Chen, D. Nyang, A. Awad, D. Mohaisen\
 **Comput. Networks**, 2022.
 
-[ShellCore: Automating Malicious IoT Software Detection Using Shell Commands Representation]()\
+1. [ShellCore: Automating Malicious IoT Software Detection Using Shell Commands Representation]()\
 H. Alasmary, A. Anwar, A. Abusnaina, A. Alabduljabbar, M. Abuhamad, A. Wang, D. Nyang, A. Awad, D. Mohaisen\
 **IEEE Internet Things J.**, 2022.
 
-[Phoenix: Towards Ultra-Low Overhead, Recoverable, and Persistently Secure NVM]()\
+1. [Phoenix: Towards Ultra-Low Overhead, Recoverable, and Persistently Secure NVM]()\
 M. Al-Wadi, K. Zubair, D. Mohaisen, A. Awad\
 **IEEE Trans. Dependable Secur. Comput.**, 2022.
 
-[Investigating the Effect of Traffic Sampling on Machine Learning-Based Network Intrusion Detection Approaches]()\
+1. [Investigating the Effect of Traffic Sampling on Machine Learning-Based Network Intrusion Detection Approaches]()\
 K. Alikhanov, R. Jang, M. Abuhamad, D. Mohaisen, D. Nyang, Y. Noh\
 **IEEE Access**, 2022.
 
-[GraphShield: Dynamic Large Graphs for Secure Queries With Forward Privacy]()\
+1. [GraphShield: Dynamic Large Graphs for Secure Queries With Forward Privacy]()\
 M. Du, S. Wu, Q. Wang, D. Chen, P. Jiang, D. Mohaisen\
 **IEEE Trans. Knowl. Data Eng.**, 2022.
 
-[Exploring Partitioning Attacks on the Bitcoin Network]()\
+1. [Exploring Partitioning Attacks on the Bitcoin Network]()\
 M. Saad, V. Cook, L. Nguyen, M. Thai, D. Mohaisen\
 **IEEE/ACM Trans. Netw.**, 2022.
 
-[DL-FHMC: Deep Learning-Based Fine-Grained Hierarchical Learning Approach for Robust Malware Classification]()\
+1. [DL-FHMC: Deep Learning-Based Fine-Grained Hierarchical Learning Approach for Robust Malware Classification]()\
 A. Abusnaina, M. Abuhamad, H. Alasmary, A. Anwar, R. Jang, S. Salem, D. Nyang, D. Mohaisen\
 **IEEE Trans. Dependable Secur. Comput.**, 2022.
 
-[Cooperative Multiagent Deep Reinforcement Learning for Reliable Surveillance via Autonomous Multi-UAV Control]()\
+1. [Cooperative Multiagent Deep Reinforcement Learning for Reliable Surveillance via Autonomous Multi-UAV Control]()\
 W. Yun, S. Park, J. Kim, M. Shin, S. Jung, D. Mohaisen, J.-H. Kim\
 **IEEE Trans. Ind. Informatics**, 2022.
 
-[Cleaning the NVD: Comprehensive Quality Assessment, Improvements*, and Analyses]()\
+1. [Cleaning the NVD: Comprehensive Quality Assessment, Improvements*, and Analyses]()\
 A. Anwar, A. Abusnaina, S. Chen, F. Li, D. Mohaisen\
 **IEEE Trans. Dependable Secur. Comput.**, 2022\
 **DSN** (extended abstract), Taipei, Taiwan, Supplemental Volume, 2021
 
-[BlockTrail: A Service for Secure and Transparent Blockchain-Driven Audit Trails]()\
+1. [BlockTrail: A Service for Secure and Transparent Blockchain-Driven Audit Trails]()\
 A. Ahmad, M. Saad, M. AlGhamdi, D. Nyang, D. Mohaisen\
 **IEEE Syst. J.**, 2022.
 
-[A One-Page Text Entry Method Optimized for Rectangle Smartwatches]()\
+1. [A One-Page Text Entry Method Optimized for Rectangle Smartwatches]()\
 R. Jang, C. Jung, D. Mohaisen, K. Lee, D. Nyang\
 **IEEE Trans. Mob. Comput.**, 2022.
 
-[A Large-Scale Behavioral Analysis of the Open DNS Resolvers on the Internet]()\
+1. [A Large-Scale Behavioral Analysis of the Open DNS Resolvers on the Internet]()\
 J. Park, R. Jang, M. Mohaisen, D. Mohaisen\
 **IEEE/ACM Trans. Netw.**, 2022.
 
-[A Keylogging Inference Attack on Air-Tapping Keyboards in Virtual Environments]()\
+1. [A Keylogging Inference Attack on Air-Tapping Keyboards in Virtual Environments]()\
 U. Meteriz-Yildiran, N. Yildiran, A. Awad, D. Mohaisen\
 **IEEE VR**, Christchurch, New Zealand, 2022.\
 🏆 **Best Paper Candidate**
 
-[Understanding the Security of Free Content Websites by Analyzing their SSL Certificates: A Comparative Study]()\
+1. [Understanding the Security of Free Content Websites by Analyzing their SSL Certificates: A Comparative Study]()\
 A. Alabduljabbar, R. Ma, S. Choi, R. Jang, S. Chen, D. Mohaisen\
 **ACM CySSS@AsiaCCS**, Nagasaki, 2022.
 
-[Systematically Evaluating the Robustness of ML-based IoT Malware Detection Systems]()\
+1. [Systematically Evaluating the Robustness of ML-based IoT Malware Detection Systems]()\
 A. Abusnaina, A. Anwar, S. Alshamrani, A. Alabduljabbar, R. Jang, D. Nyang, D. Mohaisen\
 **RAID**, Limassol, Cyprus, 2022.
 
-[Quantifying the Performance of Adversarial Training on Language Models with Distribution Shifts]()\
+1. [Quantifying the Performance of Adversarial Training on Language Models with Distribution Shifts]()\
 M. O., S. Choi, D. Nyang, D. Mohaisen\
 **ACM CySSS@AsiaCCS**, Nagasaki, Japan, 2022.
 
-[Minimizing Noise in HyperLogLog-Based Spread Estimation of Multiple Flows]()\
+1. [Minimizing Noise in HyperLogLog-Based Spread Estimation of Multiple Flows]()\
 D. Dao, R. Jang, C. Jung, D. Mohaisen, D. Nyang\
 **IEEE DSN**, Baltimore, MD, USA, 2022.
 
-[Minerva: Rethinking Secure Architectures for the Era of Fabric-Attached Memory Architectures]()\
+1. [Minerva: Rethinking Secure Architectures for the Era of Fabric-Attached Memory Architectures]()\
 M. Al-Wadi, R. Wang, D. Mohaisen, C. Hughes, S. Hammond, A. Awad\
 **IEEE IPDPS**, Virtual Event / Lyon, France, 2022.
 
-[Miners in the Cloud: Measuring and Analyzing Cryptocurrency Mining in Public Clouds]()\
+1. [Miners in the Cloud: Measuring and Analyzing Cryptocurrency Mining in Public Clouds]()\
 A. Adeniran, D. Mohaisen\
 **CSoNet**, Virtual Event, 2022.
 
-[Measuring the Privacy Dimension of Free Content Websites through Automated Privacy Policy Analysis and Annotation]()\
+1. [Measuring the Privacy Dimension of Free Content Websites through Automated Privacy Policy Analysis and Annotation]()\
 A. Alabduljabbar, D. Mohaisen\
 **SocialNLP@WWW**, Virtual Event / Lyon, France, 2022.
 
-[Making Adversarially-Trained Language Models Forget with Model Retraining: A Case Study on Hate Speech Detection]()\
+1. [Making Adversarially-Trained Language Models Forget with Model Retraining: A Case Study on Hate Speech Detection]()\
 M. O., D. Mohaisen\
 **SocialNLP@WWW**, Virtual Event / Lyon, France, 2022.
 
-[Hierarchical Reinforcement Learning using Gaussian Random Trajectory Generation in Autonomous Furniture Assembly]()\
+1. [Hierarchical Reinforcement Learning using Gaussian Random Trajectory Generation in Autonomous Furniture Assembly]()\
 W. Yun, D. Mohaisen, S. Jung, J.-K. Kim, J. Kim\
 **ACM CIKM**, Atlanta, GA, USA, 2022.
 
-[Filesystem Encryption or Direct-Access for NVM Filesystems? Let's Have Both!]()\
+1. [Filesystem Encryption or Direct-Access for NVM Filesystems? Let's Have Both!]()\
 K. Zubair, D. Mohaisen, A. Awad,\
 **IEEE HPCA**, Seoul, South Korea, 2022.
 
-[Enriching Vulnerability Reports Through Automated and Augmented Description Summarization]()\
+1. [Enriching Vulnerability Reports Through Automated and Augmented Description Summarization]()\
 H. Althebeiti, D. Mohaisen\
 **WISA**, 2022.
 
-[Do Content Management Systems Impact the Security of Free Content Websites?]()\
+1. [Do Content Management Systems Impact the Security of Free Content Websites?]()\
 M. Alqadhi, A. Alabduljabbar, K. Thomas, S. Salem, D. Nyang, D. Mohaisen\
 **CSoNet**, Virtual Event, 2022.
 
-[AutoDefense: Reinforcement Learning Based Autoreactive Defense Against Network Attacks]()\
+1. [AutoDefense: Reinforcement Learning Based Autoreactive Defense Against Network Attacks]()\
 Y. Mi, D. Mohaisen, A. Wang\
 **IEEE CNS**, Austin, TX, USA, 2022.
 
-[AiRType: An Air-tapping Keyboard for Augmented Reality Environments]()\
+1. [AiRType: An Air-tapping Keyboard for Augmented Reality Environments]()\
 N. Yildiran, U. Meteriz-Yildiran, D. Mohaisen\
 **IEEE VR**, Christchurch, New Zealand, 2022.
 
-[AcousticType: Smartwatch-Enabled Cross-Device Text Entry Method Using Keyboard Acoustics]()\
+1. [AcousticType: Smartwatch-Enabled Cross-Device Text Entry Method Using Keyboard Acoustics]()\
 U. Meteriz-Yidiran, N. Yildiran, D. Mohaisen\
 **ACM CHI**, New Orleans, LA, USA, Extended Abstracts, 2022.
 
-[A Scalable and Dynamic ACL System for In-Network Defense]()\
+1. [A Scalable and Dynamic ACL System for In-Network Defense]()\
 C. Jung, S. Kim, R. Jang, D. Mohaisen, D. Nyang\
 **ACM CCS**, Los Angeles, CA, USA, 2022.
 
-[Towards Semantically-Rich Spatial Network Representation Learning via Automated Feature Topic Pairing]()\
+1. [Towards Semantically-Rich Spatial Network Representation Learning via Automated Feature Topic Pairing]()\
 D. Wang, K. Liu, D. Mohaisen, P. Wang, C.-T. Lu, Y. Fu\
 **Frontiers Big Data**, 2021.
 
-[Towards Low-Cost Mechanisms to Enable Restoration of Encrypted Non-Volatile Memories]()\
+1. [Towards Low-Cost Mechanisms to Enable Restoration of Encrypted Non-Volatile Memories]()\
 M. Ye, K. Zubair, D. Mohaisen, A. Awad\
 **IEEE Trans. Dependable Secur. Comput.**, 2021.
 
-[TLDR: Deep Learning-Based Automated Privacy Policy Annotation with Key Policy Highlights]()\
+1. [TLDR: Deep Learning-Based Automated Privacy Policy Annotation with Key Policy Highlights]()\
 A. Alabduljabbar, A. Abusnaina, U. Meteriz-Yildiran, D. Mohaisen\
 **ACM WPES**, Virtual Event, Korea, 2021.
 
-[Systemically Evaluating the Robustness of ML-based IoT Malware Detectors]()\
+1. [Systemically Evaluating the Robustness of ML-based IoT Malware Detectors]()\
 A. Abusnaina, A. Anwar, S. Alshamrani, A. Alabduljabbar, R. Jang, D. Nyang, D. Mohaisen\
 **IEEE DSN**, Taipei, Taiwan, Supplemental Volume, 2021\
 🏆 **Best Paper Award (Extended Abstract)**
 
-[SyncAttack: Double-spending in Bitcoin Without Mining Power]()\
+1. [SyncAttack: Double-spending in Bitcoin Without Mining Power]()\
 M. Saad, S. Chen, D. Mohaisen\
 **ACM CCS**, Virtual Event, Republic of Korea, 2021
 
-[Sensor-Based Continuous Authentication of Smartphones' Users Using Behavioral Biometrics]()\
+1. [Sensor-Based Continuous Authentication of Smartphones' Users Using Behavioral Biometrics]()\
 M. Abuhamad, A. Abusnaina, D. Nyang, D. Mohaisen\
 **IEEE Internet Things J.**, 2021.
 
-[Security Breaches in the Healthcare Domain: A Spatiotemporal Analysis]()\
+1. [Security Breaches in the Healthcare Domain: A Spatiotemporal Analysis]()\
 M. Alkinoon, M. O., M. Mohaisen, D. Mohaisen\
 **CSoNet**, Virtual Event, 2021.
 
-[SSD-Assisted Ransomware Detection and Data Recovery Techniques]()\
+1. [SSD-Assisted Ransomware Detection and Data Recovery Techniques]()\
 S. Baek, Y. Jung, D. Mohaisen, S. Lee, D. Nyang\
 **IEEE Trans. Computers**, 2021.
 
-[SIA: Smartwatch-Enabled Inference Attacks on Physical Keyboards Using Acoustic Signals]()\
+1. [SIA: Smartwatch-Enabled Inference Attacks on Physical Keyboards Using Acoustic Signals]()\
 U. Meteriz-Yildiran, N. Yildiran, D. Mohaisen\
 **ACM WPES**, Virtual Event, Korea, 2021.
 
-[Root Cause Analyses for the Deteriorating Bitcoin Network Synchronization]()\
+1. [Root Cause Analyses for the Deteriorating Bitcoin Network Synchronization]()\
 M. Saad, S. Chen, D. Mohaisen\
 **IEEE ICDCS**, Washington DC, USA, 2021.
 
-[Revisiting Nakamoto Consensus in Asynchronous Networks]()\
+1. [Revisiting Nakamoto Consensus in Asynchronous Networks]()\
 M. Saad, A. Anwar, S. Ravi, D. Mohaisen\
 **ACM CCS**, Virtual Event, Republic of Korea, 2021.
 
-[ProMT: optimizing integrity tree updates for write-intensive pages in secure NVMs.](https://dl.acm.org/doi/10.1145/3447818.3460377)\
+1. [ProMT: optimizing integrity tree updates for write-intensive pages in secure NVMs.](https://dl.acm.org/doi/10.1145/3447818.3460377)\
 M. Al-Wadi, D. Mohaisen, A. Awad\
 **ACM ICS**, Virtual Event, USA, 2021.\
 🏆 **Best Paper Award Nominee**
 
-*Performance Evaluation of Consensus Protocols in Blockchain-based Audit Systems*\
+1. *Performance Evaluation of Consensus Protocols in Blockchain-based Audit Systems*\
 A. Ahmad, M. Saad, J. Kim, D. Nyang, D. Mohaisen\
 **ICOIN**, Jeju Island, South Korea, 2021.
 
-*Measuring Healthcare Data Breaches*\
+1. *Measuring Healthcare Data Breaches*\
 M. Alkinoon, Sung Choi, D. Mohaisen\
 **WISA**, Jeju Island, South Korea, Revised Selected Papers, 2021.
 
-*ML-based IoT Malware Detection Under Adversarial Settings: A Systematic Evaluation*\
+1. *ML-based IoT Malware Detection Under Adversarial Settings: A Systematic Evaluation*\
 A. Abusnaina, A. Anwar, S. Alshamrani, A. Alabduljabbar, R. Jang, D. Nyang, D. Mohaisen\
 **CoRR**, 2021.
 
-*Large-scale and Robust Code Authorship Identification with Deep Feature Learning*\
+1. *Large-scale and Robust Code Authorship Identification with Deep Feature Learning*\
 M. Abuhamad, T. AbuHmed, D. Mohaisen, D. Nyang\
 **ACM Trans. Priv. Secur.**, 2021.
 
-*Hate, Obscenity, and Insults: Measuring the Exposure of Children to Inappropriate Comments in YouTube*\
-S. Alshamrani, A. Abusnaina, M. Abuhamad, D. Nyang, D. Mohaisen
+1. *Hate, Obscenity, and Insults: Measuring the Exposure of Children to Inappropriate Comments in YouTube*\
+S. Alshamrani, A. Abusnaina, M. Abuhamad, D. Nyang, D. Mohaisen\
 **CoRR**, 2021.
 
-*Empirically comparing the performance of blockchain's consensus algorithms*\
+1. *Empirically comparing the performance of blockchain's consensus algorithms*\
 A. Ahmad, A. Alabduljabbar, M. Saad, D. Nyang, J. Kim, D. Mohaisen\
 **IET Blockchain**, 2021.
 
-*Domain name system security and privacy: A contemporary survey*\
+1. *Domain name system security and privacy: A contemporary survey*\
 A. Khormali, J. Park, H. Alasmary, A. Anwar, M. Saad, D. Mohaisen\
 **Comput. Networks**, 2021.
 
-*Count-Less: A Counting Sketch for the Data Plane of High Speed Switches*\
+1. *Count-Less: A Counting Sketch for the Data Plane of High Speed Switches*\
 Sunyoung Kim, C. Jung, R. Jang, D. Mohaisen, D. Nyang\
 **CoRR**, 2021.
 
-*Contra-*: Mechanisms for countering spam attacks on blockchain's memory pools*\
+1. *Contra-*: Mechanisms for countering spam attacks on blockchain's memory pools*\
 M. Saad, J. Kim, D. Nyang, D. Mohaisen, \
 **J. Netw. Comput. Appl.**, 2021.
 
-*Bitcoin Price Forecasting via Ensemble-based LSTM Deep Learning Networks*\
+1. *Bitcoin Price Forecasting via Ensemble-based LSTM Deep Learning Networks*\
 Myungjae Shin, D. Mohaisen, J. Kim\
 **ICOIN**, Jeju Island, South Korea, 2021.
 
-*Automated Privacy Policy Annotation with Information Highlighting Made Practical Using Deep Representations*\
+1. *Automated Privacy Policy Annotation with Information Highlighting Made Practical Using Deep Representations*\
 A. Alabduljabbar, A. Abusnaina, U. Meteriz-Yildiran, D. Mohaisen\
 **ACM CCS**, Virtual Event, Republic of Korea, 2021.
 
-*Adversarial Example Detection Using Latent Neighborhood Graph*\
+1. *Adversarial Example Detection Using Latent Neighborhood Graph*\
 A. Abusnaina, Y. Wu, S. Arora, Y. Wang, Fei Wang, H. Yang, D. Mohaisen\
 **IEEE ICCV**, Montreal, QC, Canada, 2021.
 
-*A network-independent tool-based usable authentication system for Internet of Things devices*\
+1. *A network-independent tool-based usable authentication system for Internet of Things devices*\
 C. Jung, J. Choi, R. Jang, D. Mohaisen, D. Nyang\
 **Comput. Secur.**, 2021.
 
-*Understanding the Proxy Ecosystem: A Comparative Analysis of Residential and Open Proxies on the Internet*\
+1. *Understanding the Proxy Ecosystem: A Comparative Analysis of Residential and Open Proxies on the Internet*\
 J. Choi, M. Abuhamad, A. Abusnaina, A. Anwar, S. Alshamrani, J. Park, D. Nyang, D. Mohaisen,\
 **IEEE Access**, 2020.
 
-"Understanding the Potential Risks of Sharing Elevation Information on Fitness Applications."\
+1. "Understanding the Potential Risks of Sharing Elevation Information on Fitness Applications."\
 U. Meteriz, Necip Yildiran, J. Kim, D. Mohaisen\
 **IEEE ICDCS**, Singapore, 2020.
 
-*Toward Characterizing Blockchain-Based Cryptocurrencies for Highly Accurate Predictions*\
+1. *Toward Characterizing Blockchain-Based Cryptocurrencies for Highly Accurate Predictions*\
 M. Saad, J. Choi, D. Nyang, J. Kim, D. Mohaisen\
 **IEEE Syst. J.**, 2020\
 🏆 **Best Paper Award**\
-A shorter version appeared in **IEEE INFOCOM Workshops**, Honolulu, HI, USA, 2018
+Also in **IEEE INFOCOM Workshops**, Honolulu, HI, USA, 2018
 
-"Statically Dissecting Internet of Things Malware: Analysis, Characterization, and Detection."\
+1. "Statically Dissecting Internet of Things Malware: Analysis, Characterization, and Detection."\
 A. Anwar, H. Alasmary, J. Park, A. Wang, S. Chen, D. Mohaisen\
 **ICICS**, Copenhagen, Denmark, 2020.
 
-*Soteria: Detecting Adversarial Examples in Control Flow Graph-based Malware Classifiers*\
+1. *Soteria: Detecting Adversarial Examples in Control Flow Graph-based Malware Classifiers*\
 H. Alasmary, A. Abusnaina, R. Jang, M. Abuhamad, A. Anwar, D. Nyang, D. Mohaisen,\
 **IEEE ICDCS**, Singapore, 2020.
 
-*SketchFlow: Per-Flow Systematic Sampling Using Sketch Saturation Event*\
+1. *SketchFlow: Per-Flow Systematic Sampling Using Sketch Saturation Event*\
 R. Jang, D. Min, S. Moon, D. Mohaisen, D. Nyang\
 **IEEE INFOCOM**, Toronto, ON, Canada, 2020.
 
-*Self-adaptive power control with deep reinforcement learning for millimeter-wave Internet-of-vehicles video caching*\
+1. *Self-adaptive power control with deep reinforcement learning for millimeter-wave Internet-of-vehicles video caching*\
 D. Kwon, J. Kim, D. Mohaisen, W. Lee\
 **J. Commun. Networks**, 2020.
 
-*Reinforced Edge Selection using Deep Learning for Robust Surveillance in Unmanned Aerial Vehicles*\
+1. *Reinforced Edge Selection using Deep Learning for Robust Surveillance in Unmanned Aerial Vehicles*\
 S. Park, J. Park, D. Mohaisen, J. Kim\
 **CoRR**, 2020.
 
-*Multi-(chi): Identifying Multiple Authors from Source Code Files*\
-M. Abuhamad, T. AbuHmed, D. Nyang, D. Mohaisen
+1. *Multi-(chi): Identifying Multiple Authors from Source Code Files*\
+M. Abuhamad, T. AbuHmed, D. Nyang, D. Mohaisen\
 **Proc. Priv. Enhancing Technol.**, 2020.
 
-*Measuring the Cost of Software Vulnerabilities*\
+1. *Measuring the Cost of Software Vulnerabilities*\
 A. Anwar, A. Khormali, J. Choi, H. Alasmary, S. Salem, D. Nyang, D. Mohaisen\
 **EAI Endorsed Trans. Security Safety**, 2020\
 Also in **EAI SecureComm** (full paper), Singapore, 2018\
 Also in **ACM AsiaCCS** (poster), Incheon, Republic of Korea, 2018
 
-*Look-Aside at Your Own Risk: Privacy Implications of DNSSEC Look-Aside Validation*\
+1. *Look-Aside at Your Own Risk: Privacy Implications of DNSSEC Look-Aside Validation*\
 D. Mohaisen, Z. Gu, K. Ren, Z. Li, C. Kamhoua, L. Njilla, D. Nyang\
 **IEEE Trans. Dependable Secur. Comput.**, 2020.
 
-*Investigating Online Toxicity in Users Interactions with the Mainstream Media Channels on YouTube*\
+1. *Investigating Online Toxicity in Users Interactions with the Mainstream Media Channels on YouTube*\
 S. Alshamrani, M. Abuhamad, A. Abusnaina, D. Mohaisen\
 **SocialNLP@CIKM**, Galway, Ireland, 2020.
 
-*Insights into Attacks' Progression: Prediction of Spatio-Temporal Behavior of DDoS Attacks*\
+1. *Insights into Attacks' Progression: Prediction of Spatio-Temporal Behavior of DDoS Attacks*\
 A. Abusnaina, M. Abuhamad, D. Nyang, S. Chen, A. Wang, D. Mohaisen\
 **WISA**, Jeju Island, South Korea, Revised Selected Papers, 2020.
 
-*Hiding in Plain Sight: A Measurement and Analysis of Kids' Exposure to Malicious URLs on YouTube*\
+1. *Hiding in Plain Sight: A Measurement and Analysis of Kids' Exposure to Malicious URLs on YouTube*\
 S. Alshamrani, A. Abusnaina, D. Mohaisen\
 **CoRR**, 2020.
 
-*Generating Adversarial Examples with an Optimized Quality*\
+1. *Generating Adversarial Examples with an Optimized Quality*\
 A. Khormali, D. Nyang, D. Mohaisen\
 **CoRR**, 2020.
 
-*From Blue-Sky to Practical Adversarial Learning*\
+1. *From Blue-Sky to Practical Adversarial Learning*\
 A. Khormali, A. Abusnaina, S. Chen, D. Nyang, D. Mohaisen\
 **IEEE TPS-ISA**, Atlanta, GA, USA, 2020.
 
-*Exploring the Attack Surface of Blockchain: A Comprehensive Survey*\
+1. *Exploring the Attack Surface of Blockchain: A Comprehensive Survey*\
 M. Saad, J. Spaulding, L. Njilla, C. Kamhoua, S. Shetty, D. Nyang, D. Mohaisen\
 **IEEE Commun. Surv. Tutorials**, 2020.
 
-*DFD: Adversarial Learning-based Approach to Defend Against Website Fingerprinting*\
+1. *DFD: Adversarial Learning-based Approach to Defend Against Website Fingerprinting*\
 A. Abusnaina, R. Jang, A. Khormali, D. Nyang, D. Mohaisen\
 **IEEE INFOCOM**, Toronto, ON, Canada, 2020.
 
-*Contra-*: Mechanisms for Countering Spam Attacks on Blockchain Memory Pools*\
+1. *Contra-*: Mechanisms for Countering Spam Attacks on Blockchain Memory Pools*\
 M. Saad, J. Kim, D. Nyang, D. Mohaisen\
 **CoRR**, 2020.
 
-*Catch Me If You Can: Rogue Access Point Detection Using Intentional Channel Interference*\
+1. *Catch Me If You Can: Rogue Access Point Detection Using Intentional Channel Interference*\
 R. Jang, J. Kang, D. Mohaisen, D. Nyang\
 **IEEE Trans. Mob. Comput.**, 2020.
 
-*Assessing the effectiveness of pulsing denial of service attacks under realistic network synchronization assumptions*\
+1. *Assessing the effectiveness of pulsing denial of service attacks under realistic network synchronization assumptions*\
 J. Park, M. Mohaisen, D. Nyang, D. Mohaisen\
 **Comput. Networks**, 2020.
 
@@ -418,7 +418,7 @@ J. Spaulding, J. Park, J. Kim, D. Nyang, D. Mohaisen\
 **Trans. Emerg. Telecommun. Technol.**, 2019.
 
 *Subgraph-Based Adversarial Examples Against Graph-Based IoT Malware Detection Systems*\
-A. Abusnaina, H. Alasmary, M. Abuhamad, S. Salem, D. Nyang, D. Mohaisen
+A. Abusnaina, H. Alasmary, M. Abuhamad, S. Salem, D. Nyang, D. Mohaisen\
 **CSoNet**, Ho Chi Minh City, Vietnam, 2019.
 
 *Secure and transparent audit logs with emphBlockAudit*\

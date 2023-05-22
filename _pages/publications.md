@@ -8,17 +8,17 @@ author_profile: true
 Journal and Conference Papers
 ---
 
-1. [Analyzing In-browser Cryptojacking]()\
+1. *Analyzing In-browser Cryptojacking*\
 M. Saad, D. Mohaisen\
-**CoRR**, 2023.
+**[CoRR](https://arxiv.org/abs/2304.13253)**, 2023.
 
-1. [SHIELD: Thwarting Code Authorship Attribution]()\
+1. *SHIELD: Thwarting Code Authorship Attribution*\
 M. Abuhamad, C. Jung, D. Mohaisen, D. Nyang\
-**CoRR**, 2023.
+**[CoRR](https://arxiv.org/abs/2304.13255)**, 2023.
 
-1. [Measuring and Modeling the Free Content Web]()\
+1. *Measuring and Modeling the Free Content Web*\
 A. Alabduljabbar, R. Ma, A. Abusnaina, R. Jang, S. Chen, D. Nyang, M. Mohaisen\
-**CoRR**, 2023.
+**[CoRR](https://arxiv.org/abs/2304.14359)**, 2023.
 
 1. [Exploration of Bitflip’s Effect on DNN Accuracy in Plaintext and Ciphertext]()\
 K. Thomas, M. Santriaji, D. Mohaisen and Y. Solihin\
@@ -48,7 +48,7 @@ M. Saad and D. Mohaisen\
 S. Kim, C. Jung, R. Jang, D. Mohaisen, D. Nyang\
 **ISOC NDSS**, San Diego, California, USA, 2023.
 
-1. [Understanding the Security and Performance of the Web Presence of Hospitals: A Measurement Study]()\
+1. [Understanding the Security and Performance of the Web Presence of Hospitals: A Measurement Study](https://arxiv.org/abs/2304.13278)\
 M. Alkinoon, A. Alabduljabbar, H. Althebeiti, R. Jang, D. Nyang, D. Mohaisen\
 **IEEE ICCCN**, Honolulu, HI, USA, 2023.
 

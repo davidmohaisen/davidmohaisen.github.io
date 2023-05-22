@@ -384,574 +384,574 @@ R. Jang, J. Kang, D. Mohaisen, D. Nyang\
 J. Park, M. Mohaisen, D. Nyang, D. Mohaisen\
 **Comput. Networks**, 2020.
 
-*An Analysis of Users Engagement on Twitter During the COVID-19 Pandemic: Topical Trends and Sentiments*\
-S. Alshamrani, A. Abusnaina, M. Abuhamad, Anho Lee, D. Nyang, D. Mohaisen\
+1. *An Analysis of Users Engagement on Twitter During the COVID-19 Pandemic: Topical Trends and Sentiments*\
+S. Alshamrani, A. Abusnaina, M. Abuhamad, A. Lee, D. Nyang, D. Mohaisen\
 **CSoNet**, Dallas, TX, USA, 2020.
 
-*AUToSen: Deep-Learning-Based Implicit Continuous Authentication Using Smartphone Sensors*\
+1. *AUToSen: Deep-Learning-Based Implicit Continuous Authentication Using Smartphone Sensors*\
 M. Abuhamad, T. AbuHmed, D. Mohaisen, D. Nyang\
 **IEEE Internet Things J.**, 2020.
 
-*A Data-Driven Study of DDoS Attacks and Their Dynamics*\
+1. *A Data-Driven Study of DDoS Attacks and Their Dynamics*\
 A. Wang, W. Chang, S. Chen, D. Mohaisen\
 **IEEE Trans. Dependable Secur. Comput.**, 2020.
 
-*XLF: A Cross-layer Framework to Secure the Internet of Things (IoT)*\
+1. *XLF: A Cross-layer Framework to Secure the Internet of Things (IoT)*\
 A. Wang, D. Mohaisen, S. Chen\
 **IEEE ICDCS**, Dallas, TX, USA, 2019.
 
-*Where Are You Taking Me? Behavioral Analysis of Open DNS Resolvers*\
+1. *Where Are You Taking Me? Behavioral Analysis of Open DNS Resolvers*\
 J. Park, A. Khormali, M. Mohaisen, D. Mohaisen\
 **IEEE DSN**, Portland, OR, USA, 2019\
 Also **ACM CoNEXT** (poster), Orlando, FL, USA, 2019.
 
-*Two-Stage IoT Device Scheduling With Dynamic Programming for Energy Internet Systems*\
+1. *Two-Stage IoT Device Scheduling With Dynamic Programming for Energy Internet Systems*\
 Laihyuk Park, Chunghyun Lee, J. Kim, D. Mohaisen, Sungrae Cho\
 **IEEE Internet Things J.,** 2019.
 
-*Transparency in the New gTLD Era: Evaluating the DNS Centralized Zone Data Service*\
+1. *Transparency in the New gTLD Era: Evaluating the DNS Centralized Zone Data Service*\
 J. Park, J. Choi, D. Nyang, D. Mohaisen\
 **IEEE Trans. Netw. Serv. Manag.**, 2019.
 
-*Thriving on chaos: Proactive detection of command and control domains in internet of things-scale botnets using DRIFT*\
+1. *Thriving on chaos: Proactive detection of command and control domains in internet of things-scale botnets using DRIFT*\
 J. Spaulding, J. Park, J. Kim, D. Nyang, D. Mohaisen\
 **Trans. Emerg. Telecommun. Technol.**, 2019.
 
-*Subgraph-Based Adversarial Examples Against Graph-Based IoT Malware Detection Systems*\
+1. *Subgraph-Based Adversarial Examples Against Graph-Based IoT Malware Detection Systems*\
 A. Abusnaina, H. Alasmary, M. Abuhamad, S. Salem, D. Nyang, D. Mohaisen\
 **CSoNet**, Ho Chi Minh City, Vietnam, 2019.
 
-*Secure and transparent audit logs with emphBlockAudit*\
+1. *Secure and transparent audit logs with emphBlockAudit*\
 A. Ahmad, M. Saad, D. Mohaisen\
 **J. Netw. Comput. Appl.**, 2019.
 
-*Scaling Up Anomaly Detection Using In-DRAM Working Set of Active Flows Table*\
+1. *Scaling Up Anomaly Detection Using In-DRAM Working Set of Active Flows Table*\
 R. Jang, S. Moon, Y. Noh, D. Mohaisen, D. Nyang\
 **CoRR**, 2019.
 
-*RouteChain: Towards Blockchain-based Secure and Efficient BGP Routing*\
+1. *RouteChain: Towards Blockchain-based Secure and Efficient BGP Routing*\
 M. Saad, A. Anwar, A. Ahmad, H. Alasmary, M. Yuksel, D. Mohaisen\
 **IEEE ICBC**, Seoul, Korea (South), 2019.
 
-*Privacy-Preserving Deep Learning Computation for Geo-Distributed Medical Big-Data Platforms*\
+1. *Privacy-Preserving Deep Learning Computation for Geo-Distributed Medical Big-Data Platforms*\
 J. Jeon, J. Kim, J. Kim, K. Kim, D. Mohaisen, J.-K. Kim\
 **IEEE DSN**, Portland, OR, USA, Supplemental Volume, 2019.
 
-*Pricing Data Tampering in Automated Fare Collection with NFC-Equipped Smartphones*\
+1. *Pricing Data Tampering in Automated Fare Collection with NFC-Equipped Smartphones*\
 F. Dang, E. Zhai, Z. Li, P. Zhou, D. Mohaisen, K. Bian, Q. Wen, M. Li\
 **IEEE Trans. Mob. Comput.**, 2019\
 Also in **IEEE INFOCOM**, Atlanta, GA, USA, 2017
 
-*Partitioning Attacks on Bitcoin: Colliding Space, Time, and Logic*\
+1. *Partitioning Attacks on Bitcoin: Colliding Space, Time, and Logic*\
 M. Saad, V. Cook, Lan Nguyen, M. Thai, D. Mohaisen\
 **IEEE ICDCS**, Dallas, TX, USA, 2019.
 
-*Mempool optimization for Defending Against DDoS Attacks in PoW-based Blockchain Systems*\
+1. *Mempool optimization for Defending Against DDoS Attacks in PoW-based Blockchain Systems*\
 M. Saad, L. Njilla, C. Kamhoua, J. Kim, D. Nyang, D. Mohaisen\
 **IEEE ICBC**, Seoul, Korea (South), 2019.
 
-*IoT malware ecosystem in the wild: a glimpse into analysis and exposures*\
+1. *IoT malware ecosystem in the wild: a glimpse into analysis and exposures*\
 J. Choi, A. Anwar, H. Alasmary, J. Spaulding, D. Nyang, D. Mohaisen\
 **ACM/IEEE SEC**, Arlington, Virginia, USA, 2019.
 
-*InstaMeasure: Instant Per-flow Detection Using Large In-DRAM Working Set of Active Flows*\
+1. *InstaMeasure: Instant Per-flow Detection Using Large In-DRAM Working Set of Active Flows*\
 R. Jang, S. Moon, Y. Noh, D. Mohaisen, D. Nyang\
 **IEEE ICDCS**, Dallas, TX, USA, 2019.
 
-*Honor among Thieves: Towards Understanding the Dynamics and Interdependencies in IoT Botnets*\
+1. *Honor among Thieves: Towards Understanding the Dynamics and Interdependencies in IoT Botnets*\
 J. Choi, A. Abusnaina, A. Anwar, A. Wang, S. Chen, D. Nyang, D. Mohaisen\
 **IEEE DSC**, Hangzhou, China, 2019.
 
-*Fighting Fake News Propagation with Blockchains*\
+1. *Fighting Fake News Propagation with Blockchains*\
 M. Saad, A. Ahmad, D. Mohaisen\
 **IEEE CNS**, Washington, DC, USA, 2019.
 
-A. Abusnaina, A. Khormali, D. Nyang, M. Yuksel, D. Mohaisen\
+1. A. Abusnaina, A. Khormali, D. Nyang, M. Yuksel, D. Mohaisen\
 *Examining the Robustness of Learning-Based DDoS Detection in Software Defined Networks*\
 **IEEE DSC**, Hangzhou, China, 2019\
 🏆 **Best Ppaper -- Runner Up**\
 Also in **ACM CoNEXT** (poster), Orlando, FL, USA, 2019
 
-*Dine and Dash: Static, Dynamic, and Economic Analysis of In-Browser Cryptojacking*\
+1. *Dine and Dash: Static, Dynamic, and Economic Analysis of In-Browser Cryptojacking*\
 M. Saad, A. Khormali, D. Mohaisen\
 **eCrime**, Pittsburgh, PA, USA, 2019.
 
-*Detecting and Classifying Android Malware using Static Analysis along with Creator Information*\
+1. *Detecting and Classifying Android Malware using Static Analysis along with Creator Information*\
 H.-J. Kang, J.-w. Jang, D. Mohaisen, H. Kim,\
 **CoRR**, 2019.
 
-*Cyber Deception in the Internet of Battlefield Things: Techniques, Instances, and Assessments*\
+1. *Cyber Deception in the Internet of Battlefield Things: Techniques, Instances, and Assessments*\
 J. Park, D. Mohaisen, C. Kamhoua, Michael Weisman, Nandi Leslie, L. Njilla\
 **WISA**, Jeju Island, South Korea, Revised Selected Papers, 2019.
 
-*Countering Selfish Mining in Blockchains*\
+1. *Countering Selfish Mining in Blockchains*\
 M. Saad, L. Njilla, C. Kamhoua, D. Mohaisen\
 **IEEE ICNC**, Honolulu, HI, USA, 2019.
 
-*Computer Systems Have 99 Problems, Let's Not Make Machine Learning Another One*\
+1. *Computer Systems Have 99 Problems, Let's Not Make Machine Learning Another One*\
 D. Mohaisen, S. Chen\
-**CoRR**, 2019.
+**IEEE ISA**, 2019.
 
-*COPYCAT: Practical Adversarial Attacks on Visualization-Based Malware Detection*\
+1. *COPYCAT: Practical Adversarial Attacks on Visualization-Based Malware Detection*\
 A. Khormali, A. Abusnaina, S. Chen, D. Nyang, Aziz Mohaisen\
 **CoRR**, 2019.
 
-"Poster: Breaking graph-based IoT malware detection systems using adversarial examples."\
+1. "Poster: Breaking graph-based IoT malware detection systems using adversarial examples."\
 A. Abusnaina, A. Khormali, H. Alasmary, J. Park, A. Anwar, U. Meteriz, D. Mohaisen\
 **ACM WiSec**, Miami, Florida, USA, 2019.
 
-"BlockTrail: A Scalable Multichain Solution for Blockchain-Based Audit Trails."\
+1. "BlockTrail: A Scalable Multichain Solution for Blockchain-Based Audit Trails."\
 A. Ahmad, M. Saad, L. Njilla, C. Kamhoua, M. Bassiouni, D. Mohaisen\
 **IEEE ICC**, Shanghai, China, 2019.
 
-*Android Malware Detection Using Complex-Flows*\
+1. *Android Malware Detection Using Complex-Flows*\
 Feng Shen, Justin Vecchio, D. Mohaisen, S. Ko, Lukasz Ziarek\
 **IEEE Trans. Mob. Comput.**, 2019\
 Also appeared in **IEEE ICDCS** (short paper), Atlanta, GA, USA, 2017\
 Also appeared in **ACM MobiSys** (poster), Niagara Falls, NY, USA, 2017
 
-*Poster: Analyzing endpoints in the internet of things malware*\
+1. *Poster: Analyzing endpoints in the internet of things malware*\
 J. Choi, A. Anwar, H. Alasmary, J. Spaulding, D. Nyang, D. Mohaisen\
 **ACM WiSec**, Miami, Florida, USA, 2019.
 
-*Analyzing and Detecting Emerging Internet of Things Malware: A Graph-Based Approach*\
+1. *Analyzing and Detecting Emerging Internet of Things Malware: A Graph-Based Approach*\
 H. Alasmary, A. Khormali, A. Anwar, J. Park, J. Choi, A. Abusnaina, Amro Awad, D. Nyang, D. Mohaisen\
 **IEEE Internet Things J.**, 2019.
 
-*Adversarial Learning Attacks on Graph-based IoT Malware Detection Systems*\
+1. *Adversarial Learning Attacks on Graph-based IoT Malware Detection Systems*\
 A. Abusnaina, A. Khormali, H. Alasmary, J. Park, A. Anwar, D. Mohaisen\
 **IEEE ICDCS**, Dallas, TX, USA, 2019.
 
-*Poster: A cost-effective anomaly detection system using in-DRAM working set of active flows table*\
+1. *Poster: A cost-effective anomaly detection system using in-DRAM working set of active flows table*\
 R. Jang, S. Moon, Y. Noh, D. Mohaisen, D. Nyang\
 **ACM WiSec**, Miami, Florida, USA, 2019.
 
-*A Privacy-Preserving Longevity Study of Tor's Hidden Services*\
+1. *A Privacy-Preserving Longevity Study of Tor's Hidden Services*\
 A. Sanatinia, J. Park, E.-O. Blass, D. Mohaisen, G. Noubir\
 **CoRR**, 2019.
 
-*XMSS: eXtended Merkle Signature Scheme*\
+1. *XMSS: eXtended Merkle Signature Scheme*\
 Andreas Hulsing, D. Butin, Stefan{-}Lukas Gazdag, Joost Rijneveld, D. Mohaisen\
 **IETF RFC**, 2018.
 
-*Two-Thumbs-Up: Physical protection for PIN entry secure against recording attacks*\
+1. *Two-Thumbs-Up: Physical protection for PIN entry secure against recording attacks*\
 D. Nyang, H. Kim, W. Lee, S. Kang, G. Cho, M. Lee, D. Mohaisen\
 **Comput. Secur.**, 2018.
 
-*Towards Blockchain-Driven, Secure and Transparent Audit Logs*\
+1. *Towards Blockchain-Driven, Secure and Transparent Audit Logs*\
 A. Ahmad, M. Saad, M. Bassiouni, D. Mohaisen\
 **DLoT@MobiQuitous**, New York City, NY, USA, 2018\
 🏆 **Best Paper Award**
 
-*Timing is Almost Everything: Realistic Evaluation of the Very Short Intermittent DDoS Attacks*\
+1. *Timing is Almost Everything: Realistic Evaluation of the Very Short Intermittent DDoS Attacks*\
 J. Park, D. Nyang, D. Mohaisen\
 **IEEE PST**, Belfast, Northern Ireland, Uk, 2018.
 
-*ShmCaffe: A Distributed Deep Learning Platform with Shared Memory Buffer for HPC Architecture*\
+1. *ShmCaffe: A Distributed Deep Learning Platform with Shared Memory Buffer for HPC Architecture*\
 S. Ahn, J. Kim, E. Lim, W. Choi, D. Mohaisen, S. Kang\
 **IEEE ICDCS**, Vienna, Austria, 2018.
 
-*SSD-Insider: Internal Defense of Solid-State Drive against Ransomware with Perfect Data Recovery*\
+1. *SSD-Insider: Internal Defense of Solid-State Drive against Ransomware with Perfect Data Recovery*\
 S. Baek, Y. Jung, D. Mohaisen, S. Lee, D. Nyang\
 **IEEE ICDCS**, Vienna, Austria, 2018.
 
-*QOI: Assessing Participation in Threat Information Sharing*\
+1. *QOI: Assessing Participation in Threat Information Sharing*\
 J. Park, H. Alasmary, O. Al-Ibrahim, C. Kamhoua, K. Kwiat, L. Njilla, D. Mohaisen\
 **IEEE ICASSP**, Calgary, AB, Canada, 2018.
 
-*Proactive detection of algorithmically generated malicious domains*\
+1. *Proactive detection of algorithmically generated malicious domains*\
 J. Spaulding, J. Park, J. Kim, D. Mohaisen\
 **ICOIN**, Chiang Mai, Thailand, 2018.
 
-*POSTER: Deterring DDoS Attacks on Blockchain-based Cryptocurrencies through Mempool Optimization*\
+1. *POSTER: Deterring DDoS Attacks on Blockchain-based Cryptocurrencies through Mempool Optimization*\
 M. Saad, My Thai, D. Mohaisen\
 **ACM AsiaCCS**, Incheon, Republic of Korea, 2018.
 
-*Neural Network Syntax Analyzer for Embedded Standardized Deep Learning*\
+1. *Neural Network Syntax Analyzer for Embedded Standardized Deep Learning*\
 M. Shin, J. Kim, D. Mohaisen, J. Park, K. Lee\
 **EMDL@MobiSys**, Munich, Germany, 2018.
 
-*Network-based Analysis and Classification of Malware using Behavioral Artifacts Ordering*\
+1. *Network-based Analysis and Classification of Malware using Behavioral Artifacts Ordering*\
 D. Mohaisen, O. Alrawi, J. Park, J. Kim, D. Nyang, M. Mohaisen\
 **EAI Endorsed Trans. Security Safety**, 2018.
 
-*Large-Scale and Language-Oblivious Code Authorship Identification*\
+1. *Large-Scale and Language-Oblivious Code Authorship Identification*\
 M. Abuhamad, T. AbuHmed, D. Mohaisen, D. Nyang\
 **ACM CCS**, Toronto, ON, Canada, 2018.
 
-*Interference-Aware Adaptive Beam Alignment for Hyper-Dense IEEE 802.11ax Internet-of-Things Networks*\
+1. *Interference-Aware Adaptive Beam Alignment for Hyper-Dense IEEE 802.11ax Internet-of-Things Networks*\
 D. Kwon, Sang{-}Wook Kim, J. Kim, D. Mohaisen\
 **Sensors**, 2018.
 
-*Graph-Based Comparison of IoT and Android Malware*\
+1. *Graph-Based Comparison of IoT and Android Malware*\
 H. Alasmary, A. Anwar, J. Park, J. Choi, D. Nyang, D. Mohaisen\
 **CSoNet**, Shanghai, China, 2018.
 
-*Digitalseal: a Transaction Authentication Tool for Online and Offline Transactions*\
+1. *Digitalseal: a Transaction Authentication Tool for Online and Offline Transactions*\
 C. Jung, J. Kang, D. Mohaisen, D. Nyang\
 **IEEE ICASSP**, Calgary, AB, Canada, 2018.
 
-*Delving Into Internet DDoS Attacks by Botnets: Characterization and Analysis*\
+1. *Delving Into Internet DDoS Attacks by Botnets: Characterization and Analysis*\
 A. Wang, W. Chang, S. Chen, D. Mohaisen\
 **IEEE/ACM Trans. Netw.**, 2018.
 
-*Defending Internet of Things Against Malicious Domain Names using D-FENS*\
+1. *Defending Internet of Things Against Malicious Domain Names using D-FENS*\
 J. Spaulding, D. Mohaisen\
 **IEEE/ACM SEC Workshops**, Seattle, WA, USA, 2018.
 
-*Countering Selfish Mining in Blockchains*\
+1. *Countering Selfish Mining in Blockchains*\
 M. Saad, L. Njilla, C. Kamhoua, D. Mohaisen\
 **IEEE ICNC**, 2018.
 
-*ABC: Enabling Smartphone Authentication with Built-in Camera*\
+1. *ABC: Enabling Smartphone Authentication with Built-in Camera*\
 Z. Ba, S. Piao, X. Fu, D. Koutsonikolas, D. Mohaisen, K. Ren\
 **ISOC NDSS**, San Diego, California, USA, 2018.
 
-*You've Been Tricked! A User Study of the Effectiveness of Typosquatting Techniques*\
+1. *You've Been Tricked! A User Study of the Effectiveness of Typosquatting Techniques*\
 J. Spaulding, S. Upadhyaya, D. Mohaisen\
 **IEEE ICDCS**, Atlanta, GA, USA, 2017.
 
-*You Can Hear But You Cannot Steal: Defending Against Voice Impersonation Attacks on Smartphones*\
+1. *You Can Hear But You Cannot Steal: Defending Against Voice Impersonation Attacks on Smartphones*\
 Si Chen, K. Ren, S. Piao, C. Wang, Q. Wang, J. Weng, L. Su, D. Mohaisen\
 **IEEE ICDCS 2017**, Atlanta, GA, USA, 2017.
 
-*When Smart TV Meets CRN: Privacy-Preserving Fine-Grained Spectrum Access*\
+1. *When Smart TV Meets CRN: Privacy-Preserving Fine-Grained Spectrum Access*\
 C. Guan, D. Mohaisen, Z. Sun, L. Su, K. Ren, Y. Yang\
 **IEEE ICDCS 2017**, Atlanta, GA, USA, 2017.
 
-*Understanding the effectiveness of typosquatting techniques*\
+1. *Understanding the effectiveness of typosquatting techniques*\
 J. Spaulding, D. Nyang, D. Mohaisen\
 **ACM/IEEE HotWeb 2017**, San Jose / Silicon Valley, CA, USA, 2017.
 
-*Understanding Adversarial Strategies from Bot Recruitment to Scheduling*\
+1. *Understanding Adversarial Strategies from Bot Recruitment to Scheduling*\
 W. Chang, D. Mohaisen, A. Wang, S. Chen\
 **EAI SecureComm**, Niagara Falls, ON, Canada, 2017.
 
-*Poster: Two-level network monitoring and management in WLAN using software-defined networking*\
+1. *Poster: Two-level network monitoring and management in WLAN using software-defined networking*\
 R. Jang, D. Cho, D. Mohaisen, Y. Noh, D. Nyang\
 **ACM WiSec**, Boston, MA, USA, 2017.
 
-*SecGDB: Graph Encryption for Exact Shortest Distance Queries with Efficient Updates*\
+1. *SecGDB: Graph Encryption for Exact Shortest Distance Queries with Efficient Updates*\
 Q. Wang, K. Ren, M. Du, Q. Li, D. Mohaisen\
 **Financial Crypto**, Sliema, Malta, Revised Selected Papers, 2017.
 
-*Rogue Access Point Detector Using Characteristics of Channel Overlapping in 802.11n*\
+1. *Rogue Access Point Detector Using Characteristics of Channel Overlapping in 802.11n*\
 R. Jang, J. Kang, D. Mohaisen, D. Nyang\
 **IEEE ICDCS**, Atlanta, GA, USA, 2017.
 
-*Rethinking information sharing for threat intelligence*\
+1. *Rethinking information sharing for threat intelligence*\
 D. Mohaisen, O. Al-Ibrahim, C. Kamhoua, K. Kwiat, L. Njilla\
 **ACM/IEEE HotWeb**, San Jose / Silicon Valley, CA, USA, 2017.
 
-*Privacy Implications of DNSSEC Look-Aside Validation*\
+1. *Privacy Implications of DNSSEC Look-Aside Validation*\
 D. Mohaisen, Z. Gu, K. Ren\
 **IEEE ICDCS**, Atlanta, GA, USA, 2017.\
 Also in **IEEE PAC**, 2017 (poster).
 
-*Performance of deep learning computation with TensorFlow software library in GPU-capable multi-core computing platforms*\
+1. *Performance of deep learning computation with TensorFlow software library in GPU-capable multi-core computing platforms*\
 Y. Mo, J. Kim, J.-K. Kim, D. Mohaisen, W. Lee\
 **IEEE ICUFN**, Milan, Italy, 2017.
 
-*Leakage of .onion at the DNS Root: Measurements, Causes, and Countermeasures*\
+1. *Leakage of .onion at the DNS Root: Measurements, Causes, and Countermeasures*\
 D. Mohaisen, K. Ren\
 **IEEE/ACM Trans. Netw.**, 2017.
 
-*Highly-accurate rogue access point detection using intentional channel interference: poster*\
+1. *Highly-accurate rogue access point detection using intentional channel interference: poster*\
 R. Jang, J. Kang, D. Mohaisen, D. Nyang\
 **ACM WiSec**, Boston, MA, USA, 2017.
 
-*Distributed and reliable decision-making for cloud-enabled mobile service platforms*\
+1. *Distributed and reliable decision-making for cloud-enabled mobile service platforms*\
 J. Kim, D. Mohaisen\
 **Int. J. Distributed Sens. Networks**, 2017.
 
-*Crime Scene Reconstruction: Online Gold Farming Network Analysis*\
+1. *Crime Scene Reconstruction: Online Gold Farming Network Analysis*\
 H. Kwon, D. Mohaisen, J. Woo, Y. Kim, E. Lee, H. Kim,\
 **IEEE Trans. Inf. Forensics Secur.**, 2017.
 
-*An Adversary-Centric Behavior Modeling of DDoS Attacks*\
+1. *An Adversary-Centric Behavior Modeling of DDoS Attacks*\
 A. Wang, D. Mohaisen, S. Chen\
 **IEEE ICDCS**, Atlanta, GA, USA, 2017.
 
-*You are a Game Bot!: Uncovering Game Bots in MMORPGs via Self-similarity in the Wild
+1. *You are a Game Bot!: Uncovering Game Bots in MMORPGs via Self-similarity in the Wild
 E. Lee, J. Woo, H. Kim, D. Mohaisen, H. Kim*\
 **ISOC NDSS**, San Diego, California, USA, 2016.
 
-*Transparency in the New gTLD Era: Evaluating the DNS Centralized Zone Data Service*\
+1. *Transparency in the New gTLD Era: Evaluating the DNS Centralized Zone Data Service*\
 A. Kang, S. Jeong, S. Ko, K. Ren, D. Mohaisen\
 **IEEE/ACM HotWeb**, Washington, DC, USA, 2016.
 
-*The Landscape of Domain Name Typosquatting: Techniques and Countermeasures*\
+1. *The Landscape of Domain Name Typosquatting: Techniques and Countermeasures*\
 J. Spaulding, S. Upadhyaya, D. Mohaisen\
 **ARES**, Salzburg, Austria, 2016.
 
-*Private Over-Threshold Aggregation Protocols over Distributed Datasets*\
+1. *Private Over-Threshold Aggregation Protocols over Distributed Datasets*\
 M. Kim, D. Mohaisen, J. Cheon, Y. Kim\
 **IEEE Trans. Knowl. Data Eng.**, 2016.
 
-*Multimodal Game Bot Detection using User Behavioral Characteristics*\
+1. *Multimodal Game Bot Detection using User Behavioral Characteristics*\
 A. Kang, S. Jeong, D. Mohaisen, H. Kim\
 **CoRR**, 2016.
 
-*Measuring and Analyzing Trends in Recent Distributed Denial of Service Attacks*\
+1. *Measuring and Analyzing Trends in Recent Distributed Denial of Service Attacks*\
 A. Wang, D. Mohaisen, W. Chang, S. Chen\
 **WISA**, Jeju Island, Korea, Revised Selected Papers, 2016.
 
-*Mal-Netminer: Malware Classification Approach based on Social Network Analysis of System Call Graph*\
+1. *Mal-Netminer: Malware Classification Approach based on Social Network Analysis of System Call Graph*\
 J.-w. Jang, J. Woo, D. Mohaisen, J. Yun, H. Kim\
 **CoRR**, 2016.
 
-*Chains of Distrust: Towards Understanding Certificates Used for Signing Malicious Applications*\
+1. *Chains of Distrust: Towards Understanding Certificates Used for Signing Malicious Applications*\
 O. Alrawi, D. Mohaisen\
 **WWW Companion**, Montreal, Canada, 2016.
 
-*Andro-profiler: Detecting and Classifying Android Malware based on Behavioral Profiles*\
+1. *Andro-profiler: Detecting and Classifying Android Malware based on Behavioral Profiles*\
 J.-w. Jang, J. Yun, D. Mohaisen, J. Woo, H. Kim\
 **CoRR**, 2016.
 
-*Andro-Dumpsys: Anti-malware system based on the similarity of malware creator and malware centric information*\
+1. *Andro-Dumpsys: Anti-malware system based on the similarity of malware creator and malware centric information*\
 J.-w. Jang, H.-J. Kang, J. Woo, D. Mohaisen, H. Kim\
 **Comput. Secur.**, 2016.
 
-*A Longitudinal Analysis of .i2p Leakage in the Public DNS Infrastructure*\
+1. *A Longitudinal Analysis of .i2p Leakage in the Public DNS Infrastructure*\
 S. Jeong, A. Kang, J. Kim, H. Kim, D. Mohaisen\
 **ACM SIGCOMM** (poster), Florianopolis, Brazil, 2016.
 
-*Transaction authentication using complementary colors*\
+1. *Transaction authentication using complementary colors*\
 Y. Maeng, D. Mohaisen, M. Lee, D. Nyang\
 **Comput. Secur.**, 2015.
 
-Towards Automatic and Lightweight Detection and Classification of Malicious Web Contents\
+1. *Towards Automatic and Lightweight Detection and Classification of Malicious Web Contents*\
 D. Mohaisen\
 **ACM/IEEE HotWeb**, Washington, DC, USA, 2015.
 
-*Timing Attacks on Access Privacy in Information Centric Networks and Countermeasures*\
+1. *Timing Attacks on Access Privacy in Information Centric Networks and Countermeasures*\
 D. Mohaisen, H. Mekky, X. Zhang, H. Xie, Y. Kim\
 **IEEE Trans. Dependable Secur. Comput.**, 2015.
 
-*Separation of benign and malicious network events for accurate malware family classification*\
+1. *Separation of benign and malicious network events for accurate malware family classification*\
 H. Mekky, D. Mohaisen, Z.-L. Zhang\
 **IEEE CNS**, Florence, Italy, 2015.\
 **ACM CCS** (poster), Scottsdale, AZ, USA, 2014.
 
-*Measuring Botnets in the Wild: Some New Trends*\
+1. *Measuring Botnets in the Wild: Some New Trends*\
 W. Chang, D. Mohaisen, A. Wang, S. Chen\
 **ACM ASIACCS**, Singapore, 2015.
 
-*Detecting and Classifying Android Malware Using Static Analysis along with Creator Information*\
+1. *Detecting and Classifying Android Malware Using Static Analysis along with Creator Information*\
 H.-J. Kang, J.-w. Jang, D. Mohaisen, H. Kim\
 **Int. J. Distributed Sens. Networks**, 2015.
 
-*Delving into Internet DDoS Attacks by Botnets: Characterization and Analysis*\
+1. *Delving into Internet DDoS Attacks by Botnets: Characterization and Analysis*\
 A. Wang, D. Mohaisen, W. Chang, S. Chen\
 **IEEE DSN**, Rio de Janeiro, Brazil, 2015.
 
-*Capturing DDoS Attack Dynamics Behind the Scenes*\
+1. *Capturing DDoS Attack Dynamics Behind the Scenes*\
 A. Wang, D. Mohaisen, W. Chang, S. Chen\
 **DIMVA**, Milan, Italy, 2015.
 
-*Andro-AutoPsy: Anti-malware system based on similarity matching of malware and malware creator-centric information*\
+1. *Andro-AutoPsy: Anti-malware system based on similarity matching of malware and malware creator-centric information*\
 J.-w. Jang, Hyunjae Kang, J. Woo, D. Mohaisen, H. Kim\
 **Digit. Investig.**, 2015.
 
-*AMAL: High-fidelity, behavior-based automated malware analysis and classification*\
+1. *AMAL: High-fidelity, behavior-based automated malware analysis and classification*\
 D. Mohaisen, O. Alrawi, M. Mohaisen\
 **Comput. Secur.**, 2015.
 
-*Trustworthy Distributed Computing on Social Networks*\
+1. *Trustworthy Distributed Computing on Social Networks*\
 D. Mohaisen, H. Tran, A. Chandra, Y. Kim\
 **IEEE Trans. Serv. Comput.**, 2014.
 
-*Parallel QRD-M encoder for multi-user MIMO systems*\
+1. *Parallel QRD-M encoder for multi-user MIMO systems*\
 M. Mohaisen, D. Mohaisen, M. Debbah\
 **Telecommun. Syst.**, 2014.
 
-*POSTER: How Distributed Are Today's DDoS Attacks?*\
+1. *POSTER: How Distributed Are Today's DDoS Attacks?*\
 A. Wang, W. Chang, D. Mohaisen, S. Chen\
 **ACM CCS**, Scottsdale, AZ, USA, 2014.
 
-*Name Server Switching: Anomaly Signatures, Usage, Clustering, and Prediction*\
+1. *Name Server Switching: Anomaly Signatures, Usage, Clustering, and Prediction*\
 D. Mohaisen, M. Bhuiyan, Y. Labrou\
 **WISA**, Jeju Island, Korea, Revised Selected Papers, 2014.
 
-*Metadata-Driven Threat Classification of Network Endpoints Appearing in Malware*\
+1. *Metadata-Driven Threat Classification of Network Endpoints Appearing in Malware*\
 A. West, D. Mohaisen\
 **DIMVA**, Egham, UK, 2014.
 
-*Measuring the Leakage of Onion at the Root: A measurement of Tor's .onion pseudo-TLD in the global domain name system*\
+1. *Measuring the Leakage of Onion at the Root: A measurement of Tor's .onion pseudo-TLD in the global domain name system*\
 M. Thomas, D. Mohaisen\
 **ACM WPES**, Scottsdale, AZ, USA, 2014.
 
-*Kindred domains: detecting and clustering botnet domains using DNS traffic*\
+1. *Kindred domains: detecting and clustering botnet domains using DNS traffic*\
 M. Thomas, D. Mohaisen\
 **WWW**, Seoul, Republic of Korea, Companion Volume, 2014.
 
-Keylogging-Resistant Visual Authentication Protocols\
+1. Keylogging-Resistant Visual Authentication Protocols\
 D. Nyang, D. Mohaisen, J. Kang\
 **IEEE Trans. Mob. Comput.**, 2014.
 
-*Fast and Low-Power Link Setup for IEEE 802.15.3c Multi-Gigabit/s Wireless Sensor Networks*\
+1. *Fast and Low-Power Link Setup for IEEE 802.15.3c Multi-Gigabit/s Wireless Sensor Networks*\
 J. Kim, D. Mohaisen, J.-K. Kim\
 **IEEE Commun. Lett.**, 2014.
 
-*Chatter: Classifying malware families using system event ordering*\
+1. *Chatter: Classifying malware families using system event ordering*\
 D. Mohaisen, A. West, A. Mankin, O. Alrawi\
 **IEEE CNS**, San Francisco, CA, USA, 2014.
 
-*Characterizing botnets-as-a-service*\
+1. *Characterizing botnets-as-a-service*\
 W. Chang, A. Wang, D. Mohaisen, S. Chen\
 **ACM SIGCOMM**, Chicago, IL, USA, 2014.
 
-*AV-Meter: An Evaluation of Antivirus Scans and Labels*\
+1. *AV-Meter: An Evaluation of Antivirus Scans and Labels*\
 D. Mohaisen, O. Alrawi\
 **DIMVA**, Egham, UK, 2014.
 
-AMAL: High-Fidelity, Behavior-Based Automated Malware Analysis and Classification\
+1. AMAL: High-Fidelity, Behavior-Based Automated Malware Analysis and Classification\
 D. Mohaisen, O. Alrawi\
 **WISA**, Jeju Island, Korea, Revised Selected Papers, 2014\
 🏆 **Best Paper Award**
 
-A. Kosba, D. Mohaisen, A. West, T. Tonn, H. Kim\
+1. A. Kosba, D. Mohaisen, A. West, T. Tonn, H. Kim\
 *ADAM: Automated Detection and Attribution of Malicious Webpages*\
 **WISA**, Jeju Island, Korea, Revised Selected Papers, 2014.
 
-*A Private Walk in the Clouds: Using End-to-End Encryption between Cloud Applications in a Personal Domain*\
+1. *A Private Walk in the Clouds: Using End-to-End Encryption between Cloud Applications in a Personal Domain*\
 Y. Song, H. Kim, D. Mohaisen\
 **TrustBus**, Munich, Germany, 2014.
 
-*Unveiling Zeus: automated classification of malware samples*\
+1. *Unveiling Zeus: automated classification of malware samples*\
 D. Mohaisen, O. Alrawi\
 **WWW**, Rio de Janeiro, Brazil, Companion Volume, 2013.
 
-*Trustworthy distributed computing on social networks*\
+1. *Trustworthy distributed computing on social networks*\
 D. Mohaisen, H. Tran, A. Chandra, Y. Kim\
 **ACM ASIACCS**, Hangzhou, China, 2013.
 
-*Trading Optimality for Scalability in Large-Scale Opportunistic Routing*\
+1. *Trading Optimality for Scalability in Large-Scale Opportunistic Routing*\
 Y. Li, D. Mohaisen, Z.-L. Zhang\
 **IEEE Trans. Veh. Technol.**, 2013.
 
-*Towards a Methodical Evaluation of Antivirus Scans and Labels*\
+1. *Towards a Methodical Evaluation of Antivirus Scans and Labels*\
 D. Mohaisen, O. Alrawi, M. Larson, D. McPherson\
 **WISA**, Jeju Island, Korea, Revised Selected Papers, 2013.
 
-*Secure Encounter-Based Mobile Social Networks: Requirements, Designs, and Tradeoffs*\
+1. *Secure Encounter-Based Mobile Social Networks: Requirements, Designs, and Tradeoffs*\
 D. Mohaisen, D. Kune, E. Vasserman, M. Kim, Y. Kim\
 **IEEE Trans. Dependable Secur. Comput.**, 2013\
 Also in **ACM CCS** (poster), Chicago, Illinois, USA, 2010.
 
-*Protecting access privacy of cached contents in information centric networks*\
+1. *Protecting access privacy of cached contents in information centric networks*\
 D. Mohaisen, X. Zhang, M. Schuchard, H. Xie, Y. Kim\
 **ACM AsiaCCS**, Hangzhou, China, 2013.
 
-*Improving Social Network-Based Sybil Defenses by Rewiring and Augmenting Social Graphs*\
+1. *Improving Social Network-Based Sybil Defenses by Rewiring and Augmenting Social Graphs*\
 D. Mohaisen, S. Hollenbeck\
 **WISA**, Jeju Island, Korea, Revised Selected Papers, 2013.
 
-*Dynamix: anonymity on dynamic social structures*\
+1. *Dynamix: anonymity on dynamic social structures*\
 D. Mohaisen, Y. Kim\
 **ACM AsiaCCS**, Hangzhou, China, 2013.
 
-*Poster: Characterization of the dynamics and interactions of domain names and name serve*\
+1. *Poster: Characterization of the dynamics and interactions of domain names and name serve*\
 M. Bhuiyan, D. Mohaisen, Y. Labrou, M. Hasan\
 **IEEE CNS**, National Harbor, MD, USA, 2013.
 
-*Poster: Babble: Identifying malware by its dialects*\
+1. *Poster: Babble: Identifying malware by its dialects*\
 D. Mohaisen, O. Alrawi, A. West, A. Mankin\
 **IEEE CNS**, National Harbor, MD, USA, 2013.
 
-*Poster: ADAM: Automated detection and attribution of malicious webpages*\
+1. *Poster: ADAM: Automated detection and attribution of malicious webpages*\
 A. Kosba, D. Mohaisen, A. West, T. Tonn\
 **IEEE CNS**, National Harbor, MD, USA, 2013\
 🏆 **Best Poster Award**
 
-*Protecting access privacy of cached contents in information centric networks*\
+1. *Protecting access privacy of cached contents in information centric networks*\
 D. Mohaisen, X. Zhang, M. Schuchard, H. Xie, Y. Kim\
 **ACM CCS**, Raleigh, NC, USA, 2012.
 
-*Private Over-Threshold Aggregation Protocols*\
+1. *Private Over-Threshold Aggregation Protocols*\
 M. Kim, D. Mohaisen, J. Cheon, Y. Kim\
 **ICISC**, Seoul, Korea, Revised Selected Papers, 2012.
 
-*On the mixing time of directed social graphs and security implications*\
+1. *On the mixing time of directed social graphs and security implications*\
 D. Mohaisen, H. Tran, N. Hopper, Y. Kim\
 **ACM AsiaCCS**, Seoul, Korea, 2012.
 
-*Measuring bias in the mixing time of social graphs due to graph sampling*\
+1. *Measuring bias in the mixing time of social graphs due to graph sampling*\
 D. Mohaisen, PengK. Luo, Y. Li, Y. Kim, Z.-L. Zhang\
 **IEEE MILCOM**, Orlando, FL, USA, 2012.
 
-*DEOS: Dynamic energy-oriented scheduling for sustainable wireless sensor networks*\
+1. *DEOS: Dynamic energy-oriented scheduling for sustainable wireless sensor networks*\
 T. Zhu, D. Mohaisen, Y. Ping, D. Towsley\
 **IEEE INFOCOM**, Orlando, FL, USA, 2012.
 
-*Collaboration in social network-based information dissemination*\
+1. *Collaboration in social network-based information dissemination*\
 D. Mohaisen, T. AbuHmed, T. Zhu, M. Mohaisen\
 **IEEE ICC**, Ottawa, ON, Canada, 2012.
 
-*Understanding Social Networks Properties for Trustworthy Computing*\
+1. *Understanding Social Networks Properties for Trustworthy Computing*\
 D. Mohaisen, H. Tran, N. Hopper, Y. Kim\
 **IEEE ICDCS Workshops**, Minneapolis, Minnesota, USA, 2011.
 
-*Parallel QRD-M Encoder for Decentralized Multi-User MIMO Systems*\
+1. *Parallel QRD-M Encoder for Decentralized Multi-User MIMO Systems*\
 M. Mohaisen, D. Mohaisen, Y. Li, P. Luo\
 **IEEE ICC**, Kyoto, Japan, 2011.
 
-*Losing Control of the Internet: Using the Data Plane to Attack the Control Plane*\
+1. *Losing Control of the Internet: Using the Data Plane to Attack the Control Plane*\
 M. Schuchard, D. Mohaisen, D. Kune, N. Hopper, Y. Kim, E. Vasserman\
 **ISOC NDSS**, San Diego, California, USA, 2011.\
 Also **ACM CCS** (poster), Chicago, Illinois, USA, 2010.
 
 
-*Keep your friends close: Incorporating trust into social network-based Sybil defenses*\
+1. *Keep your friends close: Incorporating trust into social network-based Sybil defenses*\
 D. Mohaisen, N. Hopper, Y. Kim\
 **IEEE INFOCOM**, Shanghai, China, 2011.\
 Also **ACM CCS** (poster), Chicago, Illinois, USA, 2010.
 
-*Privacy Preserving Association Rule Mining Revisited: Privacy Enhancement and Resources Efficiency*\
+1. *Privacy Preserving Association Rule Mining Revisited: Privacy Enhancement and Resources Efficiency*\
 D. Mohaisen, N. Jho, D. Hong, D. Nyang\
 **IEICE Trans. Inf. Syst.**, 2010.
 
-*Measuring the mixing time of social graphs*\
+1. *Measuring the mixing time of social graphs*\
 D. Mohaisen, A. Yun, Y. Kim\
 **ACM IMC**, Melbourne, Australia, 2010.
 
-*Augmented Rotation-Based Transformation for Privacy-Preserving Data Clustering*\
+1. *Augmented Rotation-Based Transformation for Privacy-Preserving Data Clustering*\
 D. Hong, D. Mohaisen\
 **ETRI Journal**, 2010.
 
-*Mitigating the ICA Attack against Rotation Based Transformation for Privacy Preserving Clustering*\
+1. *Mitigating the ICA Attack against Rotation Based Transformation for Privacy Preserving Clustering*\
 D. Mohaisen, D. Hong\
 **ETRI Journal**, 2009.
 
-*Hierarchical Grid-based Pairwise Key Pre-distribution in Wireless Sensor Networks*\
+1. *Hierarchical Grid-based Pairwise Key Pre-distribution in Wireless Sensor Networks*\
 D. Mohaisen, D. Nyang, K. Lee\
 **Int. J. Netw. Secur.**, 2009.
 
-*Data Randomization for Lightweight Secure Data Aggregation in Sensor Network*\
+1. *Data Randomization for Lightweight Secure Data Aggregation in Sensor Network*\
 D. Mohaisen, I. Jeong, D. Hong, N. Jho, D. Nyang\
 **UIC**, Oslo, Norway, 2008.
 
-*A Survey on Deep Packet Inspection for Intrusion Detection Systems*\
+1. *A Survey on Deep Packet Inspection for Intrusion Detection Systems*\
 T. AbuHmed, D. Mohaisen, D. Nyang\
 **Korea Telecommunication Magazine**, 2008.
 
-*Structures for Communication-Efficient Public Key Revocation in Ubiquitous Sensor Network*\
+1. *Structures for Communication-Efficient Public Key Revocation in Ubiquitous Sensor Network*\
 D. Mohaisen, D. Nyang, Y. Maeng, K. Lee\
 **IEEE MSN**, Beijing, China 2007.
 
+1. *Secret Key Revocation in Sensor Networks*\
 Y. Maeng, D. Mohaisen, D. Nyang\
-*Secret Key Revocation in Sensor Networks*\
 **UIC**, Hong Kong, China, 2007.
 
-*On Grid-Based Key Pre-distribution: Toward a Better Connectivity in Wireless Sensor Network*\
+1. *On Grid-Based Key Pre-distribution: Toward a Better Connectivity in Wireless Sensor Network*\
 D. Mohaisen, Y. Maeng, D. Nyang\
 **PAKDD**, Nanjing, China, Revised Selected Papers, 2007.
 
-*[Cooperative Public Key Authentication Protocol in Wireless Sensor Network]()*\
+1. *[Cooperative Public Key Authentication Protocol in Wireless Sensor Network]()*\
 D. Nyang, D. Mohaisen\
 **UIC**, Wuhan, China, 2006. 
 
-*[Hierarchical Grid-Based Pairwise Key Predistribution Scheme for Wireless Sensor Networks]()*\
+1. *[Hierarchical Grid-Based Pairwise Key Predistribution Scheme for Wireless Sensor Networks]()*\
 D. Mohaisen, D. Nyang\
 **EWSN**, Zurich, Switzerland, 2006.
 

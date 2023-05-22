@@ -128,7 +128,7 @@ J. Park, R. Jang, M. Mohaisen, D. Mohaisen\
 1. [A Keylogging Inference Attack on Air-Tapping Keyboards in Virtual Environments]()\
 U. Meteriz-Yildiran, N. Yildiran, A. Awad, D. Mohaisen\
 **IEEE VR**, Christchurch, New Zealand, 2022.\
-🏆 **Best Paper Candidate**
+🏅 **Best Paper Candidate**
 
 1. [Understanding the Security of Free Content Websites by Analyzing their SSL Certificates: A Comparative Study]()\
 A. Alabduljabbar, R. Ma, S. Choi, R. Jang, S. Chen, D. Mohaisen\
@@ -209,7 +209,7 @@ A. Alabduljabbar, A. Abusnaina, U. Meteriz-Yildiran, D. Mohaisen\
 1. [Systemically Evaluating the Robustness of ML-based IoT Malware Detectors]()\
 A. Abusnaina, A. Anwar, S. Alshamrani, A. Alabduljabbar, R. Jang, D. Nyang, D. Mohaisen\
 **IEEE DSN**, Taipei, Taiwan, Supplemental Volume, 2021\
-🏆 **Best Paper Award (Extended Abstract)**
+🏅 **Best Paper Award (Extended Abstract)**
 
 1. [SyncAttack: Double-spending in Bitcoin Without Mining Power]()\
 M. Saad, S. Chen, D. Mohaisen\
@@ -242,7 +242,7 @@ M. Saad, A. Anwar, S. Ravi, D. Mohaisen\
 1. [ProMT: optimizing integrity tree updates for write-intensive pages in secure NVMs.](https://dl.acm.org/doi/10.1145/3447818.3460377)\
 M. Al-Wadi, D. Mohaisen, A. Awad\
 **ACM ICS**, Virtual Event, USA, 2021.\
-🏆 **Best Paper Award Nominee**
+🏅 **Best Paper Award Nominee**
 
 1. *Performance Evaluation of Consensus Protocols in Blockchain-based Audit Systems*\
 A. Ahmad, M. Saad, J. Kim, D. Nyang, D. Mohaisen\
@@ -307,7 +307,7 @@ U. Meteriz, Necip Yildiran, J. Kim, D. Mohaisen\
 1. *Toward Characterizing Blockchain-Based Cryptocurrencies for Highly Accurate Predictions*\
 M. Saad, J. Choi, D. Nyang, J. Kim, D. Mohaisen\
 **IEEE Syst. J.**, 2020\
-🏆 **Best Paper Award**\
+🏅 **Best Paper Award**\
 Also in **IEEE INFOCOM Workshops**, Honolulu, HI, USA, 2018
 
 1. "Statically Dissecting Internet of Things Malware: Analysis, Characterization, and Detection."\
@@ -469,7 +469,7 @@ M. Saad, A. Ahmad, D. Mohaisen\
 1. A. Abusnaina, A. Khormali, D. Nyang, M. Yuksel, D. Mohaisen\
 *Examining the Robustness of Learning-Based DDoS Detection in Software Defined Networks*\
 **IEEE DSC**, Hangzhou, China, 2019\
-🏆 **Best Ppaper -- Runner Up**\
+🏅 **Best Ppaper -- Runner Up**\
 Also in **ACM CoNEXT** (poster), Orlando, FL, USA, 2019
 
 1. *Dine and Dash: Static, Dynamic, and Economic Analysis of In-Browser Cryptojacking*\
@@ -541,7 +541,7 @@ D. Nyang, H. Kim, W. Lee, S. Kang, G. Cho, M. Lee, D. Mohaisen\
 1. *Towards Blockchain-Driven, Secure and Transparent Audit Logs*\
 A. Ahmad, M. Saad, M. Bassiouni, D. Mohaisen\
 **DLoT@MobiQuitous**, New York City, NY, USA, 2018\
-🏆 **Best Paper Award**
+🏅 **Best Paper Award**
 
 1. *Timing is Almost Everything: Realistic Evaluation of the Very Short Intermittent DDoS Attacks*\
 J. Park, D. Nyang, D. Mohaisen\
@@ -808,7 +808,7 @@ D. Mohaisen, O. Alrawi\
 1. AMAL: High-Fidelity, Behavior-Based Automated Malware Analysis and Classification\
 D. Mohaisen, O. Alrawi\
 **WISA**, Jeju Island, Korea, Revised Selected Papers, 2014\
-🏆 **Best Paper Award**
+🏅 **Best Paper Award**
 
 1. A. Kosba, D. Mohaisen, A. West, T. Tonn, H. Kim\
 *ADAM: Automated Detection and Attribution of Malicious Webpages*\
@@ -862,7 +862,7 @@ D. Mohaisen, O. Alrawi, A. West, A. Mankin\
 1. *Poster: ADAM: Automated detection and attribution of malicious webpages*\
 A. Kosba, D. Mohaisen, A. West, T. Tonn\
 **IEEE CNS**, National Harbor, MD, USA, 2013\
-🏆 **Best Poster Award**
+🏅 **Best Poster Award**
 
 1. *Protecting access privacy of cached contents in information centric networks*\
 D. Mohaisen, X. Zhang, M. Schuchard, H. Xie, Y. Kim\

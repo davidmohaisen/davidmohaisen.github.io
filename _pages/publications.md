@@ -49,7 +49,7 @@ M. Mohaisen, D. Mohaisen\
 U. Meteriz-Yildiran, N. Yildiran, J. Kim, D. Mohaisen\
 **IEEE Trans. Mob. Comput.**, 2023.
 
-[Truthful and performance-optimal computation outsourcing for aerial surveillance platforms via learning-based auction]()\
+[Truthful and performance-optimal computation outsourcing for aerial surveillance]()\
 S. Jung, J.-H. Kim, D. Mohaisen, J. Kim\
 **Comput. Networks**, 2023.
 
@@ -73,7 +73,7 @@ M. Omar, S. Choi, D. Nyang, D. Mohaisen\
 K. Zubair, S. Jha, D. Mohaisen, C. Hughes, A. Awad\
 **CoRR**, 2022.
 
-[Cooperative Multi-Agent Deep Reinforcement Learning for Reliable Surveillance via Autonomous Multi-UAV Control]()\
+[Cooperative Multi-Agent Deep Reinforcement Learning for Reliable Surveillance]()\
 W. Yun, S. Park, J. Kim, M. Shin, S. Jung, D. Mohaisen, J.-H. Kim\
 **CoRR**, 2022.
 
@@ -97,7 +97,7 @@ H. Alasmary, A. Anwar, A. Abusnaina, A. Alabduljabbar, M. Abuhamad, A. Wang, D. 
 M. Al-Wadi, K. Zubair, D. Mohaisen, A. Awad\
 **IEEE Trans. Dependable Secur. Comput.**, 2022.
 
-[Investigating the Effect of Traffic Sampling on Machine Learning-Based Network Intrusion Detection Approaches]()\
+[Investigating the Effect of Traffic Sampling on Machine Learning-Based Network Intrusion Detection]()\
 K. Alikhanov, R. Jang, M. Abuhamad, D. Mohaisen, D. Nyang, Y. Noh\
 **IEEE Access**, 2022.
 

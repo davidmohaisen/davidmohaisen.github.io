@@ -58,3 +58,13 @@ Alumni
 * B. Rademaker (BS, 2017)
 * D. Weidenborner (BS, 2016)
 * Anho Lee (BS, 2020) -
+
+Visitors
+---
+1. Dr. Ahmed Abdalal, Fulbright Visitor (2022-2023). Assistant Professor @ University of Gaza
+2. Dr. DaeHun Nyang, visitor (2017-2019, multiple visits). Professor at Ewha womans University
+3. Dr. Jihoon Lee, visitor (2019; 1 year). Associate professor at Sangmyung University
+4. Dr. Mohammed Alghamdi, visitor (summer 2019). Associate professor at Um Alqura University
+5. Dr. Ah Reum Kang, Postdoc, 2016 -> Postdoc at UB -> Postdoc Soonchunhyang University
+6. Dr. Omar Al-Ibrahim, Postdoc, 2016 -> tenure-track assistant professor at Kuwait University
+

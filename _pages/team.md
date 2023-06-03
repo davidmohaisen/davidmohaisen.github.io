@@ -5,6 +5,23 @@ permalink: /team/
 author_profile: true
 ---
 
+Current Members
+---
+
+* David Mohaisen, Professor (lab director)
+* Hattan Althebeiti, PhD candidate (post-qual, ECE)
+* Mohammed Alkinoon, PhD student (post-qual; CS)
+* Soohyeon Choi, PhD student (post-qual; CS)
+* Ayo Adeniran, PhD student (post-qual, MST)
+* Mohammed Alqadhi, PhD student (post-qual, CS)
+* Ali Alkinoon, PhD student (CS)
+* Jie Li, PhD student (CS)
+* Aziz Alghamdi, PhD student (ECE)
+* Ahod Alguried, PhD student (CS)
+* Kieran Human, MS student (CS) 
+
+Alumni
+---
 * Jeffrey Spaulding (PhD, 2018) → Sr. Lead Engineer, Booz Allen Hamilton
 * Ashar Ahmad (PhD, 2019) → Director of Research, Clear Village Inc.
 * Mo Abuhamad (PhD, 2020) → Asst. Prof., Loyola University Chicago

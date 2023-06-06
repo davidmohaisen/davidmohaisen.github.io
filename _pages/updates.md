@@ -5,8 +5,8 @@ permalink: /updates/
 author_profile: true
 ---
 
-👨🏻‍🏫 06/2023: David will deliver a keynote on VR security at SNTA 2023, held in Orlando.
-📚 05/2023: New paper on ML security due to hardware-level attacks at IEEE MICRO.
+👨🏻‍🏫 06/2023: David will deliver a keynote on VR security at SNTA 2023, held in Orlando.\
+📚 05/2023: New paper on ML security due to hardware-level attacks at IEEE MICRO.\
 📚 05/2023: New paper on hospitals breaches and security at IEEE ICCCN 2023. Congrats, M. Alkinoon et al.
 🎯 05/2023: M. Alqadhi passed his candidacy exam.
 🎯 04/2023: M. Alkinoon passed his candidacy exam.

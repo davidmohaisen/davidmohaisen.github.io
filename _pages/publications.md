@@ -9,16 +9,16 @@ Preprints
 ---
 1. *Blockchain Security and Privacy Examined: Threats, Challenges, Applications, and Tools*\
 A. Alghuried, M. Alkinoon, M. Mohaisen, A. Wang, C. Zou, and D. Mohaisen\
-**[DRAFT](../files/cst-cc24.pdf)**, 2024.
+**[DRAFT](http://davidmohaisen.github.io/files/cst-cc24.pdf)**, 2024.
 
 1. **Semantics-Preserving Node Injection Attacks Against GNN-based ACFG Malware Classifiers**\
 D. Zapzalka, S. Salem, and D. Mohaisen\
-**[DRAFT](../files/tdsc-mal24.pdf)**, 2024.
+**[DRAFT](http://davidmohaisen.github.io/files/tdsc-mal24.pdf)**, 2024.
   
 1. *Analyzing In-browser Cryptojacking*\
 M. Saad, D. Mohaisen\
 **[CoRR](https://arxiv.org/abs/2304.13253)**, 2023.\
-**[Local](tdsc-cj24.pdf)**, 2024.
+**[Local](http://davidmohaisen.github.io/files/tdsc-cj24.pdf)**, 2024.
 
 1. *SHIELD: Thwarting Code Authorship Attribution*\
 M. Abuhamad, C. Jung, D. Mohaisen, D. Nyang\
@@ -30,9 +30,9 @@ A. Alabduljabbar, R. Ma, A. Abusnaina, R. Jang, S. Chen, D. Nyang, M. Mohaisen\
 
 Journal and Conference Papers
 ---
-1. *Analyzing In-browser Cryptojacking*\
+1. [Analyzing In-browser Cryptojacking](http://davidmohaisen.github.io/files/tdsc-cj.pdf)\
 M. Saad, D. Mohaisen\
-**[IEEE TDSC](tdsc-cj.pdf)**, 2024.
+**[IEEE TDSC]**, 2024.
 
 1. [Exploration of Bitflip’s Effect on DNN Accuracy in Plaintext and Ciphertext]()\
 K. Thomas, M. Santriaji, D. Mohaisen and Y. Solihin\

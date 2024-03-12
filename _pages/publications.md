@@ -7,14 +7,18 @@ author_profile: true
 
 Preprints
 ---
+1. **Blockchain Security and Privacy Examined: Threats, Challenges, Applications, and Tools**\
+A. Alghuried, M. Alkinoon, M. Mohaisen, A. Wang, C. Zou, and D. Mohaisen\
+**[DRAFT](files/cst-cc24.pdf)**, 2024.
+
 1. **Semantics-Preserving Node Injection Attacks Against GNN-based ACFG Malware Classifiers**\
 D. Zapzalka, S. Salem, and D. Mohaisen\
-**[DRAFT](files/cst-bc24.pdf)**, 2024.
+**[DRAFT](files/tdsc-mal24.pdf)**, 2024.
   
 1. *Analyzing In-browser Cryptojacking*\
 M. Saad, D. Mohaisen\
 **[CoRR](https://arxiv.org/abs/2304.13253)**, 2023.\
-**[Local](files/tdsc-cj.pdf)**, 2024.
+**[Local](files/tdsc-cj24.pdf)**, 2024.
 
 1. *SHIELD: Thwarting Code Authorship Attribution*\
 M. Abuhamad, C. Jung, D. Mohaisen, D. Nyang\

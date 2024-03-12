@@ -11,6 +11,7 @@ Preprints
 1. *Analyzing In-browser Cryptojacking*\
 M. Saad, D. Mohaisen\
 **[CoRR](https://arxiv.org/abs/2304.13253)**, 2023.
+**[Local](files/tdsc-cj.pdf)**, 2023.
 
 1. *SHIELD: Thwarting Code Authorship Attribution*\
 M. Abuhamad, C. Jung, D. Mohaisen, D. Nyang\
@@ -22,6 +23,9 @@ A. Alabduljabbar, R. Ma, A. Abusnaina, R. Jang, S. Chen, D. Nyang, M. Mohaisen\
 
 Journal and Conference Papers
 ---
+1. *Analyzing In-browser Cryptojacking*\
+M. Saad, D. Mohaisen\
+**[IEEE TDSC](files/tdsc-cj.pdf)**, 2024.
 
 1. [Exploration of Bitflip’s Effect on DNN Accuracy in Plaintext and Ciphertext]()\
 K. Thomas, M. Santriaji, D. Mohaisen and Y. Solihin\

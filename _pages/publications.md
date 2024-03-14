@@ -13,7 +13,8 @@ A. Alghuried, M. Alkinoon, M. Mohaisen, A. Wang, C. Zou, and D. Mohaisen\
 
 1. **Semantics-Preserving Node Injection Attacks Against GNN-based ACFG Malware Classifiers**\
 D. Zapzalka, S. Salem, and D. Mohaisen\
-**[DRAFT](https://davidmohaisen.github.io/files/tdsc-mal24.pdf)**, 2024.
+**[DRAFT](https://davidmohaisen.github.io/files/tdsc-mal24.pdf)**, 2024.\
+**under review, major revision @ IEEE TDSC**
   
 1. *Analyzing In-browser Cryptojacking*\
 M. Saad, D. Mohaisen\
@@ -32,7 +33,7 @@ Journal and Conference Papers
 ---
 1. [Analyzing In-browser Cryptojacking](https://davidmohaisen.github.io/files/tdsc-cj.pdf)\
 M. Saad, D. Mohaisen\
-**[IEEE TDSC]**, 2024.
+**[IEEE TDSC]**, 2024 (to appear).
 
 1. [Exploration of Bitflip’s Effect on DNN Accuracy in Plaintext and Ciphertext]()\
 K. Thomas, M. Santriaji, D. Mohaisen and Y. Solihin\

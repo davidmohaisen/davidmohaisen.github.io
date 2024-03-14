@@ -9,7 +9,7 @@ Preprints
 ---
 1. *Blockchain Security and Privacy Examined: Threats, Challenges, Applications, and Tools*\
 A. Alghuried, M. Alkinoon, M. Mohaisen, A. Wang, C. Zou, and D. Mohaisen\
-**[DRAFT](https://davidmohaisen.github.io/files/cst-cc24.pdf)**, 2024.
+**[DRAFT](https://davidmohaisen.github.io/files/cst-bc24.pdf)**, 2024.
 
 1. **Semantics-Preserving Node Injection Attacks Against GNN-based ACFG Malware Classifiers**\
 D. Zapzalka, S. Salem, and D. Mohaisen\

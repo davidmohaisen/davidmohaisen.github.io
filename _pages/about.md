@@ -35,7 +35,7 @@ Ahod Alghureid, Ph.D. Student (CS, exp. 2025)
 [Muhammad Saad](https://www.linkedin.com/in/muhammad-saad-b41665145/) (CS, 2021) &rarr; Sr Scientist, [PayPal](https://www.paypal.com/us/home)\
 [Ahmed Abusnaina](https://www.linkedin.com/in/ahmed-abusnaina-958b4b138/) (CS, 2022) &rarr; Research Scientist, [Meta](https://about.facebook.com/?utm_source=meta.com&utm_medium=redirect)\
 [Ülkü Meteriz-Yıldıran](https://www.linkedin.com/in/ulku-meteriz/) (CS, 2022) &rarr; Research Scientist, [Meta](https://about.facebook.com/?utm_source=meta.com&utm_medium=redirect)\
-[Abdulrahman Alabduljabbar](https://www.linkedin.com/in/alabduljabbar/) (CS, 2022) &rarr; Assistant Professor and Chair, [PSAU](https://www.psau.edu.sa/en)
+[Abdulrahman Alabduljabbar](https://www.linkedin.com/in/alabduljabbar/) (CS, 2022) &rarr; Assistant Professor and Chair, [PSAU](https://www.psau.edu.sa/en)\
 Hattan Althebeiti (ECE, 2023) &rarr; Assistant Professor, Tabuk University\
 Mohammed Alkinoon (CS, 2024) &rarr; Lecturer, Old Dominion University\
 Mohamed Alqadhi (CS, 2024) &rarr; Assistant Professor, Institute of Public Administration\

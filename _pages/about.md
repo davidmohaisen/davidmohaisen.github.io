@@ -19,6 +19,12 @@ Current and Past Doctoral Advisees
 ----
 Ali Alkinoon, Ph.D. Student (CS,  exp. 2025)\
 Jie Li, Ph.D. Student (CS,  exp. 2025)\
+Ilkin Isler, Ph.D. student (CS, exp. 2025)\
+Cuong Tran, Ph.D. student (started 2025)\
+Pelumi Ogunwale, Ph.D. student (incoming, 2025)\
+Mandana Ghadamian, Ph.D. student (incoming, 2025)\
+Reem Alharbi, Ph.D. student (incoming, 2025)\
+Steffen Camarato, Ph.D. student (incoming, 2025)
 
 
 [Jeff Spaulding](https://www.linkedin.com/in/jeffreyspaulding/) (CS, 2018) &rarr; Assistant Professor, [Canisius College](https://www.canisius.edu/) &rarr; Lead Engineer, [Booz Allen](https://www.boozallen.com/)\
@@ -40,7 +46,7 @@ Mohamed Alqadhi (CS, 2024) &rarr; Assistant Professor, Institute of Public Admin
 Ayodeji Adeniran (MST, 2024) &rarr; Architect, LeapXpert\
 Soohyeon Choi (CS, 2025)  &rarr; Research Scientist, Singapore Management University\
 Aziz Alghamdi (ECE, 2025)  &rarr; Assistant Professor, Jazan University\
-Ahod Alghureid (CS, 2025)  &rarr Assistant Professor, PSAU;
+Ahod Alghureid (CS, 2025)  &rarr; Assistant Professor, PSAU
 
 Current Services
 ----

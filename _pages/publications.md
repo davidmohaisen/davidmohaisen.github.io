@@ -69,6 +69,10 @@ J. Lin and D. Mohaisen\
 S. Choi, A. Alkinoon, A. Alghuried, A. Alghamdi, and D. Mohaisen\
 **[ICDCS]**, 2025.
 
+20. *Enhancing Transparency in Android Privacy Policies via LLM-Based Permission Mapping*\
+A. Akinoon and D. Mohaisen\
+**[ACS/IEEE AICCSA (accepted)]**, 2025.
+
 1. *xr-droid: A Benchmark Dataset for AR/VR and Security Applications*\
 A. Alghamdi, A. Alkinoon, A. Alghried, and D. Mohaisen\
 **[IEEE TDSC]**, 2024.

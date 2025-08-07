@@ -94,6 +94,6 @@ Recent Updates
 ----
 Gave a keynote at the Saudi Aramco Cyber Security Chair on AI Security (2025)\
 Will be on leave during 2023-2024.\
-I gave deliver a keynote on VR security at SNTA 2023, held in Orlando.\
+I gave deliver a keynote on VR security at SNTA 2023, held in Orlando.
 
 [^1]: Until 2020, I went by Aziz Mohaisen.

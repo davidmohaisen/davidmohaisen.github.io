@@ -43,7 +43,7 @@ Past Doctoral Advisees
 1. Aziz Alghamdi (ECE, 2025)  &rarr; Assistant Professor, Jazan University
 1. Ahod Alghureid (CS, 2025)  &rarr; Assistant Professor, PSAU
 1. Ali Alkinoon (CS, 2025) &rarr; Lecturer (Teaching Faculty), University of Central Florida
-1. Jie Li, Ph.D. Student (CS, 2025) &rarr; Lecturer (Teaching Faculty), University of Central Florida
+1. Jie Li (CS, 2025) &rarr; Lecturer (Teaching Faculty), University of Central Florida
 1. Ilkin Isler, (CS, 2025) &rarr; Sr. Software Engineer, Universal Creative
 
 Current Services

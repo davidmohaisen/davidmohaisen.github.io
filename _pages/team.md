@@ -9,6 +9,9 @@ Current Members
 ---
 David Mohaisen, Professor (lab director)
 
+1. Mohammed Kharma, Ph.D. Candidate (2022--); co-advised
+1. Ahmed Sabbah, Ph.D. Candidate (2022--); co-advised
+1. Niveen Jaffal, Ph.D. Student (2024--); co-advised
 1. Cuong Tran, Ph.D. student (2025--)
 1. Mandana Ghadamian, Ph.D. student (2025--)
 1. Pelumi Ogunwale, Ph.D. student (2025--) <span style="color:green">_ORC Fellow_</span>
@@ -16,9 +19,7 @@ David Mohaisen, Professor (lab director)
 1. Steffen Camarato, Ph.D. student (2025--) <span style="color:green">_CSGrad4US Scholar_</span>
 1. Mukhtar Jussain, Ph.D. student (2025--) <span style="color:green">_Fulbright Scholar_</span>
 1. James Love, B.Sc. student (2025--) <span style="color:green">_SFS Scholar_</span>
-1. Mohammed Kharma, Ph.D. Candidate (2022; co-advised
-1. Ahmed Sabbah, Ph.D. Candidate (2022--); co-advised
-1. Niveen Jaffal, Ph.D. Student (2024--); co-advised
+
 
 Alumni
 ---

@@ -15,40 +15,41 @@ My name is David Mohaisen[^1], and I am a [Full Professor](https://www.cs.ucf.ed
 
 I obtained my Ph.D. from the [University of Minnesota](https://twin-cities.umn.edu/), in 2012, where I was a [fellow](https://cla.umn.edu/graduate-students/research-creative-inquiry/doctoral-dissertation-fellowship-ddf) advised by [Prof. Yongdae Kim](https://syssec.kaist.ac.kr/~yongdaek/). I spent several years before and after then in the research and development industry, working as a research engineer at [ETRI](https://etri.re.kr/intro.html) and as a (senior) research scientist at Verisign Labs. At UCF, I direct the Security and Analytics Lab (SEAL), where I have been fortunate to mentor, work with, and learn from several hardworking graduate and undergraduate students. 
 
-Current and Past Doctoral Advisees
+Current Doctoral Advisees
 ----
 Cuong Tran, Ph.D. student (2025--)\
 Pelumi Ogunwale, Ph.D. student (2025--)\
 Mandana Ghadamian, Ph.D. student (2025--)\
 Khalid Alquonus, Ph.D. student (2025--)\
 Steffen Camarato, Ph.D. student (2025--)\
-Mukhtar Jussain, Ph.D. student (2025--)\
+Mukhtar Jussain, Ph.D. student (2025--)
 
 
-
-[Jeff Spaulding](https://www.linkedin.com/in/jeffreyspaulding/) (CS, 2018) &rarr; Assistant Professor, [Canisius College](https://www.canisius.edu/) &rarr; Lead Engineer, [Booz Allen](https://www.boozallen.com/)\
-[Ashar Ahmad](https://www.linkedin.com/in/ahmad-ashar/) (CS, 2019) &rarr; VP Engineering, [Rapticore](https://www.rapticore.com/team)\
-[Mo Abuhamad](https://www.linkedin.com/in/abuhamadm) (CS, 2020) &rarr; Assistant Professor, [Loyola University Chicago](https://www.luc.edu/)\
-[Hisham Alasmary](https://www.linkedin.com/in/hisham-alasmary-24ba31189) (CS, 2020) &rarr;  Assistant Professor, [King Khalid University](https://www.kku.edu.sa/en)\
-[Rhongho Jang](https://www.linkedin.com/in/rhongho-jang-a57706152/) (CS, 2020) &rarr; Assistant Professor, [Wayne State University](https://wayne.edu/)\
-[Jeman Park](https://www.linkedin.com/in/jemanpark122/) (CS, 2020) &rarr; Research Scientist, [Georgia Institute of Technology](https://www.gatech.edu/)\
-[Jinchun Choi](https://www.linkedin.com/in/jinchunchoi/) (CS, 2020) &rarr; Sr Researcher, [ETRI](https://www.etri.re.kr/eng/main/main.etri)\
-[Afsah Anwar](https://www.linkedin.com/in/afsahanwar/) (CS, 2021) &rarr; Assistant Professor, [University of New Mexico](https://www.famu.edu/)\
-[Sultan Alshamrani](https://www.linkedin.com/in/sultan-alshamrani-52b7a588/) (CS, 2021) &rarr; Assistant Professor, [Saudi Electronic University](https://seu.edu.sa/en/home)\
-[Muhammad Saad](https://www.linkedin.com/in/muhammad-saad-b41665145/) (CS, 2021) &rarr; Sr Scientist, [PayPal](https://www.paypal.com/us/home)\
-[Ahmed Abusnaina](https://www.linkedin.com/in/ahmed-abusnaina-958b4b138/) (CS, 2022) &rarr; Research Scientist, [Meta](https://about.facebook.com/?utm_source=meta.com&utm_medium=redirect)\
-[Ülkü Meteriz-Yıldıran](https://www.linkedin.com/in/ulku-meteriz/) (CS, 2022) &rarr; Research Scientist, [Meta](https://about.facebook.com/?utm_source=meta.com&utm_medium=redirect)\
-[Abdulrahman Alabduljabbar](https://www.linkedin.com/in/alabduljabbar/) (CS, 2022) &rarr; Assistant Professor and Chair, [PSAU](https://www.psau.edu.sa/en)\
-Hattan Althebeiti (ECE, 2023) &rarr; Assistant Professor, Tabuk University\
-Mohammed Alkinoon (CS, 2024) &rarr; Lecturer, Old Dominion University\
-Mohamed Alqadhi (CS, 2024) &rarr; Assistant Professor, Institute of Public Administration\
-Ayodeji Adeniran (MST, 2024) &rarr; Architect, LeapXpert\
-Soohyeon Choi (CS, 2025)  &rarr; Research Scientist, Singapore Management University\
-Aziz Alghamdi (ECE, 2025)  &rarr; Assistant Professor, Jazan University\
-Ahod Alghureid (CS, 2025)  &rarr; Assistant Professor, PSAU\
-Ali Alkinoon (CS, 2025) &rarr; Lecturer (Teaching Faculty), University of Central Florida\
-Jie Li, Ph.D. Student (CS, 2025) &rarr; Lecturer (Teaching Faculty), University of Central Florida\
-Ilkin Isler, (CS, 2025) &rarr; Sr. Software Engineer, Universal Creative\
+Past Doctoral Advisees
+----
+1. [Jeff Spaulding](https://www.linkedin.com/in/jeffreyspaulding/) (CS, 2018) &rarr; Assistant Professor, [Canisius College](https://www.canisius.edu/) &rarr; Lead Engineer, [Booz Allen](https://www.boozallen.com/)\
+1. [Ashar Ahmad](https://www.linkedin.com/in/ahmad-ashar/) (CS, 2019) &rarr; VP Engineering, [Rapticore](https://www.rapticore.com/team)\
+1. [Mo Abuhamad](https://www.linkedin.com/in/abuhamadm) (CS, 2020) &rarr; Assistant Professor, [Loyola University Chicago](https://www.luc.edu/)\
+1. [Hisham Alasmary](https://www.linkedin.com/in/hisham-alasmary-24ba31189) (CS, 2020) &rarr;  Assistant Professor, [King Khalid University](https://www.kku.edu.sa/en)\
+1. [Rhongho Jang](https://www.linkedin.com/in/rhongho-jang-a57706152/) (CS, 2020) &rarr; Assistant Professor, [Wayne State University](https://wayne.edu/)\
+1. [Jeman Park](https://www.linkedin.com/in/jemanpark122/) (CS, 2020) &rarr; Research Scientist, [Georgia Institute of Technology](https://www.gatech.edu/)\
+1. [Jinchun Choi](https://www.linkedin.com/in/jinchunchoi/) (CS, 2020) &rarr; Sr Researcher, [ETRI](https://www.etri.re.kr/eng/main/main.etri)\
+1. [Afsah Anwar](https://www.linkedin.com/in/afsahanwar/) (CS, 2021) &rarr; Assistant Professor, [University of New Mexico](https://www.famu.edu/)\
+1. [Sultan Alshamrani](https://www.linkedin.com/in/sultan-alshamrani-52b7a588/) (CS, 2021) &rarr; Assistant Professor, [Saudi Electronic University](https://seu.edu.sa/en/home)\
+1. [Muhammad Saad](https://www.linkedin.com/in/muhammad-saad-b41665145/) (CS, 2021) &rarr; Sr Scientist, [PayPal](https://www.paypal.com/us/home)\
+1. [Ahmed Abusnaina](https://www.linkedin.com/in/ahmed-abusnaina-958b4b138/) (CS, 2022) &rarr; Research Scientist, [Meta](https://about.facebook.com/?utm_source=meta.com&utm_medium=redirect)\
+1. [Ülkü Meteriz-Yıldıran](https://www.linkedin.com/in/ulku-meteriz/) (CS, 2022) &rarr; Research Scientist, [Meta](https://about.facebook.com/?utm_source=meta.com&utm_medium=redirect)\
+1. [Abdulrahman Alabduljabbar](https://www.linkedin.com/in/alabduljabbar/) (CS, 2022) &rarr; Assistant Professor and Chair, [PSAU](https://www.psau.edu.sa/en)\
+1. Hattan Althebeiti (ECE, 2023) &rarr; Assistant Professor, Tabuk University\
+1. Mohammed Alkinoon (CS, 2024) &rarr; Lecturer, Old Dominion University\
+1. Mohamed Alqadhi (CS, 2024) &rarr; Assistant Professor, Institute of Public Administration\
+1. Ayodeji Adeniran (MST, 2024) &rarr; Architect, LeapXpert\
+1. Soohyeon Choi (CS, 2025)  &rarr; Research Scientist, Singapore Management University\
+1. Aziz Alghamdi (ECE, 2025)  &rarr; Assistant Professor, Jazan University\
+1. Ahod Alghureid (CS, 2025)  &rarr; Assistant Professor, PSAU\
+1. Ali Alkinoon (CS, 2025) &rarr; Lecturer (Teaching Faculty), University of Central Florida\
+1. Jie Li, Ph.D. Student (CS, 2025) &rarr; Lecturer (Teaching Faculty), University of Central Florida\
+1. Ilkin Isler, (CS, 2025) &rarr; Sr. Software Engineer, Universal Creative\
 
 Current Services
 ----

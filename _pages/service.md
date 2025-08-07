@@ -5,6 +5,36 @@ permalink: /service/
 author_profile: true
 ---
 
+University Services
+---
+
+1. Chair, Tenure & Promotion Committee, Department of Computer Science (2024–2026)
+1. Member, Faculty Senate (2024–2027)
+1. Member, Graduate Policy Committee, Graduate Council (Senate) (2024–2027)
+1. Chair, Graduate Policy Committee, Graduate Council (Senate) (2023)
+1. Member, Executive Committee, Artificial Intelligence Initiative (2022–2023)
+1. Chair, Faculty Search Committee (Policy), Cybersecurity and Privacy Cluster (2021–2022)
+1. Chair, Faculty Search Committee (Comp. Arch.), Department of Computer Science (2021–2022)
+1. Chair, Faculty Search Committee (Sys Security), Cybersecurity and Privacy Cluster (2021–2022)
+1. Chair, Instructors and Lecturers Promotion Committee, Department of Computer Science (elected) (2021/2022)
+1. Vice-Chair, Graduate Policy Committee, Graduate Council (Senate) (2021–2022)
+1. Chair, Instructors and Lecturers Promotion Committee, College of Engineering (elected) (2020/2021)
+1. Member, Faculty Senate (2018–2020)
+1. Coordinator, INHA-UCF Dual Degree Doctoral Program (2017–2020)
+1. Member, Executive Committee, Artificial Intelligence Initiative (2022– )
+1. Member, Conflict of Interest Committee, College of Graduate Studies (2021–2022)
+1. Member, Tenure and Promotion Committee, School of Modeling and Simulation (2021–2022)
+1. Member, Search Committee, Visiting Assistant Professor in FinTech (2021–2022)
+1. Member, Search Committee, Assistant VP for Research IT (2021–2022)
+1. Lead, Graduate Admission Committee (Security Area), Department of Computer Science (2019–2022)
+1. Member, Promotion and Tenure Committee, Department of Computer Science (2019/2020)
+1. Member, Faculty Search Committee (Policy), Cybersecurity and Privacy Cluster (2019–2020)
+1. Member, Faculty Search Committee (Systems), Cybersecurity and Privacy Cluster (2019–2020)
+1. Member, Instructors and Lecturers Promotion Committee, College of Engineering (elected) (2019/2020)
+1. Member-at-Large, Faculty Senate (2018–2020)
+1. Member, Graduate Policy Committee, College of Graduate Studies (2018–2020)
+1. Member, Faculty Cluster Initiative Lead Search Committee (Cyber Security and Privacy) (2017–2018)
+
 Editorial Boards
 ---
 1. Associate Editor, IEEE Transactions on Dependable and Secure Computing (2023--)\

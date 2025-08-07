@@ -17,14 +17,13 @@ I obtained my Ph.D. from the [University of Minnesota](https://twin-cities.umn.e
 
 Current and Past Doctoral Advisees
 ----
-Ali Alkinoon, Ph.D. Student (CS,  exp. 2025)\
-Jie Li, Ph.D. Student (CS,  exp. 2025)\
-Ilkin Isler, Ph.D. student (CS, exp. 2025)\
-Cuong Tran, Ph.D. student (started 2025)\
-Pelumi Ogunwale, Ph.D. student (incoming, 2025)\
-Mandana Ghadamian, Ph.D. student (incoming, 2025)\
-Reem Alharbi, Ph.D. student (incoming, 2025)\
-Steffen Camarato, Ph.D. student (incoming, 2025)
+Cuong Tran, Ph.D. student (2025--)\
+Pelumi Ogunwale, Ph.D. student (2025--)\
+Mandana Ghadamian, Ph.D. student (2025--)\
+Khalid Alquonus, Ph.D. student (2025--)\
+Steffen Camarato, Ph.D. student (2025--)\
+Mukhtar Jussain, Ph.D. student (2025--)\
+
 
 
 [Jeff Spaulding](https://www.linkedin.com/in/jeffreyspaulding/) (CS, 2018) &rarr; Assistant Professor, [Canisius College](https://www.canisius.edu/) &rarr; Lead Engineer, [Booz Allen](https://www.boozallen.com/)\
@@ -46,7 +45,10 @@ Mohamed Alqadhi (CS, 2024) &rarr; Assistant Professor, Institute of Public Admin
 Ayodeji Adeniran (MST, 2024) &rarr; Architect, LeapXpert\
 Soohyeon Choi (CS, 2025)  &rarr; Research Scientist, Singapore Management University\
 Aziz Alghamdi (ECE, 2025)  &rarr; Assistant Professor, Jazan University\
-Ahod Alghureid (CS, 2025)  &rarr; Assistant Professor, PSAU
+Ahod Alghureid (CS, 2025)  &rarr; Assistant Professor, PSAU\
+Ali Alkinoon (CS, 2025) &rarr; Lecturer (Teaching Faculty), University of Central Florida\
+Jie Li, Ph.D. Student (CS, 2025) &rarr; Lecturer (Teaching Faculty), University of Central Florida\
+Ilkin Isler, (CS, 2025) &rarr; Sr. Software Engineer, Universal Creative\
 
 Current Services
 ----
@@ -68,8 +70,8 @@ Honors and Awards
 
 Recent Updates
 ----
-👨🏻‍🏫 I (David) will be on leave during 2023-2024.
-👨🏻‍🏫 I am (David) looking for one student with VR-related experience.
-👨🏻‍🏫 06/2023: David will deliver a keynote on VR security at SNTA 2023, held in Orlando.
+👨🏻‍🏫 I (David) will be on leave during 2023-2024.\
+👨🏻‍🏫 I am (David) looking for one student with VR-related experience.\
+👨🏻‍🏫 06/2023: David will deliver a keynote on VR security at SNTA 2023, held in Orlando.\
 
 [^1]: Until 2020, I went by Aziz Mohaisen.

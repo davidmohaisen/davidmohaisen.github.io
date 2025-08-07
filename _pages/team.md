@@ -7,18 +7,15 @@ author_profile: true
 
 Current Members
 ---
+David Mohaisen, Professor (lab director)
 
-1. David Mohaisen, Professor (lab director)
-1. Hattan Althebeiti, PhD candidate (post-qual, ECE)
-1. Mohammed Alkinoon, PhD student (post-qual; CS)
-1. Soohyeon Choi, PhD student (post-qual; CS)
-1. Ayo Adeniran, PhD student (post-qual, MST)
-1. Mohammed Alqadhi, PhD student (post-qual, CS)
-1. Ali Alkinoon, PhD student (CS)
-1. Jie Li, PhD student (CS)
-1. Aziz Alghamdi, PhD student (ECE)
-1. Ahod Alguried, PhD student (CS)
-1. Kieran Human, MS student (CS) 
+1. Cuong Tran, Ph.D. student (2025--)\
+1. Mandana Ghadamian, Ph.D. student (2025--)\
+1. Pelumi Ogunwale, Ph.D. student (2025--) <span style="color:green">_ORC Fellow_</span>\
+1. Khalid Alquonus, Ph.D. student (2025--) <span style="color:green">_SACM Scholar_</span>\
+1. Steffen Camarato, Ph.D. student (2025--) <span style="color:green">_CSGrad4US Scholar_</span>\
+1. Mukhtar Jussain, Ph.D. student (2025--) <span style="color:green">_Fulbright Scholar_</span>\
+1. James Love, B.Sc. student (2025--) <span style="color:green">_SFS Scholar_</span>
 
 Alumni
 ---
@@ -34,7 +31,19 @@ Alumni
 1. Muhammad Saad (PhD, 2021) → Research Scientist, PayPal
 1. Ahmed Abusnaina (PhD, 2022) → Research Scientist, Facebook
 1. Ülkü Meteriz-Yıldıran (PhD, 2022) → Research Scientist, Facebook
-1. Abdulrahman Alabduljabbar (PhD, 2022) → Asst. Prof., PSAU
+1. Abdulrahman Alabduljabbar (PhD, 2022) → Asst. Prof., 
+1. Hattan Althebeiti (PhD, CpE, 2023) &rarr; Assistant Professor, Tabuk University
+1. Mohammed Alkinoon (PhD, 2024) &rarr; Lecturer, Old Dominion University
+1. Mohamed Alqadhi (PhD, 2024) &rarr; Assistant Professor, Institute of Public Administration
+1. Ayodeji Adeniran (PhD, MST, 2024) &rarr; Architect, LeapXpert
+1. Soohyeon Choi (PhD, 2025)  &rarr; Research Scientist, Singapore Management University
+1. Aziz Alghamdi (PhD, CpE, 2025)  &rarr; Assistant Professor, Jazan University
+1. Ahod Alghureid (PhD, 2025)  &rarr; Assistant Professor, PSAU
+1. Ali Alkinoon (PhD, 2025) &rarr; Lecturer (Teaching Faculty), University of Central Florida
+1. Jie Li, Ph.D. (PhD, 2025) &rarr; Lecturer (Teaching Faculty), University of Central Florida
+1. Ilkin Isler (PhD, 2025) &rarr; Sr. Software Engineer, Universal Creative
+2. Nigel Francis (MS, 2024) &rarr; ??
+1. Kieran Human, (MS, 2023) &rarr; ThreatLocker
 1. S. Upadhyay (MS, 2020) → Deloitte
 1. Priyanka Gona (MS, 2020) → Amazon
 1. Necip Yildiran (PhD student; 2018--2020, DNF; MS, 2020) → PhD @ UCF (w/ Paul Gazzillo)
@@ -46,6 +55,12 @@ Alumni
 1. Woodams Clark (MS, 2016) → DoD
 1. Pranav Jain (MS, 2016) → Qualcomm
 1. Qi Li (MS, 2016), → Facebook
+1. Sachin Mishra (BS, 2025)
+1. Nolan Metcalf (BS, 2025)
+1. Zakaria Antifit (BS, 2025)
+1. Noah Lawton (BS, 2025)
+1. Giullya Souza Santos (BS, 2025)
+1. Ra’Id Naeem (BS, 2025)
 1. William Chen (BS, 2021) → graduate student at CMU
 1. Brett Fazio (BS, 2021) → engineer at 2sigma
 1. M. Young (BS, 2019)
@@ -68,15 +83,20 @@ Visitors
 5. Dr. Ah Reum Kang, Postdoc, 2016 -> Postdoc at UB -> Postdoc Soonchunhyang University
 6. Dr. Omar Al-Ibrahim, Postdoc, 2016 -> tenure-track assistant professor at Kuwait University
 
-Other Doctoral Students (Committee Member)
+Other Doctoral/MS Students (Committee Member)
 ---
-1. Hayreddin Ceker. (2017) University at Buffalo
-1. An Wang. (2018) George Mason University (external member; CS)
-1. Amirali Sanatinia. (2018) Northeastern University (external member; CS)
-1. Hossein Rezaeighaleh. (2020) University of Central Florida (CS)
-1. Mazen Alwadi. (2020) University of Central Florida (ECE)
-1. Victor Cook. (2021) University of Central Florida (CS)
-1. Jiayi Chen. (2022) University of Waterloo (external examiner; CS) 
+1. Hayreddin Ceker.  (PhD, 2017) University at Buffalo
+1. An Wang. (PhD, 2018) George Mason University (external member; CS)
+1. Amirali Sanatinia. (PhD, 2018) Northeastern University (external member; CS)
+1. Hossein Rezaeighaleh. (PhD, 2020) University of Central Florida (CS)
+1. Mazen Alwadi. (PhD, 2020) University of Central Florida (ECE)
+1. Victor Cook. (PhD, 2021) University of Central Florida (CS)
+1. Jiayi Chen. (PhD, 2022) University of Waterloo (external examiner; CS)
+1. Mohammed Alkhowaiter (PhD, 2023) University of Central Florida (ECE)
+1. Zachary Painter (PhD, 2024) University of Central Florida (CS)
+1. Ibrahim Alharbi (PhD, 2024) University of Central Florida (CS)
+1. Ahmed Hariri (PhD, 2025) University of Central Florida (CS)
+1. Zhaohui Wang (MS, 2025), Charles Darwin University, Australia
 
 Interns Hosted at Verisign Labs
 ---

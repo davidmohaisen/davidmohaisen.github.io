@@ -52,6 +52,11 @@ Ilkin Isler, (CS, 2025) &rarr; Sr. Software Engineer, Universal Creative\
 
 Current Services
 ----
+_TPC MEMBER:_ 35th USENIX Security Symposium (Security 2026)\
+_TPC MEMBER:_ 26th Privacy Enhancing Technologies Symposium (PETS 2026)\
+_TPC MEMBER:_ The 21st ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS 2026)\
+_TPC co-Chair:_ 45th IEEE International Conference on Distributed Computing Systems (ICDCS 2025)--Blockchain Track\
+
 _Associate Editor:_ [IEEE Transactions on Dependable and Secure Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)\
 _General Co-Chair:_ [IEEE Conference on Communications and Network Security (CNS 2023)](https://cns2023.ieee-cns.org/)\
 _TPC Co-Chair:_ [International Conference on Networked Systems (Netys 2023)](https://netys.net)\
@@ -59,6 +64,9 @@ _TPC MEMBER:_ [ACM CCS 2023](https://www.sigsac.org/ccs/CCS2023/), [ICICS 2023](
 
 Honors and Awards
 ----
+* 2025 Faculty Excellence in Mentoring Doctoral Students, University-Wide (UCF)
+* 2024 ACM Distinguished Speaker (2024–2027)
+* 2022 FCI Faculty Fellow, University of Central Florida
 * 2022 UCF Teaching Incentive Award for Excellence in Teaching
 * 2022 UCF Research Incentive Award for Excellence in Research
 * 2022 CECS Excellence in Graduate Teaching Award
@@ -66,7 +74,20 @@ Honors and Awards
 * Best Extended Abstract Award of IEEE DSN 2021
 * Best Student Paper Award Nominee of ACM ICS 2021
 * Distinguished TPC member of IEEE INFOCOM (2016-2021)
-* Best Paper Award of IEEE Systems Journal (2020) 
+* Best Paper Award, WISE 2024
+* Best Paper Award Nominee, IEEE VR 2022
+* IEEE TPDS Award for Editorial Excellence, 2022
+* Best Extended Abstract Award, IEEE DSN 2021
+* Best Student Paper Award Nominee, ACM ICS 2021
+* 2021 ACM Distinguished Speaker (2021–2024)
+* Best Paper Award of IEEE Systems Journal (2020)
+* Best Paper – Runner-up Award, IEEE DSC 2019
+* Best Paper Award, ACM DLoT 2018
+* Senior Member, ACM (2018)
+* Best Student Paper Award, IEEE ICDCS 2017
+* 2017 Visiting Faculty Research Award, U.S. Air Force Research Laboratory
+* 2016 Summer Faculty Fellowship Award, U.S. Air Force Research Laboratory
+* Senior Member, IEEE (2015)
 
 Recent Updates
 ----

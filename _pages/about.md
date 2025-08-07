@@ -51,7 +51,7 @@ Current Services
 _TPC:_ 35th USENIX Security Symposium (Security 2026)\
 _TPC:_ 26th Privacy Enhancing Technologies Symposium (PETS 2026)\
 _TPC:_ 21st Conference on Computer and Communications Security (ACM ASIACCS 2026)\
-_Co-Chair:_ 45th IEEE Int. Conf on Distributed Computing Systems (ICDCS 2025)--Blockchain Track
+_Co-Chair:_ 45th IEEE Int. Conf on Distributed Comp. Systems (ICDCS 2025)--Blockchain
 
 Recent Services
 ----

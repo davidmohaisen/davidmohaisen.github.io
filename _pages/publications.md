@@ -31,9 +31,83 @@ A. Alabduljabbar, R. Ma, A. Abusnaina, R. Jang, S. Chen, D. Nyang, M. Mohaisen\
 
 Journal and Conference Papers
 ---
+1. *Attributing ChatGPT-generated Source Codes*\
+S. Choi and D. Mohaisen\
+**[IEEE TDSC (accepted)]**, 2025.
+
+1. *Blockchain Security and Privacy Examined: Threats, Challenges, Applications, and Tools*\
+A. Alghuried, M. Alkinoon, M. Mohaisen, A. Wang, C. C. Zou, and D. Mohaisen\
+**[ACM DLT (accepted)]**, 2025.
+
+1. *Mujaz: A Summarization-based Approach for Normalized Vulnerability Description*\
+H. Althebeiti, B. Fazio, W. Chen, J. Park, and D. Mohaisen\
+**[IEEE TDSC (accepted)]**, 2025.
+
+1. *SHIELD: Thwarting Code Authorship Attribution*\
+M. Abuhamad, C. Jung, D. Mohaisen, and D. Nyang\
+**[IEEE TDSC (accepted)]**, 2025.
+
+1. *Enhancing Vulnerability Reports with Automated and Augmented Description Summarization*\
+H. Althebeiti, M. Alkinoon, M. Mohaisen, S. Salem, D. Nyang, and D. Mohaisen\
+**[IEEE Transactions on Big Data (accepted)]**, 2025.
+
+
 1. [Analyzing In-browser Cryptojacking](https://davidmohaisen.github.io/files/tdsc-cj.pdf)\
-M. Saad, D. Mohaisen\
-**[IEEE TDSC]**, 2024 (to appear).
+M. Saad, D. Mohaisen\6. *A Comprehensive Analysis of Evolving Permission Usage in Android Apps: Trends, Threats, and Ecosystem Insights*\
+A. Alkinoon, T. C. Dang, A. Alghuried, A. Alghamdi, S. Choi, M. Mohaisen, A. Wang, S. Salem, and D. Mohaisen\
+**[JCP (invited, accepted)]**, 2025.
+
+1. *Large Language Models in Cybersecurity: Applications, Vulnerabilities, and Defense Techniques*\
+N. O. Jaffal, M. Alkhanafseh, and D. Mohaisen\
+**[AI (invited, accepted)]**, 2025.
+
+9. *From Large to Mammoth: A Comparative Evaluation of Large Language Models in Vulnerability Detection*\
+J. Lin and D. Mohaisen\
+**[NDSS]**, 2025.
+
+10. *Attributing ChatGPT-transformed synthetic code*\
+S. Choi, A. Alkinoon, A. Alghuried, A. Alghamdi, and D. Mohaisen\
+**[ICDCS]**, 2025.
+
+1. *xr-droid: A Benchmark Dataset for AR/VR and Security Applications*\
+A. Alghamdi, A. Alkinoon, A. Alghried, and D. Mohaisen\
+**[IEEE TDSC]**, 2024.
+
+11. *Measuring DNS-over-HTTPS Downgrades: Prevalence, Techniques, and Bypass Strategies*\
+J. Lee, D. Mohaisen, and M. S. Kang\
+**[CoNEXT]**, 2024.
+
+12. *Enhancing Network Attack Detection with Distributed and In-Network Data Collection System*\
+S. Mirnajafizadeh, A. R. Sethuram, D. Mohaisen, D. Nyang, and R. Jang\
+**[USENIX Security]**, 2024.
+
+13. *Industry-Specific Vulnerability Assessment*\
+M. Al Kinoon, H. Althebeiti, A. Al Kinoon, S. Salem, M. Mohaisen, and D. Mohaisen\
+**[WISE]**, 2024.
+
+14. *Exposing the Limitations of Machine Learning for Malware Detection Under Concept Drift*\
+A. Abusnaina, A. Anwar, M. Saad, A. Alabduljabbar, R. Jang, S. Salem, and D. Mohaisen\
+**[WISE — Best Paper Award]**, 2024.
+
+15. *Through the Looking Glass: LLM-Based Analysis of AR/VR Android Applications Privacy Policies*\
+A. Alghamdi and D. Mohaisen\
+**[ICMLA]**, 2024.
+
+16. *Evaluating Large Language Models in Vulnerability Detection Under Variable Context Windows*\
+J. Lin and D. Mohaisen\
+**[ICMLA]**, 2024.
+
+17. *RL-Based Speculative Installation of Unseen Flows in SDNs for Low-Latency Applications*\
+A. Hariri, M. Yuksel, and D. Mohaisen\
+**[ICMLCN]**, Sweden, May 5–8, 2024.
+
+18. *Simple Perturbations Subvert Ethereum Phishing Transactions Detection: An Empirical Analysis*\
+A. Alghuried and D. Mohaisen\
+**[WISA]**, Jeju Island, South Korea, August 22–24, 2024.
+
+19. *Dissecting the Infrastructure Used in Web-Based Cryptojacking: A Measurement Perspective*\
+A. Adeniran, K. Human, and D. Mohaisen\
+**[WISA]**, Jeju Island, South Korea, August 22–24, 2024.
 
 1. [Exploration of Bitflip’s Effect on DNN Accuracy in Plaintext and Ciphertext]()\
 K. Thomas, M. Santriaji, D. Mohaisen and Y. Solihin\

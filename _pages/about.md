@@ -56,12 +56,17 @@ Current Services
 _TPC MEMBER:_ 35th USENIX Security Symposium (Security 2026)\
 _TPC MEMBER:_ 26th Privacy Enhancing Technologies Symposium (PETS 2026)\
 _TPC MEMBER:_ The 21st ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS 2026)\
-_TPC co-Chair:_ 45th IEEE International Conference on Distributed Computing Systems (ICDCS 2025)--Blockchain Track\
+_TPC co-Chair:_ 45th IEEE International Conference on Distributed Computing Systems (ICDCS 2025)--Blockchain Track
 
+Recent Services
+----
 _Associate Editor:_ [IEEE Transactions on Dependable and Secure Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)\
+_Associate Editor:_ IEEE Transactions on Mobile Computing\
+_Associate Editor:_ IEEE Transactions on Parallel and Distributed Systems\
+_Associate Editor:_ IEEE Transactions on Cloud Computing\
 _General Co-Chair:_ [IEEE Conference on Communications and Network Security (CNS 2023)](https://cns2023.ieee-cns.org/)\
 _TPC Co-Chair:_ [International Conference on Networked Systems (Netys 2023)](https://netys.net)\
-_TPC MEMBER:_ [ACM CCS 2023](https://www.sigsac.org/ccs/CCS2023/), [ICICS 2023](https://icics23.nankai.edu.cn/), [WWW 2023](https://www2023.thewebconf.org/), [ICDCS 2023](https://icdcs2023.icdcs.org/)
+_TPC MEMBER:_ IEEE S&P, ACM CCS, ISOC NDSS, IEEE ICDCS, WWW, ICICS
 
 Honors and Awards
 ----

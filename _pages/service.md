@@ -71,41 +71,97 @@ Funding Proposals Reviewer
 Conference Program Committee Memberships
 ---
 
-1. **2023:** CCS, S\&P, WWW, ICDCS, INFOCOM, ICICS
-2. **2022:** CCS, PETS, AAAI, ICDCS
-3. **2021:** AAAI, ICDCS, WiSec, PETS, INFOCOM, NETYS
-4. **2020:** PETS, ICDCS, INFOCOM, CIC, WiSec, CIC, SecureComm
-5. **2019:** PETS, ICDCS, INFOCOM, CNS, SecureComm
-6. **2018:** AsiaCCS, ICDCS, INFOCOM, CNS, SecureComm, ICWSM, NDSS
-7. **2017:** ICDCS, INFOCOM, CNS, SecureComm, DBSEC
-8. **2016:** AsiaCCS, CNS, SecureComm, ICWSM, DBSEC
-9. **2015:** AsiaCCS, DIMVA, WWW 
-10. **2014:** AsiaCCS, ICDCS, CNS, ICWSM, DIMVA, WWW
-11. **2013:** ICISC, Networking
+1.  USENIX Security Symposium (Security), 2026
+1.  Privacy Enhancing Technologies Symposium (PETS), 2026
+1.  Network and Distributed System Security Symposium (NDSS), 2025
+1.  Privacy Enhancing Technologies Symposium (PETS), 2025
+1.  ACM Conference on Computer and Communications Security (CCS), 2024
+1.  IEEE International Conference on Distributed Computing Systems (ICDCS), 2024
+  1.  IEEE International Symposium on Reliable Distributed Systems (SRDS), 2024
+  1.  ACM Workshop on Privacy in the Electronic Society (WPES), 2024
+  1.  ACM Conference on Computer and Communications Security (CCS), 2023
+  1.  IEEE Symposium on Security and Privacy (S\&P), 2023
+  1.  ACM Web Conference (WWW), 2023
+  1.  IEEE International Conference on Distributed Computing Systems (ICDCS), 2023
+  1.  IEEE International Conference on Computer Communications (INFOCOM), 2023
+  1.  International Conference on Information and Communications Security (ICICS), 2023
+  1.  International Conference on Cryptology and Network Security (CANS), 2023
+  1.  Privacy Enhancing Technologies Symposium (PETS), 2023
+  1.  ACM Conference on Computer and Communications Security (CCS), 2022
+  1.  Privacy Enhancing Technologies Symposium (PETS), 2022
+  1.  AAAI Conference on Artificial Intelligence (AAAI), 2022
+  1.  IEEE International Conference on Distributed Computing Systems (ICDCS), 2022
+  1.  AAAI Conference on Artificial Intelligence (AAAI), 2021
+  1.  IEEE International Conference on Distributed Computing Systems (ICDCS), 2021
+  1.  ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec), 2021
+  1.  Privacy Enhancing Technologies Symposium (PETS), 2021
+  1.  IEEE International Conference on Computer Communications (INFOCOM), 2021
+  1.  International Conference on Networked Systems (NETYS), 2021
+  1.  Privacy Enhancing Technologies Symposium (PETS), 2020
+  1.  IEEE International Conference on Distributed Computing Systems (ICDCS), 2020
+  1.  IEEE International Conference on Computer Communications (INFOCOM), 2020
+  1.  IEEE International Conference on Cloud Computing (CIC), 2020
+  1.  ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec), 2020
+  1.  Int. Conference on Security and Privacy in Communication Networks (SecureComm), 2020
+  1.  Privacy Enhancing Technologies Symposium (PETS), 2019
+  1.  IEEE International Conference on Distributed Computing Systems (ICDCS), 2019
+  1.  IEEE International Conference on Computer Communications (INFOCOM), 2019
+  1.  IEEE Conference on Communications and Network Security (CNS), 2019
+  1.  Int. Conference on Security and Privacy in Communication Networks (SecureComm), 2019
+  1.  ACM Asia Conference on Computer and Communications Security (AsiaCCS), 2018
+  1.  IEEE International Conference on Distributed Computing Systems (ICDCS), 2018
+  1.  IEEE International Conference on Computer Communications (INFOCOM), 2018
+  1.  IEEE Conference on Communications and Network Security (CNS), 2018
+  1.  Int. Conference on Security and Privacy in Communication Networks (SecureComm), 2018
+  1.  International Conference on Web and Social Media (ICWSM), 2018
+  1.  Network and Distributed System Security Symposium (NDSS), 2018
+  1.  IEEE International Conference on Distributed Computing Systems (ICDCS), 2017
+  1.  IEEE International Conference on Computer Communications (INFOCOM), 2017
+  1.  IEEE Conference on Communications and Network Security (CNS), 2017
+  1.  Int. Conference on Security and Privacy in Communication Networks (SecureComm), 2017
+  1.  Data and Applications Security and Privacy Conference (DBSEC), 2017
+  1.  ACM Asia Conference on Computer and Communications Security (AsiaCCS), 2016
+  1.  IEEE Conference on Communications and Network Security (CNS), 2016
+  1.  Int. Conference on Security and Privacy in Communication Networks (SecureComm), 2016
+  1.  International Conference on Web and Social Media (ICWSM), 2016
+  1.  Data and Applications Security and Privacy Conference (DBSEC), 2016
+  1.  ACM Asia Conference on Computer and Communications Security (AsiaCCS), 2015
+  1.  Conf. on Detection of Intrusions and Malware \& Vulnerability Assessment (DIMVA), 2015
+  1.  ACM Web Conference (WWW), 2015
+  1.  ACM Asia Conference on Computer and Communications Security (AsiaCCS), 2014
+  1.  IEEE International Conference on Distributed Computing Systems (ICDCS), 2014
+  1.  IEEE Conference on Communications and Network Security (CNS), 2014
+  1.  International Conference on Web and Social Media (ICWSM), 2014
+  1.  Conf. on Detection of Intrusions and Malware \& Vulnerability Assessment (DIMVA), 2014
+  1.  ACM Web Conference (WWW), 2014
+  1.  International Conference on Information Security and Cryptology (ICISC), 2013
+  1.  International Symposium on Computer Networking (Networking), 2013
 
 Conference and Workshop Organization
 ---
-1. TPC co-chair (with Thomas Weis), Netys 2023
-2. General co-chair (with Chunyi Peng), CNS 2023 
-3. Sponsorship co-chair, ISOC NDSS 2023
-4. Sponsorship co-chair, ACM CCS 2021
-5. TPC co-chair, IEEE MSN 2021 (security and privacy track)
-6. TPC co-chair, IEEE ICDCS (blockchain track)
-7. TPC co-chair, CSoNET 2021
-8. Vice Chair, Technical Committee on the Internet, IEEE Computer Society
-9. PC meeting co-chair, IEEE INFOCOM
-10. Tutorial chair, ACM/IEEE SEC
-11. Publicity co-chair, IEEE CNS
-12. General co-chair (with Z. Zhang), ACM CoNEXT
-13. TPC co-chair, EAI SECURECOMM
-14. TPC co-chair, IEEE ICPADS (security track)
-15. TPC co-chair, IEEE ICC (security track)
-16. Posters co-chair, ACM WiSec
-17. Workshops chair, ACM/IEEE SEC
-18. Workshops co-chair, IEEE DSC
-19. TPC co-chair, IEEE ICASSP (security track)
-20. TPC co-chair, IEEE MASS (security track)
-21. TPC co-chair, ACM AsiaCCS-SCC
-22. Publicity co-chair, ACM ASIACCS
-23. Treasurer, ACM MobiSys
-24. Travel co-chair, IEEE CNS
+1. TPC Co-Chair, BC Track, IEEE Int. Conf. on Dist. Computing Systems (ICDCS), 2025
+1. TPC Co-Chair, Int. Conf. on Networked Systems (NETYS), 2023
+1.  General Co-Chair, IEEE Conf. on Communications and Network Security (CNS), 2023
+1.  Sponsorship Co-Chair, ISOC Network and Dist. System Security Symp. (NDSS), 2023
+1.  Sponsorship Co-Chair, ACM Conf. on Computer and Communications Security (CCS), 2021
+1.  TPC Co-Chair, S\&P Track, IEEE Int. Conf. on Mobile and Sensor Networks (MSN), 2021
+1.  TPC Co-Chair, BC Track, IEEE Int. Conf. on Dist. Computing Systems (ICDCS), 2021
+1.  TPC Co-Chair, Int. Conf. on Social Computing and Social Media (CSoNet), 2021
+1.  Vice Chair, Tech. Comm. on the Internet, IEEE Computer Society, 2020--present
+1.  PC Meeting Co-Chair, IEEE Int. Conf. on Computer Communications (INFOCOM), 2020
+1.  Tutorial Chair, ACM/IEEE Symp. on Edge Computing (SEC), 2020
+1.  Publicity Co-Chair, IEEE Conf. on Communications and Network Security (CNS), 2020
+1.  General Co-Chair, ACM Int. Conf. on emerging Nets. EXp. and Tech. (CoNEXT), 2019
+1.  TPC Co-Chair, EAI Int. Conf. on Security and Privacy in Comm. Nets (SecureComm), 2019
+1.  TPC Co-Chair, S\&P Track, IEEE Int. Conf. on Parallel and Dist. Systems (ICPADS), 2019
+1.  TPC Co-Chair, S\&P Track, IEEE Int. Conf. on Communications (ICC), 2019
+1.  Posters Co-Chair, ACM Conf. on Sec. and Pri. in Wireless and Mobile Net (WiSec), 2019
+1.  Workshops Chair, ACM/IEEE Symp. on Edge Computing (SEC), 2019
+1.  Workshops Co-Chair, IEEE Conf. on Dependable and Secure Computing (DSC), 2019
+1.  TPC Co-Chair, S\&P T., IEEE Int. Conf. on Acos., Speech, and Sig. Proc. (ICASSP), 2018
+1.  TPC Co-Chair, S\&P T., IEEE Int. Conf. on Mobile Ad-Hoc and Sensor Sys (MASS), 2018
+1.  TPC Co-Chair, SCC Workshop, ACM AsiaCCS Symp. on Cybersecurity in Comm., 2018
+1.  Publicity Co-Chair, ACM Asia Conf. on Computer and Comm. Security (AsiaCCS), 2018
+1.  Treasurer, ACM Int. Conf. on Mobile Systems, Applications, and Services (MobiSys), 2017
+1.  Travel Co-Chair, IEEE Conf. on Communications and Network Security (CNS), 2016
+

@@ -56,7 +56,7 @@ H. Althebeiti, M. Alkinoon, M. Mohaisen, S. Salem, D. Nyang, and D. Mohaisen\
 M. Saad, D. Mohaisen\
 **[IEEE TDSC (accepted)]**, 2025.
 
-\6. *A Comprehensive Analysis of Evolving Permission Usage in Android Apps: Trends, Threats, and Ecosystem Insights*\
+6. *A Comprehensive Analysis of Evolving Permission Usage in Android Apps: Trends, Threats, and Ecosystem Insights*\
 A. Alkinoon, T. C. Dang, A. Alghuried, A. Alghamdi, S. Choi, M. Mohaisen, A. Wang, S. Salem, and D. Mohaisen\
 **[JCP (invited, accepted)]**, 2025.
 

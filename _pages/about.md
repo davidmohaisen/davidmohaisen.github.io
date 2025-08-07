@@ -27,7 +27,7 @@ James Love, B.Sc. student (2025--) <span style="color:green">_SFS Scholar_</span
 
 Past Doctoral Advisees
 ----
-1. [Jeff Spaulding](https://www.linkedin.com/in/jeffreyspaulding/) (CS, 2018) &rarr; PM at NVIDIA
+1. [Jeff Spaulding](https://www.linkedin.com/in/jeffreyspaulding/) (CS, 2018) &rarr; PM at [NVIDIA](https://developer.nvidia.com/blog/author/jspaulding/)
 1. [Ashar Ahmad](https://www.linkedin.com/in/ahmad-ashar/) (CS, 2019) &rarr; VP Engineering, [Rapticore](https://www.rapticore.com/team)
 1. [Mo Abuhamad](https://www.linkedin.com/in/abuhamadm) (CS, 2020) &rarr; Assistant Professor, [Loyola University Chicago](https://www.luc.edu/)
 1. [Hisham Alasmary](https://www.linkedin.com/in/hisham-alasmary-24ba31189) (CS, 2020) &rarr;  Assistant Professor, [King Khalid University](https://www.kku.edu.sa/en)
